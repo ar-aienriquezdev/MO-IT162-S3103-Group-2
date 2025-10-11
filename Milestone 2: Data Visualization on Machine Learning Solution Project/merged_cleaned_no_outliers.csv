@@ -1,0 +1,1123 @@
+customer_id,age,gender,location,incomelevel,signupdate,total_spent,avg_spent,num_transactions,max_transaction,min_transaction,engagement_score,age_group,age_outlier,total_spent_outlier,avg_spent_outlier,num_transactions_outlier,max_transaction_outlier,min_transaction_outlier,engagement_score_outlier
+9207fa75-5758-48d1-94ad-19c041e0520f,51.0,Female,Jensenberg,Low,2022-11-17,1157.495,578.7475,2,660.87,496.625,0.0,51–65,False,False,False,False,False,False,False
+5fb09cd8-a473-46f7-80bd-6e49cf509078,45.0,Female,Castilloport,High,2020-07-21,976.88,976.88,1,976.88,976.88,0.0,36–50,False,False,False,False,False,False,False
+7d1f2bbc-8d16-4fbc-9b37-ece3324e8ed4,50.0,Female,Jessebury,High,2023-08-24,733.46,733.46,1,733.46,733.46,0.0,36–50,False,False,False,False,False,False,False
+2de49c7c-32ae-4ba8-b058-622a090d7094,53.0,Female,Emilyville,Low,2022-02-13,1388.365,462.78833333333336,3,615.28,276.46,0.0,51–65,False,False,False,False,False,False,False
+9f2128cd-2f2b-4f71-987c-29fd045021f0,45.0,Female,Lake Erin,Medium,2022-04-26,743.6,743.6,1,743.6,743.6,0.0,36–50,False,False,False,False,False,False,False
+40f5a5dd-a46f-4a5e-8c0f-fe04389ddec8,45.0,Female,Mariaberg,High,2024-02-18,1180.89,590.4449999999999,2,719.78,461.11,0.0,36–50,False,False,False,False,False,False,False
+aae60ad7-5553-4d10-a637-93d5dcc98e4a,45.0,Male,Brownfort,Low,2021-12-02,116.46,116.46,1,116.46,116.46,0.0,36–50,False,False,False,False,False,False,False
+8602d631-457c-49c1-8b59-8efb2a4448d4,51.0,Male,East Keithville,High,2022-04-17,815.21,815.21,1,815.21,815.21,0.0,51–65,False,False,False,False,False,False,False
+b2f4c25e-be11-4912-9d14-5c288616e56e,29.0,Male,South Timothyhaven,High,2023-07-09,533.94,533.94,1,533.94,533.94,0.0,26–35,False,False,False,False,False,False,False
+fd63f236-3ec3-401d-9fa1-53bda0bd7c0e,45.0,Male,Thomasbury,Low,2021-05-29,31.09,31.09,1,31.09,31.09,0.0,36–50,False,False,False,False,False,False,False
+ef562111-91d8-47bc-a2b1-d6622604fd3d,61.0,Female,Loganbury,Low,2020-10-05,624.07,624.07,1,624.07,624.07,0.0,51–65,False,False,False,False,False,False,False
+88c11bb5-495a-4fa4-9dca-ba16c044b52f,29.0,Male,Cruzville,,2022-01-03,320.91,320.91,1,320.91,320.91,0.0,26–35,False,False,False,False,False,False,False
+36bc83c7-adc6-45b8-960d-685e9d19661e,32.0,Female,New Annafort,Medium,2020-01-21,649.14,649.14,1,649.14,649.14,0.0,26–35,False,False,False,False,False,False,False
+a800ccba-e1ca-4f52-ad9f-14f3432699c9,45.0,Male,Randyton,,2022-10-16,104.73,52.364999999999995,2,204.73,-100.0,0.0,36–50,False,False,False,False,False,False,False
+3151b4f8-afe8-405a-b152-aa1cc8616f05,64.0,Male,East Brianfort,Low,2024-02-06,154.02,154.02,1,154.02,154.02,0.0,51–65,False,False,False,False,False,False,False
+013c4cd9-1d0f-4004-8772-065ab426d105,39.0,Male,South Jamesburgh,Medium,2022-08-24,0.0,0.0,1,0.0,0.0,0.0,36–50,False,False,False,False,False,False,False
+c9f831b4-43cf-4ed9-9b47-09542e239c70,53.0,Female,East Ryanbury,Medium,2023-10-12,1018.38,509.19,2,703.27,315.11,0.0,51–65,False,False,False,False,False,False,False
+348c5ab5-992d-4780-ba71-d1a5e3818191,46.0,Female,New Jesseside,Low,2023-09-24,626.22,626.22,1,626.22,626.22,0.0,36–50,False,False,False,False,False,False,False
+e8a5fdb8-fcd9-450c-9635-e376266c8bcf,48.0,Female,Robinburgh,High,2024-06-08,1529.51,509.83666666666664,3,645.53,309.51,0.0,36–50,False,False,False,False,False,False,False
+f381038c-b3ed-4561-84b1-0f60d4afb6c9,39.0,Male,New Diana,,2023-05-12,1689.49,563.1633333333333,3,849.85,282.78,0.0,36–50,False,False,False,False,False,False,False
+f43422cc-a731-4574-a05d-9adf4dd4bea4,54.0,Female,Huberfurt,Low,2023-01-03,615.38,615.38,1,615.38,615.38,0.0,51–65,False,False,False,False,False,False,False
+30dc519a-a52c-465c-8678-8110e7bd13ed,37.0,Male,Port Brandonmouth,High,2022-08-20,1330.155,665.0775,2,833.53,496.625,0.0,36–50,False,False,False,False,False,False,False
+c30de55f-687c-46f5-bbd2-a9e73d2d138d,44.0,Male,Harringtontown,Medium,2023-07-07,736.46,736.46,1,736.46,736.46,0.0,36–50,False,False,False,False,False,False,False
+d6d22cf1-649a-4b97-9a9b-8ebc1ebe89c9,34.0,Female,Wilkersonbury,High,2023-07-10,587.94,293.97,2,297.25,290.69,0.0,26–35,False,False,False,False,False,False,False
+e8cbd1fc-5d2d-472a-8c68-8283bb58c8ae,26.0,Male,Latoyaville,Low,2019-12-23,93.86,93.86,1,93.86,93.86,0.0,26–35,False,False,False,False,False,False,False
+2a8b0748-3a77-47ec-a6e9-c8c191b39d62,64.0,Male,Amyside,Medium,2022-07-11,1133.19,566.595,2,943.57,189.62,0.0,51–65,False,False,False,False,False,False,False
+afc2a89b-0b66-4b13-83d0-54cc54e5dae0,36.0,Female,Jacobview,High,2021-09-27,855.81,855.81,1,855.81,855.81,0.0,36–50,False,False,False,False,False,False,False
+05abacfa-de8a-4606-a35d-7487ed7554c7,56.0,Female,South Tammy,Medium,2023-01-22,1557.41,778.7049999999999,2,876.79,680.62,0.0,51–65,False,False,False,False,False,False,False
+9bd23b55-cbc0-4082-ae18-916ea8895c07,45.0,Male,Kimberlyview,Low,2024-01-26,1832.73,610.91,3,806.34,291.45,0.0,36–50,False,False,False,False,False,False,False
+f2ae0761-35fa-44a8-ac81-e607e89611ef,31.0,Male,Stevenfurt,Medium,2024-05-01,418.35,209.175,2,325.37,92.98,0.0,26–35,False,False,False,False,False,False,False
+8a34badc-d3bc-464a-8687-d6bd3bb08215,67.0,Female,New Russell,High,2020-09-22,790.49,395.245,2,424.05,366.44,0.0,66+,False,False,False,False,False,False,False
+ec42fc84-51a4-4f32-971a-132852d4fe36,45.0,Male,Michaelborough,Low,2022-04-23,1836.34,612.1133333333333,3,989.35,51.39,0.0,36–50,False,False,False,False,False,False,False
+fa51f8d8-92c4-4b55-b33d-dc7f1eae4792,27.0,Female,Calebstad,High,2019-07-06,981.01,981.01,1,981.01,981.01,0.0,26–35,False,False,False,False,False,False,False
+c3575491-5c91-4a46-a63b-506bc3395c62,50.0,Female,Port Timothyfort,Medium,2022-01-17,827.66,827.66,1,827.66,827.66,0.0,36–50,False,False,False,False,False,False,False
+cc5da89b-c295-41c3-b27d-c759cca78ba8,33.0,Female,New Stephenside,Medium,,1651.8200000000002,550.6066666666667,3,820.49,397.72,0.0,26–35,False,False,False,False,False,False,False
+589eff22-1d5d-4138-8b42-ba0507aae51a,45.0,Male,Port Bradleyland,,2022-11-20,20.66,20.66,1,20.66,20.66,0.0,36–50,False,False,False,False,False,False,False
+3c0eae54-dde8-4291-95d3-f8dfb98c475a,62.0,Female,Williamshaven,High,2022-02-10,1351.045,675.5225,2,854.42,496.625,0.0,51–65,False,False,False,False,False,False,False
+6631a889-65d2-4588-9ed7-850c8b216f6d,22.0,Female,Warrenburgh,High,2021-03-26,597.83,597.83,1,597.83,597.83,0.0,19–25,False,False,False,False,False,False,False
+c3a3cdb4-7e4f-4017-a8bf-5f329b6938c8,52.0,Female,Port Sheryl,Low,2020-08-04,257.46,128.73,2,247.28,10.18,0.0,51–65,False,False,False,False,False,False,False
+b7b84b81-c61b-4f23-b3db-b18010484122,52.0,Male,East Cynthiafort,Low,2020-02-21,1270.33,423.4433333333333,3,772.27,-100.0,0.0,51–65,False,False,False,False,False,False,False
+409d7d69-e0b1-4493-8b23-100fb9518966,64.0,Female,Bradleyborough,Low,2023-03-11,844.73,844.73,1,844.73,844.73,0.0,51–65,False,False,False,False,False,False,False
+f4274d3a-db95-4b02-b4cc-2b414f25d80d,46.0,Male,Annaport,Medium,2020-08-20,1521.24,507.08,3,919.76,107.39,0.0,36–50,False,False,False,False,False,False,False
+6e1feeab-c26b-4462-ae4c-77ff8d6e5b35,27.0,Female,Lanestad,Low,2022-05-10,550.39,275.195,2,429.69,120.7,0.0,26–35,False,False,False,False,False,False,False
+86e19319-72e1-4870-bba8-51c3dd201268,39.0,Male,Tinaland,,2024-06-29,474.57,474.57,1,474.57,474.57,0.0,36–50,False,False,False,False,False,False,False
+c5cc364c-0373-4aec-b421-e5e10f91791f,25.0,Female,East Luis,Low,2020-02-08,985.19,492.595,2,802.36,182.83,0.0,19–25,False,False,False,False,False,False,False
+6b18200b-0867-4746-887c-ce48371e772a,36.0,Male,Wongville,Medium,2022-08-27,816.15,816.15,1,816.15,816.15,0.0,36–50,False,False,False,False,False,False,False
+5711d1af-71f2-4b99-a965-3ffdc39d32c8,45.0,Male,Aaronton,Low,2023-07-31,718.62,359.31,2,533.48,185.14,0.0,36–50,False,False,False,False,False,False,False
+086370e7-8884-47d7-89b0-776401a43e1c,53.0,Female,Port Jesseside,Medium,2024-04-19,1691.97,563.99,3,974.25,0.0,0.0,51–65,False,False,False,False,False,False,False
+142d2fe3-3958-433b-a163-3899040ab178,35.0,Male,Port Michelle,Medium,2022-03-29,806.38,806.38,1,806.38,806.38,0.0,26–35,False,False,False,False,False,False,False
+28097c07-e810-4e64-8eae-bff2abd81bc1,26.0,Female,Lake David,High,2021-02-12,-100.0,-100.0,1,-100.0,-100.0,0.0,26–35,False,False,False,False,False,False,False
+c584f7db-9f8c-4012-b52e-089eadc9fde3,67.0,Female,Stephensonmouth,High,2022-02-27,781.3,390.65,2,555.73,225.57,0.0,66+,False,False,False,False,False,False,False
+6007c09a-d082-4218-9cdd-087ec3d24dec,43.0,Female,Garciaton,High,2019-08-16,554.59,554.59,1,554.59,554.59,0.0,36–50,False,False,False,False,False,False,False
+acf61979-471d-4d03-99cf-bdd3668261a6,59.0,Female,North Elizabeth,Low,2021-12-29,27.19,27.19,1,27.19,27.19,0.0,51–65,False,False,False,False,False,False,False
+afc2cf41-aacb-482c-a3f0-2f68035c44f7,57.0,Male,Allenchester,Low,2023-04-06,1001.15,500.5750000000001,2,734.85,266.3,0.0,51–65,False,False,False,False,False,False,False
+6bc3aaad-57cc-4fae-b57f-18faa88ce95b,61.0,Male,West Randall,Low,2019-11-08,624.49,312.245,2,438.52,185.97,0.0,51–65,False,False,False,False,False,False,False
+401302a0-2748-49f3-bf78-d778d21d4cc7,23.0,Female,Vasquezburgh,Medium,2020-08-15,627.54,313.77,2,394.53,233.01,0.0,19–25,False,False,False,False,False,False,False
+66e01489-30f2-4461-bd51-1a6713c7634b,39.0,Female,Lauriehaven,Low,2020-06-25,861.595,430.7975,2,496.625,364.97,0.0,36–50,False,False,False,False,False,False,False
+1c4c3ec8-256e-4c2c-bed6-cf5e97e076de,45.0,Male,New Amber,Low,2023-04-10,737.9,737.9,1,737.9,737.9,0.0,36–50,False,False,False,False,False,False,False
+eb404291-dab0-4733-b0e2-00676e7678a1,64.0,Male,Wilsonton,Medium,2023-06-07,243.95,243.95,1,243.95,243.95,0.0,51–65,False,False,False,False,False,False,False
+2da3a384-4f08-4048-871b-a1acfe7d7c59,70.0,Male,East Kimberly,High,2019-09-07,1845.1,922.55,2,998.37,846.73,0.0,66+,False,False,False,False,False,False,False
+f9ab3c05-425f-4739-8e23-5197e518e250,33.0,Female,Andrewville,Medium,2023-02-18,909.0,454.5,2,884.73,24.27,0.0,26–35,False,False,False,False,False,False,False
+6b2f8f03-ab9e-48a6-a07e-10e794b04fe0,65.0,Male,Lake Karen,Low,2023-04-04,1318.55,659.275,2,764.04,554.51,0.0,51–65,False,False,False,False,False,False,False
+576d68cf-0bd0-40a8-8710-eee2c706f81e,42.0,Female,West Cynthiamouth,High,2020-06-30,683.65,683.65,1,683.65,683.65,0.0,36–50,False,False,False,False,False,False,False
+e4f5c19b-60e0-4e10-9735-88d05adf0667,67.0,Male,Melissaborough,Low,2023-06-16,823.58,823.58,1,823.58,823.58,0.0,66+,False,False,False,False,False,False,False
+fd089f90-297f-4c91-82e6-34a4937ecddc,45.0,Female,Howardville,Medium,2021-09-23,496.625,496.625,1,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+2529044c-e151-4f75-ac8f-ad9febf25ac5,53.0,Male,Jessicachester,High,2019-07-27,576.11,576.11,1,576.11,576.11,0.0,51–65,False,False,False,False,False,False,False
+6a4fcf07-d4f6-44cf-9d47-ddae1917f808,42.0,Male,Baileyberg,High,2022-05-26,418.96,209.48,2,257.62,161.34,0.0,36–50,False,False,False,False,False,False,False
+4c95e2ed-ec52-41cd-8258-01910de21d71,70.0,Male,East Michaelville,Low,2024-06-03,234.32,234.32,1,234.32,234.32,0.0,66+,False,False,False,False,False,False,False
+edbc4b21-e53a-4f7c-bf1f-7dc9f9557ca5,27.0,Female,Davidfort,High,2023-12-13,213.16,213.16,1,213.16,213.16,0.0,26–35,False,False,False,False,False,False,False
+54b3556e-e480-41a2-9dcd-7da1d91655aa,57.0,Male,East Betty,Medium,2024-06-08,1298.47,432.8233333333333,3,861.39,113.56,0.0,51–65,False,False,False,False,False,False,False
+5736efce-e87a-4e6d-a7b0-803d8aea3c75,51.0,Male,Stephaniemouth,Medium,2020-01-24,948.19,948.19,1,948.19,948.19,0.0,51–65,False,False,False,False,False,False,False
+768b95d6-378c-462e-8d70-22c41d6c65bf,39.0,Male,Marshalltown,Medium,2021-08-30,1046.91,348.96999999999997,3,638.27,119.18,0.0,36–50,False,False,False,False,False,False,False
+b8f3474f-d05d-4aca-982b-6af4a856305a,45.0,Male,Chelseaburgh,High,2024-06-09,892.1,446.05,2,892.1,0.0,0.0,36–50,False,False,False,False,False,False,False
+860003c0-809c-439e-b704-f8648809e396,56.0,Male,West Nathanport,High,2020-03-03,1150.31,383.43666666666667,3,837.52,131.42,0.0,51–65,False,False,False,False,False,False,False
+f295375f-e649-4961-9cd1-6104411c00c8,70.0,Female,North Alicia,Low,2021-10-27,995.44,497.72,2,686.16,309.28,0.0,66+,False,False,False,False,False,False,False
+d6fe4961-6886-49c3-b6be-07bab52aa19f,51.0,Male,Jenniferview,Low,2020-04-16,426.81,213.405,2,373.85,52.96,0.0,51–65,False,False,False,False,False,False,False
+592c60d1-2f03-42d4-aa26-ca11f9fd0e0f,56.0,Male,New James,Low,2020-09-22,1378.81,459.6033333333333,3,984.93,174.61,0.0,51–65,False,False,False,False,False,False,False
+896a48cf-7ab6-41a8-ac94-9d7f6c211c01,56.0,Female,Andreaburgh,Low,2021-07-14,515.54,515.54,1,515.54,515.54,0.0,51–65,False,False,False,False,False,False,False
+a523b30b-f05c-4704-b3b6-e36c4e637440,35.0,Female,Port Brandonstad,High,2024-03-15,1794.71,897.355,2,995.57,799.14,0.0,26–35,False,False,False,False,False,False,False
+c5214293-3313-4a25-96b2-625af9e94e49,45.0,Female,Masseyhaven,,2022-01-01,754.68,754.68,1,754.68,754.68,0.0,36–50,False,False,False,False,False,False,False
+2d9979c1-ec25-42b8-a9ce-dd6661524b50,30.0,Female,New Kelly,Medium,2023-03-21,389.59,194.795,2,364.76,24.83,0.0,26–35,False,False,False,False,False,False,False
+c12c8d66-3979-45bc-85fd-780ac87f19d9,45.0,Female,Port Kevin,Medium,2023-07-07,73.37,73.37,1,73.37,73.37,0.0,36–50,False,False,False,False,False,False,False
+c680c6e8-2bc5-44a0-a713-98fe776bebc2,45.0,Female,South Kelly,Medium,2019-10-10,150.03,150.03,1,150.03,150.03,0.0,36–50,False,False,False,False,False,False,False
+1861b233-7abc-4e26-9aef-481ee3da9ae1,29.0,Female,Paynechester,Medium,2021-04-12,1962.27,981.135,2,996.32,965.95,0.0,26–35,False,False,False,False,False,False,False
+6e24cce5-9d67-4e1e-8816-0b7f767f1362,36.0,Female,New Crystalberg,High,2019-07-31,85.05,85.05,1,85.05,85.05,0.0,36–50,False,False,False,False,False,False,False
+91ad2b3a-d2fe-4146-a0ae-cdcea44622c9,43.0,Female,West Jennifershire,Medium,2019-07-25,587.31,587.31,1,587.31,587.31,0.0,36–50,False,False,False,False,False,False,False
+299beb50-d10d-461f-bdd5-4083a4e3cc9b,28.0,Female,North Kristintown,,2022-01-31,994.59,994.59,1,994.59,994.59,0.0,26–35,False,False,False,False,False,False,False
+c1805670-0d42-4583-bfda-646f85252829,45.0,Male,South Eric,High,2020-04-25,381.99,381.99,1,381.99,381.99,0.0,36–50,False,False,False,False,False,False,False
+e8960cfa-6e94-4260-8a99-74188b90a1fa,44.0,Female,Sandraview,High,2019-10-06,287.31,287.31,1,287.31,287.31,0.0,36–50,False,False,False,False,False,False,False
+06125b2b-549c-4bee-9724-c03f0aa58dbb,43.0,Male,Stewartport,High,2023-03-03,535.56,535.56,1,535.56,535.56,0.0,36–50,False,False,False,False,False,False,False
+273597c1-d519-4ce1-bf81-f8027e85f8e9,45.0,Male,East Regina,,2023-01-23,127.64,127.64,1,127.64,127.64,0.0,36–50,False,False,False,False,False,False,False
+e9c58327-25a1-4148-8c41-f0f37fc0c75d,45.0,Female,Port Brittany,,2019-12-06,1516.85,505.6166666666666,3,633.68,387.51,0.0,36–50,False,False,False,False,False,False,False
+b1160da2-67a2-4ac3-a338-06f960278e02,45.0,Female,Ramirezberg,High,2021-12-25,272.85,272.85,1,272.85,272.85,0.0,36–50,False,False,False,False,False,False,False
+cb01f3d4-94bf-42b0-8f3a-32209f715b1c,60.0,Female,Fullerhaven,Low,2021-11-22,1478.11,739.0550000000001,2,856.12,621.99,0.0,51–65,False,False,False,False,False,False,False
+b12c84ec-8291-4fa9-8688-b3a8e0bfbd1a,63.0,Female,Kellyfurt,Medium,2024-01-11,1485.065,742.5325,2,988.44,496.625,0.0,51–65,False,False,False,False,False,False,False
+8cac34ad-138a-4c96-b5e7-f2e795b16acb,45.0,Male,Hallside,Low,2022-09-30,961.2,961.2,1,961.2,961.2,0.0,36–50,False,False,False,False,False,False,False
+b7cf7756-cd20-4de2-b150-c473112da343,25.0,Female,Davisshire,,2019-12-27,525.87,525.87,1,525.87,525.87,0.0,19–25,False,False,False,False,False,False,False
+72622d98-45f7-4977-b6b9-052494b2d929,27.0,Male,Lewisfort,Medium,2023-04-13,879.12,879.12,1,879.12,879.12,0.0,26–35,False,False,False,False,False,False,False
+26ffdfbc-43b8-4a9b-b23d-0e029dbbeea1,26.0,Male,Lake Ashleyberg,,2022-11-13,496.625,496.625,1,496.625,496.625,0.0,26–35,False,False,False,False,False,False,False
+da355e21-5fb0-4778-839f-50853e76b07b,32.0,Female,Grantfort,,2022-09-15,82.72,82.72,1,82.72,82.72,0.0,26–35,False,False,False,False,False,False,False
+a3efade0-9841-40a8-9c00-0968581d608a,45.0,Female,North Danielle,High,2020-06-07,375.66,375.66,1,375.66,375.66,0.0,36–50,False,False,False,False,False,False,False
+e84f46dc-1d0e-4031-a4f6-2a6f46514fa6,49.0,Male,Samuelshire,Medium,2023-09-02,1226.605,613.3025,2,729.98,496.625,0.0,36–50,False,False,False,False,False,False,False
+7fa1d4e1-e465-4d23-82c8-c096f58fb5ed,32.0,Male,Port William,Low,2024-01-29,0.0,0.0,1,0.0,0.0,0.0,26–35,False,False,False,False,False,False,False
+ed46f0b3-870a-41c4-b2c2-6a47937d394e,34.0,Male,West Billy,High,2020-06-23,1102.45,551.225,2,657.33,445.12,0.0,26–35,False,False,False,False,False,False,False
+7f010694-f12b-402f-bd02-6afa18b0fae1,40.0,Male,Port Tiffanyport,High,2021-05-30,496.625,496.625,1,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+ab0ff3f2-c413-41cd-a69d-9ec090b6739b,65.0,Male,Lake Jocelynchester,Low,2024-06-24,1912.515,637.505,3,847.89,496.625,0.0,51–65,False,False,False,False,False,False,False
+851911c8-6d3f-4a7f-b70c-9b93057d9f94,45.0,Female,Gonzalezborough,High,2022-07-30,10.14,10.14,1,10.14,10.14,0.0,36–50,False,False,False,False,False,False,False
+ce88db51-39aa-4149-8ee6-d6063d12768f,39.0,Male,Lake Jennifer,Low,2022-07-14,187.32,187.32,1,187.32,187.32,0.0,36–50,False,False,False,False,False,False,False
+68a177b8-97d6-4f8e-b9c3-d328f99ae6bc,45.0,Male,East Craigchester,High,2021-02-04,436.53,436.53,1,436.53,436.53,0.0,36–50,False,False,False,False,False,False,False
+57d07b58-1c57-4f29-a180-459d7928dfc0,45.0,Female,New Elizabeth,High,2020-08-30,1702.36,567.4533333333334,3,808.68,376.68,0.0,36–50,False,False,False,False,False,False,False
+3c14e099-dc0a-4772-ae2d-524e33d81033,20.0,Female,New Billyview,Low,2020-10-03,815.55,271.84999999999997,3,596.63,13.6,0.0,19–25,False,False,False,False,False,False,False
+78002a64-8a6e-4d61-80a9-1bbf4c41ae76,46.0,Male,Port Holly,Low,2020-12-28,0.0,0.0,1,0.0,0.0,0.0,36–50,False,False,False,False,False,False,False
+40f2fc46-f4cf-4987-ac84-73e500fcb521,49.0,Male,New Chelsea,Low,2019-08-30,962.72,320.9066666666667,3,502.28,75.65,0.0,36–50,False,False,False,False,False,False,False
+321acf6c-c401-4f7b-9835-bfb7cd5e48ff,64.0,Male,Mooreville,Medium,2023-09-05,1161.09,387.03,3,496.625,167.84,0.0,51–65,False,False,False,False,False,False,False
+1e9e7dcb-e612-46d3-bae6-0c2f47fa0220,44.0,Female,Brianmouth,Medium,2022-07-28,496.625,496.625,1,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+41d08007-2bf4-470f-ad2d-97a972abced6,52.0,Female,South Melissa,High,2021-02-23,496.26,496.26,1,496.26,496.26,0.0,51–65,False,False,False,False,False,False,False
+68b5a27d-980f-409d-9b64-acc242c86f8e,48.0,Male,West Annstad,High,2023-12-23,1272.0549999999998,636.0274999999999,2,775.43,496.625,0.0,36–50,False,False,False,False,False,False,False
+1d5d2c59-f092-48ce-a2cd-168199412a6c,69.0,Female,Leonardfort,Medium,2020-04-13,1155.91,577.955,2,671.85,484.06,0.0,66+,False,False,False,False,False,False,False
+541ecfee-22bb-4358-9f01-d5d372dc49e3,48.0,Female,Turnerton,Low,2021-12-01,296.58,296.58,1,296.58,296.58,0.0,36–50,False,False,False,False,False,False,False
+de765812-6f23-4059-94db-2805a34f44fd,28.0,Female,North John,High,2022-02-22,683.38,341.69,2,381.27,302.11,0.0,26–35,False,False,False,False,False,False,False
+cd733ffe-4726-4d32-b2a8-06a86d0dfa20,55.0,Female,West Valerie,Low,2023-04-18,888.24,888.24,1,888.24,888.24,0.0,51–65,False,False,False,False,False,False,False
+d98a5116-3836-43d6-bb54-ffef96f9fd00,42.0,Male,New Alex,Low,2023-05-29,1185.94,395.31333333333333,3,694.72,74.55,0.0,36–50,False,False,False,False,False,False,False
+48313b18-ccdb-4946-b958-1ebfc92dcc2a,45.0,Male,South Andrea,High,2020-02-26,496.625,496.625,1,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+84db5b8d-acf1-47fb-b3aa-100b30fd99fe,20.0,Male,East Crystalshire,Medium,2020-07-26,877.71,877.71,1,877.71,877.71,0.0,19–25,False,False,False,False,False,False,False
+29e33b63-81fe-4687-a132-06d0a5e6668c,67.0,Male,Nicholsfort,High,2020-05-06,333.31,333.31,1,333.31,333.31,0.0,66+,False,False,False,False,False,False,False
+cdd71e46-7539-41af-b9d5-6758abdfa2e6,65.0,Male,Port Gabriellaburgh,Medium,2023-12-15,992.93,496.465,2,992.93,0.0,0.0,51–65,False,False,False,False,False,False,False
+4ece241c-935a-4380-bda6-715cbae36f17,51.0,Female,New Glenn,Low,2022-08-17,681.84,681.84,1,681.84,681.84,0.0,51–65,False,False,False,False,False,False,False
+66515d36-ce81-4765-b76c-9ee0eeb66c98,49.0,Female,Markchester,,2022-10-21,978.93,978.93,1,978.93,978.93,0.0,36–50,False,False,False,False,False,False,False
+9f6b9ab6-1055-4a20-912e-23adb444695c,38.0,Male,Randallland,Medium,,1325.63,441.8766666666667,3,611.71,226.82,0.0,36–50,False,False,False,False,False,False,False
+8543ced3-b2b8-45d6-8f42-f66dd94c1685,69.0,Male,Jacobchester,Medium,2020-01-17,139.45,139.45,1,139.45,139.45,0.0,66+,False,False,False,False,False,False,False
+6e6d3ec8-c559-4a2e-8776-bce30df9d14e,44.0,Male,Carolynville,High,2023-05-25,71.24,71.24,1,71.24,71.24,0.0,36–50,False,False,False,False,False,False,False
+9866b7ec-4394-4a83-b3d2-b56182c0758b,55.0,Female,North Jenniferview,Low,2021-11-26,188.97,188.97,1,188.97,188.97,0.0,51–65,False,False,False,False,False,False,False
+b8a3bca9-79e2-4a99-96be-f23108c05f00,66.0,Male,Duncanside,Low,2022-04-24,1421.405,710.7025,2,924.78,496.625,0.0,66+,False,False,False,False,False,False,False
+4deac5c0-5e2e-4794-9978-f25be68734a7,19.0,Male,West Chad,High,2021-02-08,978.26,978.26,1,978.26,978.26,0.0,19–25,False,False,False,False,False,False,False
+c6253172-8dc9-4c82-8816-9d2740b0e3b8,58.0,Female,Mitchellfurt,Low,2022-06-18,665.43,665.43,1,665.43,665.43,0.0,51–65,False,False,False,False,False,False,False
+709c87f5-082b-4b18-a197-0d7d4e1588e3,63.0,Male,New Christopherville,Medium,2023-04-26,1854.57,618.19,3,838.08,406.98,0.0,51–65,False,False,False,False,False,False,False
+f6db05bc-e9ff-454c-983c-fc4a7fd13323,43.0,Male,Port Carrie,,2024-06-24,1493.83,497.9433333333333,3,695.29,360.82,0.0,36–50,False,False,False,False,False,False,False
+9e438f09-ec06-42e1-8c45-25063e2429aa,57.0,Female,Shawnview,High,2021-04-27,1350.015,675.0074999999999,2,853.39,496.625,0.0,51–65,False,False,False,False,False,False,False
+23222ac5-f9b0-4eb9-928f-2c17cac9ffbc,53.0,Male,Gregoryfurt,,2024-05-10,545.96,545.96,1,545.96,545.96,0.0,51–65,False,False,False,False,False,False,False
+0f5a8d28-2ddd-497a-a2e0-74a80c165a91,46.0,Female,Josephburgh,Low,2020-11-27,496.625,496.625,1,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+2ae65f5f-e0e7-4e93-bde5-f8cf2f1430cd,60.0,Male,West Roberthaven,Medium,2021-03-29,59.79,59.79,1,59.79,59.79,0.0,51–65,False,False,False,False,False,False,False
+23b20ba3-dc64-48b2-9263-391c044bfe4f,42.0,Female,West Grantfort,Medium,2019-12-16,1023.11,511.555,2,963.52,59.59,0.0,36–50,False,False,False,False,False,False,False
+08dd80d5-e63f-4618-be5f-161de25625a8,28.0,Male,South Stephenville,Low,2024-06-07,781.26,781.26,1,781.26,781.26,0.0,26–35,False,False,False,False,False,False,False
+96f0eb54-ca26-4ec6-b15e-2d1263d5a701,21.0,Female,North Andreberg,,2019-12-17,514.65,257.325,2,491.68,22.97,0.0,19–25,False,False,False,False,False,False,False
+347222c1-9766-4ae8-9263-4e509359b409,38.0,Female,West Richardbury,Low,2021-06-27,491.23,245.615,2,462.41,28.82,0.0,36–50,False,False,False,False,False,False,False
+1fbbc3ad-d48f-4e64-9ef7-4e58277af29a,60.0,Male,West Jasonview,High,2024-04-20,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+d7960ed9-0372-4cb8-ba98-9cf4d88bca25,24.0,Female,Michaelside,Low,2023-04-18,403.36,403.36,1,403.36,403.36,0.0,19–25,False,False,False,False,False,False,False
+f808e889-308c-4356-a639-281ef3820b50,65.0,Male,South Connor,,2021-04-22,271.85,135.925,2,226.38,45.47,0.0,51–65,False,False,False,False,False,False,False
+984d1ffa-8789-44f8-9a59-3c82e4d1d9c4,61.0,Female,West Kathleenland,High,2024-01-15,1268.335,634.1675,2,771.71,496.625,0.0,51–65,False,False,False,False,False,False,False
+29ce6245-1cd1-491d-a68c-33bd56b6bc16,63.0,Male,Mendozaton,Medium,2019-12-17,861.95,861.95,1,861.95,861.95,0.0,51–65,False,False,False,False,False,False,False
+7880b7a8-d348-4a4a-b939-6e6285a9d85c,68.0,Male,North Jennifer,Medium,2024-05-21,678.275,339.1375,2,496.625,181.65,0.0,66+,False,False,False,False,False,False,False
+cf93db25-321f-4148-805b-662d6258ddb3,18.0,Male,North Erikton,High,2024-04-07,839.98,419.99,2,422.41,417.57,0.0,≤18,False,False,False,False,False,False,False
+c12ab95c-d42d-4e32-ae97-95faef364e52,58.0,Female,Greeneborough,Low,2022-08-22,1011.68,505.84,2,891.91,119.77,0.0,51–65,False,False,False,False,False,False,False
+1161ea51-6692-436a-961e-19526aa76f84,68.0,Female,Danaton,High,2020-09-03,811.04,811.04,1,811.04,811.04,0.0,66+,False,False,False,False,False,False,False
+b57b9637-7237-4987-8eb4-a01f567d590f,48.0,Female,Port Sethmouth,High,2023-10-01,496.625,496.625,1,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+f2e3736b-2014-44ef-a28d-597330b00882,55.0,Male,Oliviashire,High,2020-06-25,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+6e3501d7-cca4-414b-9ae0-c02140179fbe,63.0,Male,Lopezmouth,,2023-05-19,606.22,606.22,1,606.22,606.22,0.0,51–65,False,False,False,False,False,False,False
+858b2173-fa72-42f1-8e11-acde120e697e,62.0,Female,Christianbury,High,2023-05-17,224.86,224.86,1,224.86,224.86,0.0,51–65,False,False,False,False,False,False,False
+0009fdd2-ae63-45ca-8d5b-d0ea98381f7b,21.0,Female,Lake George,Low,2020-11-09,389.69,389.69,1,389.69,389.69,0.0,19–25,False,False,False,False,False,False,False
+f9edc899-39cf-4227-9b37-c40003bc28af,60.0,Male,Chelseaville,Medium,,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+9aa1e60e-df4c-4987-9ee8-70b4e6edbca6,59.0,Male,New Henry,Low,,1126.65,563.3249999999999,2,910.81,215.84,0.0,51–65,False,False,False,False,False,False,False
+d4cb7a18-92f4-4a0d-96f5-584e0c1cab53,28.0,Female,West Noahland,Medium,2022-05-31,229.12,229.12,1,229.12,229.12,0.0,26–35,False,False,False,False,False,False,False
+5e0088d4-e37f-4ce9-add7-cc4e056dd95f,25.0,Male,Kristietown,Low,2021-10-04,528.56,528.56,1,528.56,528.56,0.0,19–25,False,False,False,False,False,False,False
+728bcba7-868f-4f7d-9a79-1af48913bb93,39.0,Female,South Robert,Medium,2023-03-09,294.72,294.72,1,294.72,294.72,0.0,36–50,False,False,False,False,False,False,False
+20bfca97-9a3c-4e4d-894b-ba1870281072,52.0,Male,Desireechester,Low,2024-02-23,440.59,440.59,1,440.59,440.59,0.0,51–65,False,False,False,False,False,False,False
+d2e3d880-ad46-4673-a37b-53e0a6c436bf,34.0,Male,Brownview,Low,2021-10-07,737.06,368.53,2,554.68,182.38,0.0,26–35,False,False,False,False,False,False,False
+148b854a-0393-4c10-9762-be68ee86ae9e,49.0,Male,Catherinebury,Low,2021-03-28,266.47,266.47,1,266.47,266.47,0.0,36–50,False,False,False,False,False,False,False
+5624f059-b5dd-4734-879c-7fe8a0169e9c,68.0,Female,Michaelville,High,2019-12-16,731.31,365.655,2,609.06,122.25,0.0,66+,False,False,False,False,False,False,False
+99fa724b-e2bd-4739-a204-3c94957fe3e8,58.0,Male,New Claudia,High,2024-03-09,1509.74,754.87,2,991.13,518.61,0.0,51–65,False,False,False,False,False,False,False
+1d4e578b-738c-4913-84f4-b008488eab48,23.0,Female,Brownchester,Medium,,1797.915,599.305,3,797.87,496.625,0.0,19–25,False,False,False,False,False,False,False
+31a64c59-e32d-4d9c-ba9c-f308acd78daf,34.0,Female,East Michaelfurt,High,2021-06-19,496.625,496.625,1,496.625,496.625,0.0,26–35,False,False,False,False,False,False,False
+378542a7-dd80-4639-b411-6a2fd45e9852,66.0,Male,Coxmouth,,2019-11-13,629.755,314.8775,2,496.625,133.13,0.0,66+,False,False,False,False,False,False,False
+6712eba4-a966-46a5-8f52-26f53054787d,57.0,Female,Ashleymouth,Medium,2021-11-15,12.67,12.67,1,12.67,12.67,0.0,51–65,False,False,False,False,False,False,False
+137362fe-5ca3-4d01-806d-8c4d1f7b29aa,45.0,Male,Nicolebury,High,2024-04-23,1095.56,547.78,2,585.59,509.97,0.0,36–50,False,False,False,False,False,False,False
+9c52add6-d6da-42b9-be78-9a5d2d771aec,56.0,Female,North Jessica,Medium,2019-11-09,776.57,776.57,1,776.57,776.57,0.0,51–65,False,False,False,False,False,False,False
+b791d365-bf14-43ae-9939-aabd2c982866,22.0,Female,Erikville,Low,2019-08-04,1013.035,506.5175,2,516.41,496.625,0.0,19–25,False,False,False,False,False,False,False
+22e1b1a5-34cf-4022-9313-484145b714ab,45.0,Female,Martinstad,Low,2023-11-30,62.26,62.26,1,62.26,62.26,0.0,36–50,False,False,False,False,False,False,False
+979c8237-bae7-4240-9224-b283bc02529e,45.0,Female,Harrisborough,Medium,2021-09-11,1285.95,642.975,2,667.2,618.75,0.0,36–50,False,False,False,False,False,False,False
+a8f090f4-9647-49e5-9bc0-06203eaa301f,37.0,Male,Samuelland,High,2022-06-06,974.79,974.79,1,974.79,974.79,0.0,36–50,False,False,False,False,False,False,False
+4e5e8598-a3bb-4580-8c9f-a2ec0d98afc4,53.0,Female,Lake Spencerborough,Low,2023-12-01,1043.98,521.99,2,803.36,240.62,0.0,51–65,False,False,False,False,False,False,False
+509c0596-50f8-4e68-8204-ddf396e67862,55.0,Female,Carterchester,Medium,2020-06-10,1338.465,446.155,3,674.54,167.3,0.0,51–65,False,False,False,False,False,False,False
+fca77c16-5fd3-495f-bb00-a5c961504e5a,70.0,Male,New Jenniferview,High,2023-02-27,429.2,429.2,1,429.2,429.2,0.0,66+,False,False,False,False,False,False,False
+0b4b34dc-3ae8-4943-9f47-f27482de26a9,58.0,Male,Maryborough,Low,2019-10-15,275.27,275.27,1,275.27,275.27,0.0,51–65,False,False,False,False,False,False,False
+61adc65c-ddcd-43fc-85c4-9e8d60daeae3,57.0,Female,West Rebecca,High,2020-01-09,94.09,94.09,1,94.09,94.09,0.0,51–65,False,False,False,False,False,False,False
+72aec0bd-fd32-472c-9b49-055bb88e33c6,47.0,Male,South Lindachester,Low,2020-02-26,1273.57,636.785,2,754.17,519.4,0.0,36–50,False,False,False,False,False,False,False
+f2fa85fd-89ce-488e-bbdf-4535ae78da25,24.0,Male,Reidburgh,Low,,212.58,212.58,1,212.58,212.58,0.0,19–25,False,False,False,False,False,False,False
+e3589ba8-b8bb-419d-91b1-2f1196118c68,28.0,Female,Jonesshire,Medium,2020-06-14,662.0699999999999,331.03499999999997,2,611.9,50.17,0.0,26–35,False,False,False,False,False,False,False
+0e744af0-f183-499b-adb5-76ff753745e3,70.0,Male,New Timothyton,,2020-09-20,1060.29,530.145,2,855.47,204.82,0.0,66+,False,False,False,False,False,False,False
+7f06d32a-671e-4125-95cd-ce560c2e630a,34.0,Male,Mooreshire,Low,2022-07-24,105.91,105.91,1,105.91,105.91,0.0,26–35,False,False,False,False,False,False,False
+35e934cf-39b9-4b4d-9b2d-c9a4c40b3c88,63.0,Male,Burkeshire,High,2021-07-20,838.21,279.40333333333336,3,312.57,239.72,0.0,51–65,False,False,False,False,False,False,False
+8baf40b4-2477-4993-8371-0f4d5f29d42d,55.0,Male,Franklinmouth,High,2021-11-03,1075.87,358.6233333333333,3,669.59,47.08,0.0,51–65,False,False,False,False,False,False,False
+3609a9ad-d526-44a5-96ec-7ba7accfd866,26.0,Female,East Jerryland,High,2020-11-23,252.38,252.38,1,252.38,252.38,0.0,26–35,False,False,False,False,False,False,False
+658c09ee-ffab-4a46-b971-af23b5b5da0e,45.0,Female,Johnsonborough,High,2021-06-05,655.97,655.97,1,655.97,655.97,0.0,36–50,False,False,False,False,False,False,False
+6e0b43fc-e01d-46b6-8a25-d21fff7ccbe1,52.0,Female,Wheelerburgh,High,2021-06-03,578.86,578.86,1,578.86,578.86,0.0,51–65,False,False,False,False,False,False,False
+80ccc424-80cb-43f9-8063-a09c96c53da0,53.0,Male,South Danielborough,Medium,2022-03-06,271.98,271.98,1,271.98,271.98,0.0,51–65,False,False,False,False,False,False,False
+d3b2f0c4-722a-4b0c-bdcb-19a8cbc80193,45.0,Female,Cobbborough,Low,2019-12-31,759.47,759.47,1,759.47,759.47,0.0,36–50,False,False,False,False,False,False,False
+bd8ab2a4-b629-48e1-be7c-79608d4cce8b,41.0,Female,Anthonyhaven,High,2023-02-10,447.56,447.56,1,447.56,447.56,0.0,36–50,False,False,False,False,False,False,False
+6a84f1a7-f636-4300-bd8d-c7f888460829,21.0,Female,East Marcushaven,Medium,2023-06-19,953.86,476.93,2,953.86,0.0,0.0,19–25,False,False,False,False,False,False,False
+f6cab49a-a8b5-42a8-92be-42e200212268,28.0,Female,New Stanley,High,2024-02-12,671.33,223.77666666666667,3,299.8,140.11,0.0,26–35,False,False,False,False,False,False,False
+7c7df909-aa25-48c7-af9d-6ebe714b28b6,23.0,Female,South Anthonystad,Low,2020-06-23,100.14,50.07,2,50.07,50.07,0.0,19–25,False,False,False,False,False,False,False
+17bf453d-4dd4-4055-b398-940a4b52edfa,42.0,Female,Garciaberg,Low,2021-06-16,1575.2,787.6,2,828.48,746.72,0.0,36–50,False,False,False,False,False,False,False
+d160e8f2-113e-4e69-928c-b6303f391203,55.0,Male,New Tammymouth,Low,2023-06-14,1071.175,535.5875,2,574.55,496.625,0.0,51–65,False,False,False,False,False,False,False
+d83178cf-653d-435c-a7e8-880361dec6e7,47.0,Male,Brittneyville,Low,2020-01-25,1158.08,579.04,2,814.62,343.46,0.0,36–50,False,False,False,False,False,False,False
+0a8833e5-9e7f-4a7b-94a8-216a46821d46,62.0,Female,Cookberg,High,2022-01-27,64.28,64.28,1,64.28,64.28,0.0,51–65,False,False,False,False,False,False,False
+1fde298f-1904-4dff-a59e-15640c89c519,47.0,Female,West Joseph,,2022-03-03,477.38,477.38,1,477.38,477.38,0.0,36–50,False,False,False,False,False,False,False
+0156ef90-c829-4e9e-8fec-8634e8ff3c54,60.0,Female,Port Adam,High,2019-12-28,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+a0db86bf-0c2d-4c9e-8d3b-f5b33ac37cee,50.0,Male,South Jose,Low,2023-10-30,1395.31,697.655,2,798.58,596.73,0.0,36–50,False,False,False,False,False,False,False
+74653505-85eb-4155-a90b-abe2b30179db,31.0,Female,East Williamfurt,Low,2024-03-28,27.6,27.6,1,27.6,27.6,0.0,26–35,False,False,False,False,False,False,False
+0c4b59d3-f907-4240-8849-6d592af9f7f6,62.0,Male,Michaeltown,High,2020-12-05,1603.29,801.645,2,876.04,727.25,0.0,51–65,False,False,False,False,False,False,False
+060cfd42-8d99-4264-aa27-e8d0b537e207,70.0,Female,South Alexandertown,High,2022-07-11,983.79,983.79,1,983.79,983.79,0.0,66+,False,False,False,False,False,False,False
+1ccb71e6-8f53-423f-808d-a2023aa0c5a8,53.0,Male,West Elizabeth,Medium,2021-11-21,432.33,216.165,2,377.09,55.24,0.0,51–65,False,False,False,False,False,False,False
+f01b204b-74d4-4c28-8f90-450dcd6b26da,46.0,Male,South Kelly,High,2022-04-12,808.47,808.47,1,808.47,808.47,0.0,36–50,False,False,False,False,False,False,False
+e2cbdbed-02ab-4081-822a-e970794e5aa0,47.0,Male,Glovershire,Low,2023-10-10,121.02,121.02,1,121.02,121.02,0.0,36–50,False,False,False,False,False,False,False
+39974820-20fa-436e-a5c3-581d43b00d63,39.0,Male,East Geraldview,Low,2024-03-29,189.04,189.04,1,189.04,189.04,0.0,36–50,False,False,False,False,False,False,False
+7e633526-86ba-4795-8d80-a79b26014c0d,68.0,Male,West Robert,Medium,2022-12-05,671.52,671.52,1,671.52,671.52,0.0,66+,False,False,False,False,False,False,False
+12e1aa2d-57e7-44de-af86-e71a42574c51,39.0,Male,Mirandamouth,High,2021-06-22,1343.835,671.9175,2,847.21,496.625,0.0,36–50,False,False,False,False,False,False,False
+6007e8e7-4c8a-4df0-b03a-e7afdb6684e2,58.0,Male,New Joshua,Medium,2020-07-21,486.67,486.67,1,486.67,486.67,0.0,51–65,False,False,False,False,False,False,False
+8ddf315b-2c2b-4768-a1b8-2836d9f9546b,40.0,Female,Kaylahaven,High,2020-03-16,1600.91,800.4549999999999,2,900.5,700.41,0.0,36–50,False,False,False,False,False,False,False
+160f25a7-ed0b-4471-a260-1f0fcade1217,37.0,Female,Gardnershire,High,2019-11-17,249.78,249.78,1,249.78,249.78,0.0,36–50,False,False,False,False,False,False,False
+32ac26c6-b07d-4ac9-b659-f36459af6337,54.0,Female,Michaelborough,Low,2023-10-05,112.84,112.84,1,112.84,112.84,0.0,51–65,False,False,False,False,False,False,False
+8a6ac6de-96f0-4383-a87c-34d12e104bb8,57.0,Male,New Patty,High,2020-09-09,911.93,455.965,2,656.14,255.79,0.0,51–65,False,False,False,False,False,False,False
+98ff8454-f7df-4193-a23a-34b23769aed2,41.0,Male,South Jacob,Low,2021-11-23,103.14,103.14,1,103.14,103.14,0.0,36–50,False,False,False,False,False,False,False
+cb968037-1e4a-42c7-8d2f-3eb0b27b5295,42.0,Male,Stevenshire,Medium,2023-12-26,618.22,618.22,1,618.22,618.22,0.0,36–50,False,False,False,False,False,False,False
+1904daec-e2bf-4b0b-854c-baaf9e4df3b7,45.0,Male,Lake Margaretberg,High,,141.34,141.34,1,141.34,141.34,0.0,36–50,False,False,False,False,False,False,False
+db18bd1b-8476-4835-81ac-5328b72d473f,63.0,Female,South David,Medium,2020-02-24,1364.485,682.2425000000001,2,867.86,496.625,0.0,51–65,False,False,False,False,False,False,False
+1bdeb580-975a-42df-8248-fbb7d027d23e,57.0,Female,Kimberg,High,2023-02-14,797.61,797.61,1,797.61,797.61,0.0,51–65,False,False,False,False,False,False,False
+6c78ab25-9895-4054-968d-0a5264ffa064,43.0,Female,West Evelynburgh,Low,2020-08-15,829.73,829.73,1,829.73,829.73,0.0,36–50,False,False,False,False,False,False,False
+ac0248f2-5af3-46f9-9cec-2fb5a478f47a,64.0,Male,East Brookeburgh,High,2021-03-07,981.24,981.24,1,981.24,981.24,0.0,51–65,False,False,False,False,False,False,False
+267bca9f-cc78-499d-9f07-a52a638c5d8c,45.0,Male,New Markfurt,High,2020-10-01,1657.19,828.595,2,961.44,695.75,0.0,36–50,False,False,False,False,False,False,False
+3120d699-c28f-4de7-afba-adceae29c1c5,37.0,Male,West Catherineshire,High,2024-02-25,1210.9699999999998,605.4849999999999,2,649.42,561.55,0.0,36–50,False,False,False,False,False,False,False
+bfe55c3b-668e-485d-9476-670acd50b12b,36.0,Male,New Kaylahaven,Low,2023-01-03,396.625,198.3125,2,496.625,-100.0,0.0,36–50,False,False,False,False,False,False,False
+ee462937-e0c4-42bd-a4ef-7df8946ba9f7,27.0,Male,Sampsonburgh,High,2020-03-23,786.84,393.42,2,763.59,23.25,0.0,26–35,False,False,False,False,False,False,False
+b91999f9-b7ed-4da4-a285-1dafae98e21d,52.0,Female,North Danielmouth,Medium,2019-09-11,-100.0,-100.0,1,-100.0,-100.0,0.0,51–65,False,False,False,False,False,False,False
+8de0429b-700b-4253-b914-e61d580aeb08,67.0,Female,Woodsmouth,Medium,2019-12-16,110.06,110.06,1,110.06,110.06,0.0,66+,False,False,False,False,False,False,False
+ea4f48c7-7862-4f92-9a6f-1c2778adfe56,49.0,Male,East Edward,Medium,2022-08-24,711.975,355.9875,2,496.625,215.35,0.0,36–50,False,False,False,False,False,False,False
+aac57e67-f138-426a-8f26-c4620e29f4e6,47.0,Male,East Corymouth,Medium,2023-09-10,955.98,955.98,1,955.98,955.98,0.0,36–50,False,False,False,False,False,False,False
+e1787f8a-3681-477f-92bc-c76f56f14bc3,30.0,Male,West Christine,Medium,2020-03-01,917.9,917.9,1,917.9,917.9,0.0,26–35,False,False,False,False,False,False,False
+ccb5b16c-60f2-413c-9d6d-e5aa0091df54,50.0,Female,Dominguezburgh,Low,2022-10-25,496.625,496.625,1,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+75e2b1f9-ea4e-4d40-8035-4c6447576b3f,44.0,Male,Port Richardshire,High,2019-07-08,652.28,326.14,2,382.6,269.68,0.0,36–50,False,False,False,False,False,False,False
+e4e86de7-3972-407e-9a7d-66b34a347463,45.0,Female,Pughstad,Medium,2020-11-06,496.625,496.625,1,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+aeba2f6d-bf7f-4a93-b947-4b5d03d6fa95,66.0,Female,South Garyborough,Low,2020-09-27,1456.615,728.3075,2,959.99,496.625,0.0,66+,False,False,False,False,False,False,False
+331aa308-0011-4df0-80c8-83768817c3fd,50.0,Male,East Seanhaven,High,2023-07-15,678.08,678.08,1,678.08,678.08,0.0,36–50,False,False,False,False,False,False,False
+49e88aa3-3b35-4509-9a10-49f25f06b615,28.0,Female,East Aaronton,,2022-03-26,309.18,309.18,1,309.18,309.18,0.0,26–35,False,False,False,False,False,False,False
+6601e9d6-7e18-48f9-ba38-71d0d9cb31cb,62.0,Male,South Chadmouth,High,2021-10-06,1432.175,716.0875,2,935.55,496.625,0.0,51–65,False,False,False,False,False,False,False
+5819025b-3df7-4da6-a8bd-5d980e61c5a4,45.0,Female,Lake Miguelchester,High,2020-07-18,841.0550000000001,420.5275,2,496.625,344.43,0.0,36–50,False,False,False,False,False,False,False
+5dd3f3da-d9e7-4b28-afb0-30497d1f5014,42.0,Male,Tiffanyland,Low,2021-10-12,894.07,894.07,1,894.07,894.07,0.0,36–50,False,False,False,False,False,False,False
+02b1b8cb-bc72-4ca5-af51-05e16bab084b,34.0,Male,Port William,Medium,2022-10-18,496.625,496.625,1,496.625,496.625,0.0,26–35,False,False,False,False,False,False,False
+43230006-9636-403f-966c-f7e3166e504d,56.0,Female,Port Jeffrey,High,2023-04-29,775.61,775.61,1,775.61,775.61,0.0,51–65,False,False,False,False,False,False,False
+1028c9f7-f42a-425c-8250-292131378975,54.0,Male,Port Cynthiachester,High,2021-12-22,446.36,446.36,1,446.36,446.36,0.0,51–65,False,False,False,False,False,False,False
+018be1fd-e482-4d3d-87b9-a425ae35c5a1,21.0,Male,Kevinstad,Low,2022-07-17,1253.5,626.75,2,970.11,283.39,0.0,19–25,False,False,False,False,False,False,False
+2dcb9523-356b-40b2-a67b-1f27797de261,57.0,Male,East Anna,Low,2023-02-21,387.74,387.74,1,387.74,387.74,0.0,51–65,False,False,False,False,False,False,False
+0340d565-36b4-4d28-9619-7899512b31b8,62.0,Female,Nguyenton,Low,2022-04-26,603.06,603.06,1,603.06,603.06,0.0,51–65,False,False,False,False,False,False,False
+6596f49d-5c9f-4bcd-84a0-82d866b98314,26.0,Female,New Peterchester,High,2019-07-04,787.9699999999999,393.985,2,733.31,54.66,0.0,26–35,False,False,False,False,False,False,False
+8414f142-72a4-4343-9afd-48c4333bfda4,45.0,Female,North Victoria,Low,2024-03-26,1695.93,565.3100000000001,3,627.97,449.29,0.0,36–50,False,False,False,False,False,False,False
+a8a7ca84-eb94-417d-a539-47f086159f3c,32.0,Male,South Ricky,Low,2023-07-15,34.12,34.12,1,34.12,34.12,0.0,26–35,False,False,False,False,False,False,False
+6539c670-03a7-4f89-8fb2-8190024380cb,55.0,Male,Hendersonshire,Low,2022-01-16,551.13,551.13,1,551.13,551.13,0.0,51–65,False,False,False,False,False,False,False
+ef341627-301c-4502-9ebc-a7d1ea8bf37b,24.0,Female,East Steve,Medium,2022-03-22,377.08,377.08,1,377.08,377.08,0.0,19–25,False,False,False,False,False,False,False
+5dcc04f0-2300-4707-b737-82abb839b428,36.0,Female,North Morganmouth,Low,2023-01-04,1502.765,500.9216666666666,3,761.48,244.66,0.0,36–50,False,False,False,False,False,False,False
+30fbbfed-bf48-475b-8057-2f27f7c343af,62.0,Female,Bowmanburgh,High,2021-03-16,625.41,625.41,1,625.41,625.41,0.0,51–65,False,False,False,False,False,False,False
+aa53dc4d-35a6-45a2-9ffb-f83d25cf0e60,18.0,Male,North Kaitlyn,Medium,2020-06-24,686.2,343.1,2,452.05,234.15,0.0,≤18,False,False,False,False,False,False,False
+59bf21c7-b292-4aa8-99c0-023d01d759ba,18.0,Male,Harrisborough,Medium,2021-09-09,341.08,341.08,1,341.08,341.08,0.0,≤18,False,False,False,False,False,False,False
+088dbb34-9520-43fb-abe3-244083f14b93,40.0,Female,Lake Kevin,Medium,2020-01-25,895.93,895.93,1,895.93,895.93,0.0,36–50,False,False,False,False,False,False,False
+faf73ad2-9d18-40fa-943b-69efe9d685a8,52.0,Male,Port Michael,Medium,2020-03-16,623.02,623.02,1,623.02,623.02,0.0,51–65,False,False,False,False,False,False,False
+ca645b4d-28a4-42ec-99a7-8000d38bf2e0,37.0,Male,Brandonfurt,,2019-09-14,-100.0,-100.0,1,-100.0,-100.0,0.0,36–50,False,False,False,False,False,False,False
+0773c2a4-9485-40ba-b6a5-645cd15d9837,55.0,Female,Williamshaven,High,2022-07-19,180.07,180.07,1,180.07,180.07,0.0,51–65,False,False,False,False,False,False,False
+8ad8003f-aa9d-4b7b-84f5-1913e2660e5d,47.0,Female,Scottville,Low,2020-09-15,473.65,473.65,1,473.65,473.65,0.0,36–50,False,False,False,False,False,False,False
+b66935bc-453f-4947-86e6-92d2e1d52872,49.0,Female,Whiteburgh,Low,2021-04-26,496.625,496.625,1,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+29436bcf-d6f8-44d1-a856-0794abb562ab,68.0,Female,New Fred,Low,2021-09-01,1734.92,867.46,2,895.22,839.7,0.0,66+,False,False,False,False,False,False,False
+9bd04ab1-225d-48d3-a9f9-f2338a40a439,42.0,Male,Jillianburgh,Low,2020-12-10,1195.73,597.865,2,922.96,272.77,0.0,36–50,False,False,False,False,False,False,False
+69392978-5c7e-4872-9058-2a4590c9247d,42.0,Female,Lake Lisa,High,2022-08-27,993.12,993.12,1,993.12,993.12,0.0,36–50,False,False,False,False,False,False,False
+dd1f3738-50b7-49a3-b369-8944f15ecba0,70.0,Male,Gonzalezhaven,High,2022-09-03,998.26,499.13,2,801.75,196.51,0.0,66+,False,False,False,False,False,False,False
+5295b804-fb7e-4dd4-bb76-a0e1a79841c1,45.0,Female,Velasquezmouth,Low,2021-04-06,671.41,671.41,1,671.41,671.41,0.0,36–50,False,False,False,False,False,False,False
+8f61e984-4fa5-4941-95ee-e42c92758e02,26.0,Female,North Jenna,Medium,2020-02-18,1557.19,519.0633333333334,3,626.59,334.96,0.0,26–35,False,False,False,False,False,False,False
+7a2c7c71-1f0d-4e00-b1e7-821708ec5194,30.0,Female,North Frederickport,Low,2020-04-05,620.57,620.57,1,620.57,620.57,0.0,26–35,False,False,False,False,False,False,False
+20f360d6-65c8-4295-98f7-282d3a089d77,43.0,Female,Nicholasview,Medium,2024-05-15,954.22,954.22,1,954.22,954.22,0.0,36–50,False,False,False,False,False,False,False
+e7e5e8fe-5fdd-43e6-92e1-5ea3e399486e,,Female,Christinaburgh,Medium,2023-02-26,-100.0,-100.0,1,-100.0,-100.0,0.0,,False,False,False,False,False,False,False
+d6fa22e0-95a7-4968-9527-41ebf73c7764,43.0,Female,Eduardostad,Low,2021-10-14,1861.59,620.5300000000001,3,868.34,496.625,0.0,36–50,False,False,False,False,False,False,False
+18c03691-9a7c-4711-81f8-01d06c1cae4b,57.0,Female,New Scott,High,2022-10-06,528.74,264.37,2,371.95,156.79,0.0,51–65,False,False,False,False,False,False,False
+72c7cb40-0acb-4d2b-9677-2159706f0e6b,20.0,Female,Petersonbury,Medium,2022-10-11,1272.73,636.365,2,834.01,438.72,0.0,19–25,False,False,False,False,False,False,False
+1cc636ba-e6ea-44c6-a056-0de95dce9831,45.0,Female,Saraton,Medium,2021-09-23,390.29,390.29,1,390.29,390.29,0.0,36–50,False,False,False,False,False,False,False
+fcb31c19-064e-4e81-b69f-16e8d8f3e737,18.0,Female,Edwardview,,2021-09-16,25.55,25.55,1,25.55,25.55,0.0,≤18,False,False,False,False,False,False,False
+8da1bcf2-03d6-4c67-863e-94f77ad8a850,46.0,Female,Markmouth,High,2024-01-05,390.99,390.99,1,390.99,390.99,0.0,36–50,False,False,False,False,False,False,False
+63a3c9cf-ac63-41a6-bf00-2f140f015fcd,55.0,Male,West Judithberg,Low,2020-08-13,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+472dd3d5-946e-4c40-804d-110cc6faae1d,20.0,Female,New Charlesborough,Low,2022-09-12,749.94,749.94,1,749.94,749.94,0.0,19–25,False,False,False,False,False,False,False
+5dfe3352-ee78-4510-a968-9aba1dd940a2,55.0,Male,North Michael,High,2019-11-20,215.87,107.935,2,140.01,75.86,0.0,51–65,False,False,False,False,False,False,False
+9560ed71-7a04-4cd9-a576-b622c5690487,61.0,Female,Rodriguezberg,,2019-08-07,971.59,485.795,2,833.48,138.11,0.0,51–65,False,False,False,False,False,False,False
+580dd6e4-0598-4d7d-aef6-e6572e857e50,26.0,Male,New Johnnyton,Low,2021-07-07,672.49,224.16333333333333,3,361.08,41.74,0.0,26–35,False,False,False,False,False,False,False
+8d8fe8bd-2009-4a15-be37-83dba3cef447,60.0,Male,East Dennis,High,2024-02-07,807.575,403.7875,2,496.625,310.95,0.0,51–65,False,False,False,False,False,False,False
+2d76d24b-3693-4802-8014-9ea47fb95597,24.0,Male,Mcdanielburgh,High,2024-06-03,1874.2,624.7333333333333,3,954.33,199.7,0.0,19–25,False,False,False,False,False,False,False
+ebae3bd0-ff1e-43a5-856d-bc85eebf9057,36.0,Female,Amandaside,High,2023-07-28,993.25,496.625,2,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+1756838b-8368-4852-b4a5-32a23643a3dd,26.0,Male,North Ian,High,2024-04-13,317.07,317.07,1,317.07,317.07,0.0,26–35,False,False,False,False,False,False,False
+554a56a2-12f8-4e57-a08e-706b37aabb1f,55.0,Female,Warnerview,Low,2024-02-26,394.78,394.78,1,394.78,394.78,0.0,51–65,False,False,False,False,False,False,False
+5cea80e1-34e1-4474-806d-73710d8c86b6,23.0,Male,Benderburgh,Low,2023-05-12,1142.08,571.04,2,702.3,439.78,0.0,19–25,False,False,False,False,False,False,False
+2fb831c7-4ce9-435b-959d-3f69e179a6bf,50.0,Female,East Jeffrey,Medium,2023-07-21,717.8,358.9,2,507.74,210.06,0.0,36–50,False,False,False,False,False,False,False
+db354959-55a3-4dbd-aa69-2c0885adb268,45.0,Female,Youngville,Medium,2021-01-27,278.23,278.23,1,278.23,278.23,0.0,36–50,False,False,False,False,False,False,False
+37a8ee69-e419-4e15-a2dd-215b57b3ba67,64.0,Female,Port Stephanie,High,2021-06-22,1852.57,617.5233333333333,3,837.48,185.97,0.0,51–65,False,False,False,False,False,False,False
+a194ec8f-3ff6-4c4c-a9ab-bad2c4c4871a,45.0,Male,Kimside,Medium,2020-12-24,337.0,337.0,1,337.0,337.0,0.0,36–50,False,False,False,False,False,False,False
+71904c78-c815-499d-8289-88ae7c89883f,65.0,Male,West Melissa,Low,2024-04-04,1294.94,647.47,2,767.64,527.3,0.0,51–65,False,False,False,False,False,False,False
+03d6d674-5310-4a05-ab0b-8cfedc46a1ab,29.0,Female,Hoganmouth,Medium,2023-02-01,794.25,794.25,1,794.25,794.25,0.0,26–35,False,False,False,False,False,False,False
+2914da6c-c083-47d2-8e78-f26c44cbc042,57.0,Female,Jasonview,Medium,2020-01-04,513.31,513.31,1,513.31,513.31,0.0,51–65,False,False,False,False,False,False,False
+bc2031d8-5a4a-4cfc-98f1-0c1b8cc33934,60.0,Male,Emilyshire,High,2020-04-27,1374.37,687.185,2,748.79,625.58,0.0,51–65,False,False,False,False,False,False,False
+ff3f41ad-9dba-4ce4-97fb-022a275ed0d8,25.0,Male,North Eugene,Low,2020-09-29,1153.03,576.515,2,649.56,503.47,0.0,19–25,False,False,False,False,False,False,False
+0865a620-9ff4-46ec-9f14-7efdd071a041,19.0,Female,West Sandraberg,High,2022-10-19,1075.16,358.3866666666666,3,570.81,24.94,0.0,19–25,False,False,False,False,False,False,False
+aeaf225f-d2a0-4a65-89cc-332358117295,67.0,Female,Lake Jeremyfurt,High,2023-06-11,624.25,312.125,2,542.78,81.47,0.0,66+,False,False,False,False,False,False,False
+1ed01bef-384d-4c8b-a672-7c292860d7c1,18.0,Female,Port Adam,High,2020-09-22,1012.83,506.415,2,508.97,503.86,0.0,≤18,False,False,False,False,False,False,False
+15d4ef39-45ae-443e-866c-ce025234f154,43.0,Female,New Shaunburgh,High,2022-11-18,357.46,357.46,1,357.46,357.46,0.0,36–50,False,False,False,False,False,False,False
+3e44871b-f56c-4576-b1ca-d1dc999e2166,40.0,Female,Porterport,,2020-09-03,423.94,423.94,1,423.94,423.94,0.0,36–50,False,False,False,False,False,False,False
+d8fc115f-73be-487b-bdae-921eee1052bb,49.0,Female,Ashleyport,High,2024-02-02,158.46,158.46,1,158.46,158.46,0.0,36–50,False,False,False,False,False,False,False
+1938b05f-14b1-4bda-bedf-24863003259e,45.0,Male,Donnachester,Medium,2022-08-29,959.32,479.66,2,945.53,13.79,0.0,36–50,False,False,False,False,False,False,False
+a76ed7fb-f0eb-4927-9cc5-e92294c44403,39.0,Male,Matthewsport,Medium,2019-11-11,389.46,389.46,1,389.46,389.46,0.0,36–50,False,False,False,False,False,False,False
+4605103f-9b58-43c8-baf9-73abfb2c0441,37.0,Female,Hooverport,High,2022-12-18,289.16,289.16,1,289.16,289.16,0.0,36–50,False,False,False,False,False,False,False
+57ed9f50-dca0-44b5-9d66-807135eccbee,18.0,Male,North Kylemouth,,2022-01-20,1260.785,630.3924999999999,2,764.16,496.625,0.0,≤18,False,False,False,False,False,False,False
+8d435ee0-fa33-4553-880a-e26511ac3921,48.0,Female,Wheelerborough,Low,2021-04-11,396.625,198.3125,2,496.625,-100.0,0.0,36–50,False,False,False,False,False,False,False
+17b835af-f4c8-414c-a611-0441d5485734,27.0,Male,East Patriciamouth,Low,2024-02-12,736.07,736.07,1,736.07,736.07,0.0,26–35,False,False,False,False,False,False,False
+74705e26-86f9-4ba5-ab58-f6dd42fa846b,25.0,Female,New Tim,High,2024-06-17,580.67,580.67,1,580.67,580.67,0.0,19–25,False,False,False,False,False,False,False
+9c649d2d-4a30-4ae5-865a-044f7f0bb386,54.0,Female,West David,Low,,1740.32,580.1066666666667,3,734.76,468.05,0.0,51–65,False,False,False,False,False,False,False
+d499e291-a5a7-4b2e-9a89-99c0a49da18a,51.0,Male,East Micheleview,,2022-07-29,369.38,369.38,1,369.38,369.38,0.0,51–65,False,False,False,False,False,False,False
+618bb55c-2c9a-4e5c-ae8d-a79bc0754d75,25.0,Female,Port Debra,,2024-06-03,40.72,40.72,1,40.72,40.72,0.0,19–25,False,False,False,False,False,False,False
+5000dc5d-f0c7-456c-9603-e73c6835b085,55.0,Male,Washingtonmouth,High,2022-02-25,715.21,715.21,1,715.21,715.21,0.0,51–65,False,False,False,False,False,False,False
+d45f2c3e-51ee-4f18-b761-b61a73fb8306,62.0,Male,New Chad,,2023-01-21,925.45,925.45,1,925.45,925.45,0.0,51–65,False,False,False,False,False,False,False
+835384f5-c976-481d-8961-cc827dc62c6b,60.0,Male,Stricklandport,High,,257.69,257.69,1,257.69,257.69,0.0,51–65,False,False,False,False,False,False,False
+b46b45f2-bb07-435e-b5a8-0626db6f7a07,41.0,Female,Lake Darylton,High,2021-02-07,963.3,963.3,1,963.3,963.3,0.0,36–50,False,False,False,False,False,False,False
+409c8d3d-63e6-4280-a699-91933c1eee73,63.0,Female,Jaredberg,High,2023-04-08,638.61,319.305,2,455.25,183.36,0.0,51–65,False,False,False,False,False,False,False
+ee802844-8070-4699-b60d-3568a7d306b6,66.0,Male,Wayneside,High,2022-06-14,1053.935,351.31166666666667,3,496.625,162.99,0.0,66+,False,False,False,False,False,False,False
+3828c289-6aa1-41e0-94d4-10d24539c9de,58.0,Male,Andrewstad,Medium,2024-05-04,209.34,209.34,1,209.34,209.34,0.0,51–65,False,False,False,False,False,False,False
+4d6201bd-1955-4e6a-adec-a7afe7109977,57.0,Female,Port Georgeland,Low,2020-06-11,774.41,774.41,1,774.41,774.41,0.0,51–65,False,False,False,False,False,False,False
+2130fd89-6ba4-4f36-bb90-2327cf27d0d6,69.0,Female,Rossburgh,Low,2023-03-05,0.0,0.0,1,0.0,0.0,0.0,66+,False,False,False,False,False,False,False
+44351274-c7c0-46f5-9c30-7b1fc22b590e,25.0,Male,Beckshire,High,2023-06-05,325.09,325.09,1,325.09,325.09,0.0,19–25,False,False,False,False,False,False,False
+20cf5d25-bcb2-4574-98b8-2f11d28ec2a0,26.0,Female,Port Jasonstad,Low,2020-07-27,887.8399999999999,443.92,2,579.05,308.79,0.0,26–35,False,False,False,False,False,False,False
+6d8e562b-b51c-47b5-9ff9-18b624030aab,50.0,Male,Chadburgh,High,2022-05-17,1469.22,734.61,2,880.15,589.07,0.0,36–50,False,False,False,False,False,False,False
+7335edae-4008-4386-ac65-f67b54eb40cb,45.0,Female,Michaelview,,2024-06-29,869.39,869.39,1,869.39,869.39,0.0,36–50,False,False,False,False,False,False,False
+3152d2c4-69d8-4986-9a29-5fecd49149b5,59.0,Female,New Dianeberg,High,2021-07-04,1109.795,554.8975,2,613.17,496.625,0.0,51–65,False,False,False,False,False,False,False
+306b1117-5749-4c99-bde1-62b0c65307a6,67.0,Female,Jacobsville,Medium,2019-08-16,971.41,971.41,1,971.41,971.41,0.0,66+,False,False,False,False,False,False,False
+6492040d-56f8-4c1a-bbe0-5b62fb39c65d,58.0,Male,Margarettown,Medium,2020-09-06,838.44,419.22,2,571.76,266.68,0.0,51–65,False,False,False,False,False,False,False
+4d866e12-9820-413c-a5f9-e3a95d8d82b0,36.0,Male,Barbarafurt,Low,2021-12-26,1044.04,348.0133333333333,3,418.2,290.59,0.0,36–50,False,False,False,False,False,False,False
+41515dfb-2748-4294-af0e-530898e03af9,57.0,Female,Port Jeffrey,Medium,2023-05-11,723.28,723.28,1,723.28,723.28,0.0,51–65,False,False,False,False,False,False,False
+2d71443b-57dd-4422-89b1-57ade9d5002d,46.0,Male,Marymouth,High,2021-11-28,434.75,434.75,1,434.75,434.75,0.0,36–50,False,False,False,False,False,False,False
+89a1568b-5c22-46d0-87fb-6ff0ff6ba8aa,21.0,Female,Port Pamela,High,2023-12-23,662.57,662.57,1,662.57,662.57,0.0,19–25,False,False,False,False,False,False,False
+937245e3-10c3-446d-ab02-f916fb556395,50.0,Female,Port Daniel,High,2022-03-01,538.73,538.73,1,538.73,538.73,0.0,36–50,False,False,False,False,False,False,False
+5956fb3e-5c6e-4c17-ab6a-99d5847768fb,68.0,Female,New Destiny,High,2024-02-02,346.87,346.87,1,346.87,346.87,0.0,66+,False,False,False,False,False,False,False
+26a40f69-7707-465d-8455-583546cd02d4,48.0,Male,South Veronica,Low,2023-03-04,880.89,880.89,1,880.89,880.89,0.0,36–50,False,False,False,False,False,False,False
+7e98133e-29ac-443b-a139-91a28f510ce8,45.0,Female,New Jenniferport,High,2019-08-16,1251.165,625.5825,2,754.54,496.625,0.0,36–50,False,False,False,False,False,False,False
+95f9b3a5-f108-4cd4-9887-97e9f01e36b0,45.0,Female,Ayalaborough,Medium,2021-01-03,921.78,921.78,1,921.78,921.78,0.0,36–50,False,False,False,False,False,False,False
+b01cf495-5ea5-4cb7-acd3-b2c1e6983959,36.0,Male,Hayesfurt,High,2020-01-08,1278.03,639.015,2,926.41,351.62,0.0,36–50,False,False,False,False,False,False,False
+478f6102-4807-431b-8bc5-c7f535335571,39.0,Female,Jasonberg,Medium,2021-07-20,387.67,387.67,1,387.67,387.67,0.0,36–50,False,False,False,False,False,False,False
+43d5ecb1-2850-45a0-b765-cec175e0030a,29.0,Female,Greenebury,High,2022-10-31,496.625,496.625,1,496.625,496.625,0.0,26–35,False,False,False,False,False,False,False
+aa5eea4b-c948-41f4-9285-229a470002aa,65.0,Female,Reidville,Low,2023-12-30,686.83,686.83,1,686.83,686.83,0.0,51–65,False,False,False,False,False,False,False
+d73b85a1-9eaf-4141-ab97-d98e418cd938,51.0,Male,Freychester,High,2024-01-20,958.56,958.56,1,958.56,958.56,0.0,51–65,False,False,False,False,False,False,False
+6c004b13-ff57-4693-b720-b72958029b20,24.0,Female,West Cynthia,Medium,,135.58,135.58,1,135.58,135.58,0.0,19–25,False,False,False,False,False,False,False
+7ab5cb0d-4284-4b14-9414-dbba3b9c2e89,28.0,Female,South Steven,Medium,2023-11-03,1719.41,573.1366666666667,3,963.99,325.87,0.0,26–35,False,False,False,False,False,False,False
+38d746bd-c227-416a-aa28-610ffd379e58,18.0,Male,Deannaville,Low,,-100.0,-100.0,1,-100.0,-100.0,0.0,≤18,False,False,False,False,False,False,False
+bb275448-8285-40dc-8d02-657918eea20f,23.0,Male,Mcmahonberg,High,2022-06-02,203.39,203.39,1,203.39,203.39,0.0,19–25,False,False,False,False,False,False,False
+6db13c6e-a2bb-49ad-a464-502b5043aa88,23.0,Female,North Samuelhaven,Low,2022-12-17,650.29,650.29,1,650.29,650.29,0.0,19–25,False,False,False,False,False,False,False
+8c30e42c-b170-4826-8bd3-c884b5f0715d,55.0,Male,New Douglasfurt,Low,2024-01-02,1766.19,883.095,2,969.6,796.59,0.0,51–65,False,False,False,False,False,False,False
+1559b55b-9653-4992-90d5-8819bd5466ef,69.0,Female,South Madison,Medium,2023-08-17,747.57,373.785,2,545.1,202.47,0.0,66+,False,False,False,False,False,False,False
+d59cf513-ec9c-40e3-919c-57e7893b0ae6,61.0,Female,Townsendfurt,Low,2021-10-03,1402.02,467.34,3,658.57,249.22,0.0,51–65,False,False,False,False,False,False,False
+045ab4a7-5793-4f93-bb9a-8becd4e20422,22.0,Female,Arielburgh,Low,2024-06-22,144.67,144.67,1,144.67,144.67,0.0,19–25,False,False,False,False,False,False,False
+f969ee04-7064-470e-8e2f-b4ed0fc6d140,54.0,Male,Mendozahaven,Medium,2021-07-01,733.13,733.13,1,733.13,733.13,0.0,51–65,False,False,False,False,False,False,False
+32ae4542-77b0-4a2c-90c9-63b08e717945,37.0,Male,Brianshire,High,2022-08-27,1438.505,719.2525,2,941.88,496.625,0.0,36–50,False,False,False,False,False,False,False
+f5713ff7-0bcc-41c1-a71b-ac9113ac43a9,54.0,Male,Cooperstad,Low,2023-10-03,768.04,384.02,2,588.43,179.61,0.0,51–65,False,False,False,False,False,False,False
+69c0971b-1c85-429a-aa61-496f9c0a4410,56.0,Male,Brendamouth,Medium,2024-03-12,1375.605,687.8025,2,878.98,496.625,0.0,51–65,False,False,False,False,False,False,False
+c5440e19-6474-40f0-9306-f4d590035241,69.0,Female,Lake Brandon,,2022-08-14,982.1,491.0499999999999,2,507.53,474.57,0.0,66+,False,False,False,False,False,False,False
+890f10ce-36f6-4993-9a2e-a00dfdf01609,33.0,Female,Denisehaven,Low,2022-09-04,741.03,741.03,1,741.03,741.03,0.0,26–35,False,False,False,False,False,False,False
+570259d3-ecc5-4bc2-8154-51134d7944c7,70.0,Female,New Amandaport,High,2022-02-12,11.55,11.55,1,11.55,11.55,0.0,66+,False,False,False,False,False,False,False
+1bc7f7da-3a8f-4df1-a411-c7c1d9a794fe,45.0,Female,West Erica,Medium,2020-12-10,949.86,474.9299999999999,2,592.9,356.96,0.0,36–50,False,False,False,False,False,False,False
+e5be0323-763b-4ce3-a575-f58313b295d5,59.0,Female,Trevinoshire,High,2024-05-04,1113.39,556.6949999999999,2,917.8,195.59,0.0,51–65,False,False,False,False,False,False,False
+05e09646-040f-425a-b5b3-d6f113e0c75b,65.0,Female,Doylehaven,Medium,2024-03-01,470.36,470.36,1,470.36,470.36,0.0,51–65,False,False,False,False,False,False,False
+32cef811-93ec-48b4-9fa5-e1174156e8cc,19.0,Male,Jimenezhaven,Low,2024-06-20,824.875,412.4375,2,496.625,328.25,0.0,19–25,False,False,False,False,False,False,False
+e7c7f991-9b89-485f-b2e1-216ac5c661a0,45.0,Female,Savagestad,Low,2021-01-11,1896.775,632.2583333333333,3,993.24,406.91,0.0,36–50,False,False,False,False,False,False,False
+a53c8c2d-9bcf-4812-ab7a-10840de166fb,69.0,Female,East Amy,Low,2023-11-12,1384.53,461.51,3,927.43,75.17,0.0,66+,False,False,False,False,False,False,False
+4bd40429-64f4-4702-8327-40195f8e362a,47.0,Female,Calvinton,,2019-10-06,866.03,866.03,1,866.03,866.03,0.0,36–50,False,False,False,False,False,False,False
+e42f4991-d951-4403-985c-c5633581c34c,24.0,Male,West Sarahmouth,Low,2019-10-01,666.09,666.09,1,666.09,666.09,0.0,19–25,False,False,False,False,False,False,False
+152b0a87-9600-4cb1-b0ae-b43c85433787,20.0,Female,Howardhaven,Medium,,1005.615,335.205,3,496.625,83.2,0.0,19–25,False,False,False,False,False,False,False
+b82ee981-f4ba-49e3-95de-49084a33db20,20.0,Male,East Stacymouth,Low,2021-03-28,0.0,0.0,1,0.0,0.0,0.0,19–25,False,False,False,False,False,False,False
+eaa372ee-4574-43db-adb8-8bb3e92226e1,45.0,Male,New Steve,Low,2021-06-30,511.36,511.36,1,511.36,511.36,0.0,36–50,False,False,False,False,False,False,False
+428c1b00-d1dc-4d9a-b4e0-60d112f3352b,60.0,Male,Williammouth,Medium,2019-11-11,1190.86,595.43,2,933.16,257.7,0.0,51–65,False,False,False,False,False,False,False
+8b01dabe-8fbe-46b0-8684-d7cc59a613ba,19.0,Male,Amandaside,High,2020-09-19,412.91,412.91,1,412.91,412.91,0.0,19–25,False,False,False,False,False,False,False
+62569bed-8b56-46fb-8325-a8e8c062f34f,25.0,Female,Staceytown,Medium,2024-04-27,496.625,496.625,1,496.625,496.625,0.0,19–25,False,False,False,False,False,False,False
+3c0a3687-a1aa-421e-b671-9e4f859c56e4,44.0,Male,South Barbaramouth,Medium,2020-05-07,1495.78,747.89,2,813.91,681.87,0.0,36–50,False,False,False,False,False,False,False
+7ebb1bd0-ca6b-4090-9351-c4793fdf4bfe,70.0,Female,New Davidstad,,2021-08-14,748.67,748.67,1,748.67,748.67,0.0,66+,False,False,False,False,False,False,False
+c5537a33-a4c2-4e97-b439-a4d59e2baf6b,50.0,Female,Johnsonland,Low,2023-11-30,99.66,99.66,1,99.66,99.66,0.0,36–50,False,False,False,False,False,False,False
+a6cdffb1-b3cf-4aa3-af54-e42be3a8c260,60.0,Male,East Amy,Low,2020-01-30,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+2cecde18-be4f-443a-9e48-fc7013fce734,43.0,Female,East Danielle,Low,2021-11-12,318.49,318.49,1,318.49,318.49,0.0,36–50,False,False,False,False,False,False,False
+83daf4d4-0b79-4938-8936-0237e7de0653,56.0,Male,Port Michaelstad,Medium,2022-04-30,643.94,643.94,1,643.94,643.94,0.0,51–65,False,False,False,False,False,False,False
+3086bbcb-41c0-445c-bb8a-9ae2d41a307b,43.0,Male,New Tammyberg,High,2020-05-04,166.26,83.13,2,111.6,54.66,0.0,36–50,False,False,False,False,False,False,False
+f9a95810-d0b9-4606-baac-d7240340b329,29.0,Female,Youngchester,High,2024-02-28,126.74,126.74,1,126.74,126.74,0.0,26–35,False,False,False,False,False,False,False
+d1819fe7-bcfe-433e-9f59-83aa549cc779,63.0,Male,Penaville,High,2020-03-02,1350.82,675.41,2,722.81,628.01,0.0,51–65,False,False,False,False,False,False,False
+fa6fd647-df0a-4c45-a6c3-d6354d7249b6,51.0,Male,Charlotteland,Medium,2022-10-19,1581.12,790.56,2,891.14,689.98,0.0,51–65,False,False,False,False,False,False,False
+c523a06d-69e9-48ab-9604-a060d44f8aaf,41.0,Male,East Adam,Low,2022-03-02,1749.68,874.84,2,952.71,796.97,0.0,36–50,False,False,False,False,False,False,False
+4daabb30-a613-4170-bdb6-b79e45d9856b,44.0,Male,Gutierrezburgh,Low,2021-09-27,1494.99,498.33,3,649.95,251.4,0.0,36–50,False,False,False,False,False,False,False
+8fc8a8ff-33a1-43e9-91a1-37969a253271,48.0,Female,Leahfurt,Low,,963.88,963.88,1,963.88,963.88,0.0,36–50,False,False,False,False,False,False,False
+551a4700-bea6-4596-b371-48c0ee1b5bf0,36.0,Male,Jamesfurt,High,2023-03-04,663.12,663.12,1,663.12,663.12,0.0,36–50,False,False,False,False,False,False,False
+e06f0e16-8e48-483b-b103-9f105b139ca8,68.0,Female,New Katherine,Low,2024-01-25,1119.285,559.6424999999999,2,622.66,496.625,0.0,66+,False,False,False,False,False,False,False
+ab125c81-4129-466b-a8a4-f127fa73e694,26.0,Male,Port Kathleenville,High,,1321.145,660.5725,2,824.52,496.625,0.0,26–35,False,False,False,False,False,False,False
+59e1ccfe-8f67-4f2c-8e4c-f1483df35ae8,42.0,Male,East Stephanieland,High,2021-01-09,1162.325,581.1625,2,665.7,496.625,0.0,36–50,False,False,False,False,False,False,False
+75675707-f167-4964-ae1c-9081f3a8f775,36.0,Male,East Dakotaborough,Low,2022-08-05,604.66,604.66,1,604.66,604.66,0.0,36–50,False,False,False,False,False,False,False
+06af0246-5f53-45f4-997e-bf42706b11d7,53.0,Male,Stevenberg,,2022-11-25,635.7,635.7,1,635.7,635.7,0.0,51–65,False,False,False,False,False,False,False
+ef10b8a1-1014-4edf-a80e-207b7790e894,64.0,Female,Jamieview,High,2023-03-14,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+c95dd000-c041-4a0f-9bb4-1d43d2336aa1,27.0,Male,Pughhaven,Medium,2024-03-11,187.64,187.64,1,187.64,187.64,0.0,26–35,False,False,False,False,False,False,False
+210a1b9d-b708-4071-b600-46a1df62bfde,44.0,Female,Kristinmouth,High,2019-07-27,646.21,646.21,1,646.21,646.21,0.0,36–50,False,False,False,False,False,False,False
+f5172879-62d2-429f-8170-e7b96906e7c8,51.0,Male,Nicoleside,Medium,2021-08-14,1489.875,496.625,3,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+66a5402f-681b-485f-8e79-82e647fd97d3,51.0,Male,Taylorborough,High,2020-08-27,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+2f61e9ec-bd83-49dd-a0c4-2eae5f4ef41d,45.0,Female,North Jonathan,High,2023-05-03,1325.76,662.88,2,868.31,457.45,0.0,36–50,False,False,False,False,False,False,False
+c730f890-8def-4e02-a90a-f76b014f521b,45.0,Male,Michaelton,Medium,2019-08-27,841.42,841.42,1,841.42,841.42,0.0,36–50,False,False,False,False,False,False,False
+f84dbd5b-2a2a-43b9-95e7-79d4c354cf81,64.0,Male,North Kari,Low,2022-11-05,915.54,915.54,1,915.54,915.54,0.0,51–65,False,False,False,False,False,False,False
+6dfdcd2e-3918-4dcd-b2bc-34cea11060be,25.0,Male,North Shirley,Low,2023-10-25,102.81,102.81,1,102.81,102.81,0.0,19–25,False,False,False,False,False,False,False
+648dac00-686c-41c0-8d59-3bee7d3bd390,60.0,Male,West Anne,,2020-12-19,210.62,210.62,1,210.62,210.62,0.0,51–65,False,False,False,False,False,False,False
+dd68aaa6-d50a-4b2f-be13-0331ceae7708,53.0,Male,Pamfort,High,2022-11-03,1537.0500000000002,768.5250000000001,2,896.2,640.85,0.0,51–65,False,False,False,False,False,False,False
+1a103b87-f903-40de-8615-fdb7a50db074,43.0,Female,Charlesbury,High,2021-02-07,1076.19,538.095,2,575.37,500.82,0.0,36–50,False,False,False,False,False,False,False
+eee4c0b3-21d6-47ae-8631-718341d97a86,45.0,Female,Patrickhaven,,2023-01-24,797.66,398.83,2,717.15,80.51,0.0,36–50,False,False,False,False,False,False,False
+ce5cf079-859b-43fa-9609-c6bb7e12c6b7,,Female,Adrianhaven,Low,2024-01-10,1425.56,475.18666666666667,3,772.67,100.19,0.0,,False,False,False,False,False,False,False
+be4e184b-21d4-40f3-926b-bb3d6504942d,56.0,Male,East Albertberg,High,2023-06-28,943.06,943.06,1,943.06,943.06,0.0,51–65,False,False,False,False,False,False,False
+1ee3bb5f-94ab-451d-89bb-9f1180ed009d,25.0,Female,Wrightfort,High,2020-06-16,342.83000000000004,171.41500000000002,2,202.33,140.5,0.0,19–25,False,False,False,False,False,False,False
+9de4e68f-2be5-489d-bbe0-e2dff3d3d24c,59.0,Male,Longland,High,2022-06-24,822.165,411.0825,2,496.625,325.54,0.0,51–65,False,False,False,False,False,False,False
+0cf298e7-5527-497f-b764-90599766f2a3,25.0,Female,Hallmouth,,,496.625,496.625,1,496.625,496.625,0.0,19–25,False,False,False,False,False,False,False
+af4927ba-261a-43f2-93fb-87c102029ebb,65.0,Male,North Melissaside,Low,2020-06-10,204.35,204.35,1,204.35,204.35,0.0,51–65,False,False,False,False,False,False,False
+d5f8626d-9470-4900-81e4-c8c43e132d05,38.0,Female,South Derrickville,Medium,2023-08-25,304.24,304.24,1,304.24,304.24,0.0,36–50,False,False,False,False,False,False,False
+94af9fb6-cf6b-47ae-94b1-932bc5da0e25,66.0,Male,Port Destiny,,2023-09-30,451.6,451.6,1,451.6,451.6,0.0,66+,False,False,False,False,False,False,False
+07e5ffc3-0402-45ea-9b53-a75abaec9222,49.0,Female,Starkfort,Medium,2019-10-25,349.47,349.47,1,349.47,349.47,0.0,36–50,False,False,False,False,False,False,False
+481bcc62-9dcb-4766-bbdd-79f5554d73f8,31.0,Male,South Kelly,High,2023-09-24,606.375,303.1875,2,496.625,109.75,0.0,26–35,False,False,False,False,False,False,False
+675a23dc-8d6e-483a-b0ec-4dbcc6812db9,64.0,Female,West Vincent,Medium,2022-12-11,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+57949a01-31cd-4f78-b64c-392e0a74bd1f,45.0,Female,North Williamstad,High,2021-11-11,732.75,732.75,1,732.75,732.75,0.0,36–50,False,False,False,False,False,False,False
+f603932e-b69c-434a-a986-e317ac9bc0fc,67.0,Female,Hillhaven,,2022-03-12,633.06,633.06,1,633.06,633.06,0.0,66+,False,False,False,False,False,False,False
+07ea2879-d2f9-49ab-935b-d5d2e21ca816,45.0,Male,New Brittanyberg,Medium,2019-09-21,633.91,633.91,1,633.91,633.91,0.0,36–50,False,False,False,False,False,False,False
+454e8612-79c8-4ef6-96d8-c369d6f50825,64.0,Female,East Sandraport,Low,2020-03-21,984.45,984.45,1,984.45,984.45,0.0,51–65,False,False,False,False,False,False,False
+030c85eb-9872-47e3-83ca-0ac4af613294,66.0,Male,Alexandriamouth,Low,2021-01-31,325.16,325.16,1,325.16,325.16,0.0,66+,False,False,False,False,False,False,False
+6919c087-4f09-4b19-a5a3-962999f01640,45.0,Female,Port Tylerview,Low,2023-04-23,423.73,423.73,1,423.73,423.73,0.0,36–50,False,False,False,False,False,False,False
+c4564107-c103-4f5e-bda4-314c9d46af7f,48.0,Male,Lake Shaun,High,2019-10-20,236.91,236.91,1,236.91,236.91,0.0,36–50,False,False,False,False,False,False,False
+8a3b08df-5162-4ee5-b1fa-55bd3bedf3e4,47.0,Female,Michaelville,Medium,2021-07-13,96.29,96.29,1,96.29,96.29,0.0,36–50,False,False,False,False,False,False,False
+9423d089-86b6-4df7-a231-b9a7d06c43a5,42.0,Male,Karenshire,Low,2022-06-20,889.95,889.95,1,889.95,889.95,0.0,36–50,False,False,False,False,False,False,False
+fa7d31de-04f7-4c22-a723-2cdb144c55d7,55.0,Female,East Christopherburgh,Low,2020-07-05,0.0,0.0,1,0.0,0.0,0.0,51–65,False,False,False,False,False,False,False
+f0ec8904-93cb-40bc-82cd-96ee6c34da9b,70.0,Female,Natashamouth,Low,2019-11-06,644.05,644.05,1,644.05,644.05,0.0,66+,False,False,False,False,False,False,False
+23c9a49a-62de-4659-8a96-8e0313f04cad,65.0,Female,Martinezshire,Low,2019-09-29,961.69,961.69,1,961.69,961.69,0.0,51–65,False,False,False,False,False,False,False
+e2b61ce8-65cb-437f-a370-4feef6395a80,63.0,Male,South Tanner,High,2022-11-12,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+6154b65e-fd07-4aa4-a275-18da9988709c,30.0,Female,Kellyfort,Medium,2021-08-13,539.87,539.87,1,539.87,539.87,0.0,26–35,False,False,False,False,False,False,False
+e8d8dccc-96b4-4451-ac1b-c4de6d18c3dd,34.0,Female,Martinstad,Medium,2022-01-31,891.74,891.74,1,891.74,891.74,0.0,26–35,False,False,False,False,False,False,False
+700a2326-efbc-4774-b564-0fe6ec9eb34b,57.0,Female,Michaelville,Medium,2020-08-02,739.88,739.88,1,739.88,739.88,0.0,51–65,False,False,False,False,False,False,False
+b77c0398-2ff6-41e6-9ebf-410290baadc8,45.0,Male,Ashleystad,Low,2021-03-22,496.625,496.625,1,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+b84c6729-8e89-4806-92d4-55c7e4da50d9,34.0,Male,Wagnerton,High,2024-02-01,845.38,845.38,1,845.38,845.38,0.0,26–35,False,False,False,False,False,False,False
+53408519-26e0-465e-bd85-3da3424c147e,67.0,Female,Port Shannon,,2019-08-27,1475.835,737.9175,2,979.21,496.625,0.0,66+,False,False,False,False,False,False,False
+d3b37301-dfba-4182-a0be-1da6f2186393,47.0,Female,New Marcusburgh,High,2023-01-12,13.43,6.715,2,13.43,0.0,0.0,36–50,False,False,False,False,False,False,False
+60b4f94b-9fe0-4851-82ea-64d10af847b8,66.0,Male,Onealberg,Medium,2021-11-03,498.05,498.05,1,498.05,498.05,0.0,66+,False,False,False,False,False,False,False
+1fe699a4-99b9-4787-99ec-27d49fe60a14,43.0,Male,Johnshire,Low,2019-09-15,318.18,318.18,1,318.18,318.18,0.0,36–50,False,False,False,False,False,False,False
+66987651-e469-4fc4-a5ca-ed23c08959fb,34.0,Male,Martinezshire,Medium,2022-01-29,968.56,968.56,1,968.56,968.56,0.0,26–35,False,False,False,False,False,False,False
+92012350-c38f-4911-987b-6c574e4826b7,62.0,Male,West Elizabeth,Medium,2023-04-12,773.33,773.33,1,773.33,773.33,0.0,51–65,False,False,False,False,False,False,False
+973945a8-ea5a-4106-b169-fcf330e4e6d2,43.0,Female,Lake Yolanda,Medium,2020-04-24,475.8,475.8,1,475.8,475.8,0.0,36–50,False,False,False,False,False,False,False
+6b6cd86a-d0af-48ab-ada5-e596f726cffa,53.0,Male,Wendyton,Low,2022-03-02,-100.0,-100.0,1,-100.0,-100.0,0.0,51–65,False,False,False,False,False,False,False
+60e5552c-51f9-4d7a-b90d-5ac4a5e1756c,62.0,Male,Jamesside,Low,2022-02-16,848.08,848.08,1,848.08,848.08,0.0,51–65,False,False,False,False,False,False,False
+ca1e90f6-0e5f-492e-ab92-252ff540da18,62.0,Female,New Nicholestad,High,2024-02-10,189.71,189.71,1,189.71,189.71,0.0,51–65,False,False,False,False,False,False,False
+0cb9ffd9-da09-4b10-8e1d-60d84889933b,69.0,Female,West Andrea,High,2023-06-02,959.38,959.38,1,959.38,959.38,0.0,66+,False,False,False,False,False,False,False
+2595b6ef-fefb-4725-821d-bf18ef364499,34.0,Male,Rushchester,Medium,2020-10-02,34.25,34.25,1,34.25,34.25,0.0,26–35,False,False,False,False,False,False,False
+be10f9ef-a8e8-4ee2-a296-48c31c209b14,58.0,Female,North Reginafort,High,2020-01-19,910.12,455.06,2,477.72,432.4,0.0,51–65,False,False,False,False,False,False,False
+6df49541-947f-4657-8ec6-6a1a5d6f033d,18.0,Female,Pamelatown,Medium,2020-04-29,505.86,505.86,1,505.86,505.86,0.0,≤18,False,False,False,False,False,False,False
+f0c55dc8-d7f6-481d-8992-af3ce9453a51,70.0,Male,New George,High,2020-11-25,927.16,927.16,1,927.16,927.16,0.0,66+,False,False,False,False,False,False,False
+16d0b561-279d-4da9-9aa8-8c5906dff79a,57.0,Male,West William,High,2022-12-10,1414.48,707.24,2,982.84,431.64,0.0,51–65,False,False,False,False,False,False,False
+4d348827-d2bd-4303-99aa-97a2ce15563f,69.0,Female,Carrberg,High,2020-09-16,567.37,567.37,1,567.37,567.37,0.0,66+,False,False,False,False,False,False,False
+ec48d5a4-fb1d-4168-9fff-01a1780d555e,23.0,Female,Anthonyborough,Medium,2021-01-28,1059.1950000000002,529.5975000000001,2,562.57,496.625,0.0,19–25,False,False,False,False,False,False,False
+a182297b-e38a-43a7-bc51-572645ba843b,66.0,Male,East Melissa,High,2020-07-04,496.625,496.625,1,496.625,496.625,0.0,66+,False,False,False,False,False,False,False
+4f826eca-8187-4f86-bb0b-37338c896d50,31.0,Female,Claytonburgh,Low,2020-08-22,496.625,496.625,1,496.625,496.625,0.0,26–35,False,False,False,False,False,False,False
+2eb6a3f0-488a-44d3-a260-86da1b289ce0,49.0,Male,Bryantburgh,High,2022-02-12,962.4,962.4,1,962.4,962.4,0.0,36–50,False,False,False,False,False,False,False
+c448b2f5-80a5-4fde-8144-8bea32bc3618,40.0,Male,Millermouth,Medium,2021-10-30,983.83,983.83,1,983.83,983.83,0.0,36–50,False,False,False,False,False,False,False
+8496167f-5a05-4be9-bb1a-eaedcc0d9dc3,56.0,Male,East Lauren,Medium,2022-12-29,213.55,213.55,1,213.55,213.55,0.0,51–65,False,False,False,False,False,False,False
+d407a32a-9402-4cb6-9cb3-8200a608566f,54.0,Male,South Timothy,Low,2019-10-07,113.62,113.62,1,113.62,113.62,0.0,51–65,False,False,False,False,False,False,False
+2a36ba73-e710-4a2f-8d90-2cbe1831e30f,25.0,Female,Tinaville,Low,2020-05-12,323.04,323.04,1,323.04,323.04,0.0,19–25,False,False,False,False,False,False,False
+996dc968-4b6e-4dd5-ab98-e69a88eaca15,31.0,Male,Andrewchester,Low,2020-01-05,817.27,817.27,1,817.27,817.27,0.0,26–35,False,False,False,False,False,False,False
+86afcf3f-ef6e-462b-84fb-589fddee7d49,59.0,Female,North Darius,Medium,2024-04-10,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+9fdb68bc-77c1-4651-9cc7-1346395a265a,45.0,Female,North Tina,High,,464.26,464.26,1,464.26,464.26,0.0,36–50,False,False,False,False,False,False,False
+9b8c33cc-4121-4fad-82ee-fb5fa49b1b74,27.0,Male,South Bradley,Low,2023-02-20,921.27,460.635,2,742.88,178.39,0.0,26–35,False,False,False,False,False,False,False
+46471751-46b7-42f9-afbf-a02412e647ee,20.0,Male,East Charlesburgh,Medium,2022-04-23,793.0,793.0,1,793.0,793.0,0.0,19–25,False,False,False,False,False,False,False
+16120901-738d-417e-a271-6aaf0d6caa83,48.0,Female,Port Jaimestad,Low,2024-05-03,592.95,592.95,1,592.95,592.95,0.0,36–50,False,False,False,False,False,False,False
+b0ce5c86-420b-4bc6-be06-02814c3feb2f,62.0,Female,Hunterhaven,Low,2023-07-25,696.76,696.76,1,696.76,696.76,0.0,51–65,False,False,False,False,False,False,False
+8259be60-437d-486d-9b10-b834e22ba7cc,45.0,Male,Adamsville,High,2022-03-29,1299.04,649.52,2,908.51,390.53,0.0,36–50,False,False,False,False,False,False,False
+209e0eab-c6a2-42b4-96a7-d13b8191ff41,45.0,Male,South Kaylaville,Low,2022-05-23,369.65,369.65,1,369.65,369.65,0.0,36–50,False,False,False,False,False,False,False
+b3b912ee-bc75-4ba3-aa9c-4be51830ed21,37.0,Female,Donaldstad,Medium,2020-02-09,578.8199999999999,289.40999999999997,2,309.48,269.34,0.0,36–50,False,False,False,False,False,False,False
+f53ca52e-ad0e-49c5-84c4-25c8be29ceff,59.0,Male,Jenniferstad,Low,2020-04-08,47.98,47.98,1,47.98,47.98,0.0,51–65,False,False,False,False,False,False,False
+020b3cac-9f2f-4d73-b078-c94099d75240,18.0,Male,Toddtown,Low,2019-12-22,393.86,393.86,1,393.86,393.86,0.0,≤18,False,False,False,False,False,False,False
+00e3c219-db57-4ed2-bc50-99a18fea33a7,52.0,Female,Clementsberg,Low,2023-08-26,399.57,399.57,1,399.57,399.57,0.0,51–65,False,False,False,False,False,False,False
+8fb381a7-f59a-4da7-be95-d61ca40cf83d,49.0,Male,New Tiffany,Low,2022-02-14,822.56,822.56,1,822.56,822.56,0.0,36–50,False,False,False,False,False,False,False
+78fec206-bd61-4111-8a5b-6c450b8e4268,26.0,Female,Christiantown,Medium,2020-08-18,632.2,316.1,2,392.94,239.26,0.0,26–35,False,False,False,False,False,False,False
+6fa9f01c-09f8-44fd-8e18-51ca4f3921bf,67.0,Male,West Justin,Medium,2022-05-11,496.625,496.625,1,496.625,496.625,0.0,66+,False,False,False,False,False,False,False
+322d552c-3a57-48dc-bfff-7804e35ab734,61.0,Male,West Harold,Low,2020-10-10,265.78,265.78,1,265.78,265.78,0.0,51–65,False,False,False,False,False,False,False
+88eec86b-65ca-49d4-9f92-55ee41cf25ca,39.0,Male,Christophertown,Medium,2022-12-02,210.2,210.2,1,210.2,210.2,0.0,36–50,False,False,False,False,False,False,False
+904ac3b7-e3b8-4462-9357-17721fd3315f,56.0,Female,Conwaymouth,Medium,2022-07-31,52.01,52.01,1,52.01,52.01,0.0,51–65,False,False,False,False,False,False,False
+0a21cfa0-fa4d-45f6-8236-4995799bc0cc,38.0,Female,Donnaport,Medium,2023-10-25,1453.29,726.645,2,737.73,715.56,0.0,36–50,False,False,False,False,False,False,False
+a8f82019-5586-46dc-87b2-3660e80ecd7d,45.0,Male,South Andrew,Low,2022-11-15,1320.4,660.2,2,678.55,641.85,0.0,36–50,False,False,False,False,False,False,False
+a89a9ca8-afae-4f78-9dfe-514d9d8e5735,23.0,Female,South Nicole,Medium,2022-08-20,1398.87,699.435,2,782.61,616.26,0.0,19–25,False,False,False,False,False,False,False
+c16f42a8-3339-49f4-9aea-c1dda8b0701e,70.0,Male,New Ryan,Medium,2021-08-04,1288.21,644.105,2,790.23,497.98,0.0,66+,False,False,False,False,False,False,False
+76c1d696-0f1c-44b5-b749-8859545658eb,45.0,Female,South Frankside,High,2020-05-14,886.8,886.8,1,886.8,886.8,0.0,36–50,False,False,False,False,False,False,False
+42da3b26-e9c9-4676-938d-4486bfc38ab6,19.0,Male,Wilsonside,High,2022-03-26,73.42,73.42,1,73.42,73.42,0.0,19–25,False,False,False,False,False,False,False
+c9158142-8cc1-452d-9c32-5760943ded3d,46.0,Female,Racheltown,High,2019-07-12,822.19,822.19,1,822.19,822.19,0.0,36–50,False,False,False,False,False,False,False
+d4d508a7-1fe5-4321-b314-bda3ddb3cdda,32.0,Female,Turnerland,Low,2019-12-10,663.63,663.63,1,663.63,663.63,0.0,26–35,False,False,False,False,False,False,False
+37709633-2fac-4ab7-b420-8420cbdd4bdb,42.0,Female,Sanchezfort,Medium,2023-03-07,1019.31,509.655,2,814.51,204.8,0.0,36–50,False,False,False,False,False,False,False
+8f440758-f8ac-44ee-9f83-51d9bde6d101,45.0,Male,North Erinchester,High,2021-04-27,1489.875,496.625,3,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+940e1d2b-75a3-4eb3-bcfb-94f899c04a35,61.0,Female,Kellerburgh,Low,2022-01-21,843.08,843.08,1,843.08,843.08,0.0,51–65,False,False,False,False,False,False,False
+a7937edb-0b78-4642-afd6-50e3b4cf66b3,46.0,Female,Joneston,Low,2023-12-31,1390.895,463.63166666666666,3,525.36,368.91,0.0,36–50,False,False,False,False,False,False,False
+cccb312c-4304-4bd8-a66f-6a39a1129846,67.0,Female,Port Kevin,Medium,2020-11-12,394.2,394.2,1,394.2,394.2,0.0,66+,False,False,False,False,False,False,False
+e8621a96-7c59-4079-88b1-b6ebd790f1b6,62.0,Male,Christinatown,,2022-03-03,445.66,445.66,1,445.66,445.66,0.0,51–65,False,False,False,False,False,False,False
+b6d5b373-c307-44f4-a89c-ac7a56c9b103,70.0,Female,West Clintonland,,2021-11-04,54.97,54.97,1,54.97,54.97,0.0,66+,False,False,False,False,False,False,False
+9423d7e7-2239-478f-9a2a-5ce386882aa2,63.0,Male,Lake Justinstad,High,2020-07-28,0.0,0.0,1,0.0,0.0,0.0,51–65,False,False,False,False,False,False,False
+3341628f-8548-4ae7-9000-ec20c5973e5a,45.0,Female,Stacybury,Medium,2022-08-08,237.79,237.79,1,237.79,237.79,0.0,36–50,False,False,False,False,False,False,False
+dc72a8be-9df4-4223-83ee-50131b249bd3,46.0,Male,West Sherri,High,2023-02-24,266.0,266.0,1,266.0,266.0,0.0,36–50,False,False,False,False,False,False,False
+35434af3-775f-4360-82fb-972481aefd54,28.0,Female,Davidland,Low,2020-07-31,205.13,205.13,1,205.13,205.13,0.0,26–35,False,False,False,False,False,False,False
+bb07fa4a-8680-4b77-b1ad-5d2f67570252,52.0,Male,Port Davidtown,High,,351.38,351.38,1,351.38,351.38,0.0,51–65,False,False,False,False,False,False,False
+f4b519c5-250e-4834-a0c0-c10b1e3eecda,28.0,Female,Walkerberg,High,2021-12-09,481.33,481.33,1,481.33,481.33,0.0,26–35,False,False,False,False,False,False,False
+b33cc50a-b96d-4bae-b056-82446c576152,38.0,Female,Nelsonside,High,2021-09-20,746.44,746.44,1,746.44,746.44,0.0,36–50,False,False,False,False,False,False,False
+f95546c1-e96f-486a-ab84-ebb048198b4e,56.0,Female,Lake Alecview,Medium,2022-12-01,630.57,630.57,1,630.57,630.57,0.0,51–65,False,False,False,False,False,False,False
+961ea5d2-d165-46be-9e55-798607bc8177,52.0,Female,Maryfurt,Medium,2023-10-29,903.575,451.7875,2,496.625,406.95,0.0,51–65,False,False,False,False,False,False,False
+a7c29c33-e968-4d84-82cd-1269ed1e7c1e,52.0,Female,Virginiaview,Medium,2023-03-16,-100.0,-100.0,1,-100.0,-100.0,0.0,51–65,False,False,False,False,False,False,False
+edd44c40-873f-4fbd-9ceb-8e9c59254485,69.0,Male,Lake Terri,High,2024-01-14,496.625,496.625,1,496.625,496.625,0.0,66+,False,False,False,False,False,False,False
+e8b4797e-90c9-4e6c-a859-c57df6254514,25.0,Female,Aguilarstad,Low,2023-06-04,986.7,986.7,1,986.7,986.7,0.0,19–25,False,False,False,False,False,False,False
+02b325b3-f763-47f0-8454-d8cb65fa1832,58.0,Female,Port Christinahaven,Medium,2021-10-03,422.23,422.23,1,422.23,422.23,0.0,51–65,False,False,False,False,False,False,False
+a3ceaaae-d389-4f71-801f-182316d6b788,66.0,Female,Schultztown,Medium,2022-06-04,262.62,262.62,1,262.62,262.62,0.0,66+,False,False,False,False,False,False,False
+ad21da52-d3d5-462d-bf3b-841e989ba1be,26.0,Female,Williamburgh,Medium,2020-03-19,291.9,291.9,1,291.9,291.9,0.0,26–35,False,False,False,False,False,False,False
+26731b9b-4666-4a73-9d31-723dc46be09f,55.0,Female,Schneiderview,High,2021-07-28,387.02,387.02,1,387.02,387.02,0.0,51–65,False,False,False,False,False,False,False
+a60e0cb6-7b43-44f2-956a-16caae372e9f,70.0,Male,Port Joseph,Low,2021-08-18,192.36,192.36,1,192.36,192.36,0.0,66+,False,False,False,False,False,False,False
+9c4eeca5-47b9-422b-88e9-2cc77cf58a20,66.0,Female,West Jay,High,2021-03-29,81.97,81.97,1,81.97,81.97,0.0,66+,False,False,False,False,False,False,False
+4c891c44-2756-4119-bf66-00a767316458,35.0,Male,West Jeff,Medium,2019-09-11,956.7,956.7,1,956.7,956.7,0.0,26–35,False,False,False,False,False,False,False
+11b046f0-b091-4bfb-b0f4-df58bfea039a,34.0,Female,East Antonio,,2021-12-29,369.44,369.44,1,369.44,369.44,0.0,26–35,False,False,False,False,False,False,False
+e428f752-7388-44dd-8461-13f18101a835,67.0,Female,Wrightside,Medium,2020-04-09,845.71,845.71,1,845.71,845.71,0.0,66+,False,False,False,False,False,False,False
+9ff4729f-7386-448c-8205-ce0995a50c9b,66.0,Female,West Tonyaport,Medium,2021-09-14,250.78,250.78,1,250.78,250.78,0.0,66+,False,False,False,False,False,False,False
+34878e84-afed-4cb1-a969-08a070c6be85,20.0,Male,Kingbury,High,2022-09-15,837.08,418.54,2,837.08,0.0,0.0,19–25,False,False,False,False,False,False,False
+00d4fbfe-5ce0-4d87-a307-b15801d1373e,18.0,Female,Port Howard,High,2022-10-31,709.0999999999999,354.54999999999995,2,361.4,347.7,0.0,≤18,False,False,False,False,False,False,False
+bf67d7a6-f689-4aa7-932c-44ed4a0106da,31.0,Male,Ryanmouth,High,2024-01-22,538.35,538.35,1,538.35,538.35,0.0,26–35,False,False,False,False,False,False,False
+9223891b-73ff-4d5c-b8ae-13ece82ee28b,46.0,Female,Sherriburgh,Low,2022-04-22,563.99,563.99,1,563.99,563.99,0.0,36–50,False,False,False,False,False,False,False
+06d90ad7-f0cd-411b-8dc6-2b3132fe42d8,54.0,Male,Hardymouth,Medium,2020-05-03,578.13,289.065,2,508.04,70.09,0.0,51–65,False,False,False,False,False,False,False
+10bf4b6a-7435-4251-9b86-01d9c4b75a3c,45.0,Female,North Bryanborough,High,2022-10-30,271.97,271.97,1,271.97,271.97,0.0,36–50,False,False,False,False,False,False,False
+3c7fde22-eebd-4669-860a-e4b5574e4158,51.0,Male,Burnsmouth,Medium,2019-08-18,1044.38,522.19,2,829.25,215.13,0.0,51–65,False,False,False,False,False,False,False
+cd406f95-85b9-4aa4-b550-71136df2534b,55.0,Male,Lake Matthewside,Low,2019-07-13,708.07,708.07,1,708.07,708.07,0.0,51–65,False,False,False,False,False,False,False
+efa73de0-f044-49ae-8118-c5607b420e4c,66.0,Male,Danielside,High,2021-01-19,1259.325,629.6625,2,762.7,496.625,0.0,66+,False,False,False,False,False,False,False
+ef43348f-ca24-4768-9ff8-49d61372c266,25.0,Male,Barnesmouth,Low,2019-10-08,971.58,971.58,1,971.58,971.58,0.0,19–25,False,False,False,False,False,False,False
+153e984c-d96b-4749-b0b5-ca0f7490a048,65.0,Female,Lake Christianmouth,High,2020-02-20,887.5799999999999,443.79,2,839.41,48.17,0.0,51–65,False,False,False,False,False,False,False
+fb54e89f-87cc-4b19-9c19-9488273a3a69,31.0,Male,Lake Stephaniemouth,High,2023-11-01,593.23,593.23,1,593.23,593.23,0.0,26–35,False,False,False,False,False,False,False
+6534afd4-bd7d-4e8c-a2e2-2986fc764bed,45.0,Male,Jimenezberg,,2022-03-08,496.625,496.625,1,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+614379ce-8b7d-4c8d-8f71-8e8bf62066a4,45.0,Male,East Keithburgh,Medium,2020-12-26,943.59,943.59,1,943.59,943.59,0.0,36–50,False,False,False,False,False,False,False
+d1c17e57-cbb9-4dc8-b638-ba2f1b1a8cef,24.0,Male,Charlesville,High,2021-03-29,479.65,239.825,2,409.28,70.37,0.0,19–25,False,False,False,False,False,False,False
+6685f2fb-41e7-48e5-80d0-8da360b791f1,43.0,Male,South Ryanland,Medium,2021-02-04,496.625,496.625,1,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+29b0d097-a024-4afe-9b54-cce47df42f6c,65.0,Female,Port Thomas,Low,2024-06-10,278.73,278.73,1,278.73,278.73,0.0,51–65,False,False,False,False,False,False,False
+ec58ff99-ede4-4b51-8b0c-efdbb61275a7,34.0,Female,Port Kaylaland,Medium,2024-01-28,680.645,340.3225,2,496.625,184.02,0.0,26–35,False,False,False,False,False,False,False
+87c6dfbe-82fa-4ca2-a49b-717454462841,,Female,Sarahburgh,Low,2024-06-20,648.36,648.36,1,648.36,648.36,0.0,,False,False,False,False,False,False,False
+b94a126b-755e-4ee1-91f6-c5f86ceef780,67.0,Female,Jillmouth,Medium,2020-05-02,131.31,65.655,2,131.31,0.0,0.0,66+,False,False,False,False,False,False,False
+1b6db98a-776e-4370-9d8c-f77a5ccc26c6,64.0,Female,Carterview,High,2021-03-30,512.6,512.6,1,512.6,512.6,0.0,51–65,False,False,False,False,False,False,False
+010c57b4-d6aa-44ef-9e92-d00ce9bbc28b,66.0,Female,Lake Mackenzie,Low,2023-03-19,233.42,233.42,1,233.42,233.42,0.0,66+,False,False,False,False,False,False,False
+54b4e6a4-5bcb-4792-9791-2a2aa5e110ab,57.0,Female,Port James,High,2021-10-14,309.84,309.84,1,309.84,309.84,0.0,51–65,False,False,False,False,False,False,False
+ba0181c9-c5af-44b3-94af-81bf63fac5df,39.0,Male,Carsonfurt,,2022-04-21,843.82,843.82,1,843.82,843.82,0.0,36–50,False,False,False,False,False,False,False
+70007468-df22-45f3-a51a-ada0a1357f88,44.0,Female,South Brittany,Medium,2023-03-02,1018.545,339.515,3,496.625,112.41,0.0,36–50,False,False,False,False,False,False,False
+50e95716-c5de-400c-b5cc-2b6566b7c931,27.0,Male,New Timothy,Low,2022-11-14,1045.8,522.9,2,961.5,84.3,0.0,26–35,False,False,False,False,False,False,False
+ec5770ea-d47e-4872-8e74-3c77c1fe8b3c,38.0,Male,West Lisabury,Medium,2021-07-14,461.04,461.04,1,461.04,461.04,0.0,36–50,False,False,False,False,False,False,False
+b779c476-9543-44ef-b23e-72fd407bb706,36.0,Female,West Emily,High,2022-01-16,766.4699999999999,255.49,3,560.18,69.56,0.0,36–50,False,False,False,False,False,False,False
+99a03d48-c59f-4d13-90c0-db35331daf2e,50.0,Female,East Jonathan,Low,2022-08-13,1128.0,564.0,2,591.84,536.16,0.0,36–50,False,False,False,False,False,False,False
+325613bb-4024-4737-902e-cd9faf933cfa,20.0,Male,Port Anna,High,2023-08-16,852.03,852.03,1,852.03,852.03,0.0,19–25,False,False,False,False,False,False,False
+8a7e010b-b3d2-418a-bc81-bd16f3432366,42.0,Male,Lake Zachary,Low,2019-11-06,64.96,64.96,1,64.96,64.96,0.0,36–50,False,False,False,False,False,False,False
+a179e2b9-047b-40ce-b9f8-b13f2a8f969d,56.0,Male,Lake Edward,Medium,2023-09-02,536.5699999999999,178.85666666666663,3,333.95,36.23,0.0,51–65,False,False,False,False,False,False,False
+cd96202c-3c7f-4132-9e13-949b62ca0df5,60.0,Male,Port Roger,Low,2019-11-27,13.35,13.35,1,13.35,13.35,0.0,51–65,False,False,False,False,False,False,False
+3794861b-66fe-4d3d-a796-fdbfb9eadd97,45.0,Female,North Annabury,Medium,2022-12-27,496.625,496.625,1,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+8a23320b-45bd-47aa-b929-3287e63d2cc7,35.0,Male,Fosterton,Medium,2024-06-05,596.98,596.98,1,596.98,596.98,0.0,26–35,False,False,False,False,False,False,False
+e6905fa6-1d8c-4a97-bf98-587d6ab42f3a,62.0,Female,West Bryan,High,2021-09-16,785.26,785.26,1,785.26,785.26,0.0,51–65,False,False,False,False,False,False,False
+0a5270eb-ff97-4072-a9f0-2203be2469a4,44.0,Female,East Zachary,High,2023-12-10,170.9,85.45,2,93.84,77.06,0.0,36–50,False,False,False,False,False,False,False
+1f31b312-f00d-46ba-a83b-586ebeabc72c,19.0,Female,New Elizabethfort,High,2021-01-12,682.97,682.97,1,682.97,682.97,0.0,19–25,False,False,False,False,False,False,False
+404f9aca-5c0b-484f-a4ec-65ef1b401718,48.0,Female,Farleyville,Low,2024-01-17,810.2800000000001,405.14,2,791.83,18.45,0.0,36–50,False,False,False,False,False,False,False
+93345558-abde-4687-870d-49dfe412d9d4,53.0,Female,North Tammyburgh,Medium,2023-11-04,524.17,524.17,1,524.17,524.17,0.0,51–65,False,False,False,False,False,False,False
+7e280186-770e-4c4a-b330-73dd471f956a,18.0,Female,Parrishburgh,High,2022-02-20,768.61,256.2033333333333,3,549.89,-100.0,0.0,≤18,False,False,False,False,False,False,False
+3641a6cf-cc5f-4ad3-85f7-9d1ea1ad4935,41.0,Male,Campbellberg,Low,2024-01-06,1880.94,626.98,3,823.14,404.53,0.0,36–50,False,False,False,False,False,False,False
+b2d839ab-012b-4966-90dd-de4311498b7a,39.0,Male,Lake Samuelchester,Medium,2022-07-04,1377.485,688.7425000000001,2,880.86,496.625,0.0,36–50,False,False,False,False,False,False,False
+ea8aa9a1-7a06-4c9d-be6d-e8f856d49e1f,57.0,Female,North Jenniferhaven,High,2021-05-09,0.0,0.0,1,0.0,0.0,0.0,51–65,False,False,False,False,False,False,False
+ac6b4d61-3d14-4362-b226-8c0c5786d6df,23.0,Male,South Cheryl,Medium,2021-09-23,-100.0,-50.0,2,0.0,-100.0,0.0,19–25,False,False,False,False,False,False,False
+9d25a4c2-9323-4df8-ab97-dbfdc89c7ee6,65.0,Female,North Wendyton,Medium,2020-09-04,965.56,965.56,1,965.56,965.56,0.0,51–65,False,False,False,False,False,False,False
+b9c92d6c-fb4c-4d0b-8c72-7b7c1ae9f79c,19.0,Male,Lake Adam,Medium,2021-01-10,915.01,915.01,1,915.01,915.01,0.0,19–25,False,False,False,False,False,False,False
+978c4300-e302-4677-b7f0-7b4a8e2a87b8,45.0,Female,East Jenniferborough,Low,2024-05-21,80.69,80.69,1,80.69,80.69,0.0,36–50,False,False,False,False,False,False,False
+787f8b3b-f311-41be-822e-9fc9e203d945,44.0,Female,Aguilartown,Medium,2019-08-05,724.565,362.2825,2,496.625,227.94,0.0,36–50,False,False,False,False,False,False,False
+e1f9dff8-fef5-49c4-b14b-c31bc3d61cc6,45.0,Male,Christopherbury,Medium,2024-04-20,1216.95,608.475,2,706.27,510.68,0.0,36–50,False,False,False,False,False,False,False
+cb35a4e2-2808-4644-ab5a-8c87a6ced6d4,24.0,Female,Michaelhaven,Medium,2019-09-23,554.81,554.81,1,554.81,554.81,0.0,19–25,False,False,False,False,False,False,False
+537e91d6-b4d5-4e04-8964-1ec4cf45dcdc,50.0,Female,Justinview,Medium,2021-01-10,329.56,329.56,1,329.56,329.56,0.0,36–50,False,False,False,False,False,False,False
+1a5115af-2fa7-4198-b838-be2cdeccb768,68.0,Female,Taylorberg,High,2021-09-01,843.36,843.36,1,843.36,843.36,0.0,66+,False,False,False,False,False,False,False
+14845984-5bef-45d5-9c6a-daf55f287206,56.0,Female,South Colton,Medium,2022-11-06,957.2,478.6,2,921.15,36.05,0.0,51–65,False,False,False,False,False,False,False
+dd4e5e8e-d439-498e-bea6-54340350e5b8,33.0,Male,New Tonya,High,2023-12-18,883.46,883.46,1,883.46,883.46,0.0,26–35,False,False,False,False,False,False,False
+28a886bd-0c98-4532-bbb3-4ba77a9ee275,27.0,Female,New Darrenshire,Medium,,563.205,281.6025,2,496.625,66.58,0.0,26–35,False,False,False,False,False,False,False
+b4fc2d7d-62bd-491a-bff5-f32289dc0057,37.0,Male,Sandovalshire,Low,2023-02-03,761.53,761.53,1,761.53,761.53,0.0,36–50,False,False,False,False,False,False,False
+79800b63-a83d-4f32-9654-a869ca5b5ca8,38.0,Female,North Courtney,High,2021-12-01,1109.685,369.895,3,496.625,160.3,0.0,36–50,False,False,False,False,False,False,False
+5304fc02-34ca-4162-9284-3b42e90f3bce,45.0,Male,Michaelhaven,Medium,2019-10-30,751.04,751.04,1,751.04,751.04,0.0,36–50,False,False,False,False,False,False,False
+4231fa1b-073c-4bf2-94d6-22dd9dd33929,24.0,Male,Port Pamelaton,Low,2023-06-17,520.965,260.4825,2,496.625,24.34,0.0,19–25,False,False,False,False,False,False,False
+9110b6df-2a4c-4404-aeff-3c8b4c83279f,45.0,Female,New Dakotamouth,,2022-05-16,701.2299999999999,233.7433333333333,3,559.93,27.27,0.0,36–50,False,False,False,False,False,False,False
+81c75c59-8474-41b9-84fe-ad1840d6ee75,66.0,Male,Lewisside,Medium,2020-03-21,281.46,140.73,2,268.06,13.4,0.0,66+,False,False,False,False,False,False,False
+a3bb452e-6a1c-41ee-a2c1-0c3556751726,18.0,Male,East Nathanburgh,High,2024-01-16,911.96,303.9866666666667,3,482.63,140.49,0.0,≤18,False,False,False,False,False,False,False
+e29c9045-3b53-479e-b8f7-4e9da6afc6a2,53.0,Male,South Jamesburgh,High,2019-09-25,614.46,614.46,1,614.46,614.46,0.0,51–65,False,False,False,False,False,False,False
+3e3228a0-0d67-4e2a-aa10-7e68395e7fab,18.0,Male,Port Eric,Medium,2020-11-27,1473.835,736.9175,2,977.21,496.625,0.0,≤18,False,False,False,False,False,False,False
+ac6386cf-3044-4ec4-bc57-793052872002,20.0,Male,Port Jessicahaven,High,2021-11-11,891.09,891.09,1,891.09,891.09,0.0,19–25,False,False,False,False,False,False,False
+36ad6220-666d-4a38-8fe6-96956bf3b36e,49.0,Female,Jonathanhaven,,2021-09-10,129.81,129.81,1,129.81,129.81,0.0,36–50,False,False,False,False,False,False,False
+7eb7f7df-9b0a-416a-829e-bcf4d8bd57dc,55.0,Male,New Anthonyland,High,,173.14,57.71333333333333,3,237.09,-100.0,0.0,51–65,False,False,False,False,False,False,False
+c39b1fb1-7f69-4631-9279-b8051420c444,57.0,Male,West Christopher,Low,2021-06-14,1215.08,405.02666666666664,3,496.625,221.83,0.0,51–65,False,False,False,False,False,False,False
+61c1b039-2d8b-4b9c-871c-9de253ea9edb,29.0,Male,Kendrachester,Low,2023-10-13,249.49,249.49,1,249.49,249.49,0.0,26–35,False,False,False,False,False,False,False
+a2f70070-c1b3-4802-a195-3de5441635ae,34.0,Male,Jeremyville,Medium,2022-06-06,117.03,117.03,1,117.03,117.03,0.0,26–35,False,False,False,False,False,False,False
+1b29367c-428f-41aa-9402-760cd7c74306,45.0,Female,Randallview,High,2023-03-13,496.625,496.625,1,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+d1c847af-df39-48d3-ad49-9cb659e3638a,20.0,Male,New Michael,High,2024-05-13,1441.09,720.5450000000001,2,913.75,527.34,0.0,19–25,False,False,False,False,False,False,False
+cc2f3ad5-feb0-4b90-a3b6-83cb5d2146eb,45.0,Female,Tammyshire,,2023-07-10,519.57,519.57,1,519.57,519.57,0.0,36–50,False,False,False,False,False,False,False
+9e68d26c-7772-4fa8-a1f7-50c8c9c1db86,18.0,Male,South Angelamouth,Low,2024-05-12,1263.31,421.1033333333333,3,811.4,71.42,0.0,≤18,False,False,False,False,False,False,False
+f1f60fef-30b2-4856-b97b-11bbc63e7048,45.0,Female,North Brendastad,Medium,2024-04-08,881.5699999999999,440.785,2,618.81,262.76,0.0,36–50,False,False,False,False,False,False,False
+a7b667f7-d6c7-4fc6-b6d9-bcdeea32297c,67.0,Female,East Annaview,Medium,,1971.215,657.0716666666667,3,990.11,484.48,0.0,66+,False,False,False,False,False,False,False
+0e678ba1-7b5f-46aa-8b5a-6dc1190373be,60.0,Male,Port Tyler,High,2023-02-05,696.54,348.27,2,796.54,-100.0,0.0,51–65,False,False,False,False,False,False,False
+8d58b37a-8c7a-4359-bc29-50d097b24de1,23.0,Female,North Reneeborough,Medium,2022-01-04,496.625,496.625,1,496.625,496.625,0.0,19–25,False,False,False,False,False,False,False
+a0a6e4bc-9637-42b4-875a-7ccc6ebf3b04,53.0,Female,Gwendolynton,,2022-07-04,376.41,376.41,1,376.41,376.41,0.0,51–65,False,False,False,False,False,False,False
+9800c7eb-9f32-4124-bb91-40c50fe2e85e,33.0,Female,Crystalport,Low,2021-04-08,308.68,308.68,1,308.68,308.68,0.0,26–35,False,False,False,False,False,False,False
+a5fe1b34-7c1d-40d7-b156-2124bfadb490,23.0,Male,Bernardborough,Low,2020-06-23,684.27,684.27,1,684.27,684.27,0.0,19–25,False,False,False,False,False,False,False
+0f70d4f1-a4ae-46da-ace0-376023462fe3,65.0,Male,East Johnport,High,2020-02-07,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+65ebd3e8-3032-46c7-ae26-8fdcca6aae96,37.0,Female,Chadland,Medium,2024-04-07,1082.04,541.02,2,849.06,232.98,0.0,36–50,False,False,False,False,False,False,False
+b14fcb71-e3f9-4cba-99de-f0e79d7ac5bc,38.0,Male,East Keithmouth,Medium,2021-09-01,1276.51,638.255,2,753.04,523.47,0.0,36–50,False,False,False,False,False,False,False
+318b3d11-6e23-47e2-a20a-9ec272db6123,30.0,Female,New Jesse,Medium,2019-09-29,204.43,204.43,1,204.43,204.43,0.0,26–35,False,False,False,False,False,False,False
+f52901c8-b06c-447b-b7e1-ab94047c75c1,51.0,Female,New Jasonstad,Low,2022-04-11,611.8,611.8,1,611.8,611.8,0.0,51–65,False,False,False,False,False,False,False
+c0bac7ce-a529-4c71-912e-fe63f475b8e9,47.0,Female,New Mauriceborough,High,2020-07-21,753.53,753.53,1,753.53,753.53,0.0,36–50,False,False,False,False,False,False,False
+0731634f-5209-42eb-9671-8f0cddf22eec,28.0,Male,South Kristen,High,2021-10-27,659.47,659.47,1,659.47,659.47,0.0,26–35,False,False,False,False,False,False,False
+fd8b7c0b-06c7-43cf-9e1a-7094f5920ed9,42.0,Male,Kristinemouth,Medium,2019-09-24,536.695,268.3475,2,496.625,40.07,0.0,36–50,False,False,False,False,False,False,False
+330e4d26-da21-4713-be96-6698554f276a,41.0,Female,Bellfurt,Medium,2020-11-09,801.87,801.87,1,801.87,801.87,0.0,36–50,False,False,False,False,False,False,False
+8895020d-182f-4965-b790-0e11ba1063c9,64.0,Male,Port Adrian,High,2023-10-28,1292.89,646.4449999999999,2,682.54,610.35,0.0,51–65,False,False,False,False,False,False,False
+f05ec030-ac96-417d-a73c-e3ca3adc1a30,52.0,Male,North Baileyland,Medium,2019-08-06,152.7,76.35,2,252.7,-100.0,0.0,51–65,False,False,False,False,False,False,False
+c00d08be-e282-448f-91ef-7c236e320404,57.0,Male,Kimberlytown,,2021-08-25,854.25,854.25,1,854.25,854.25,0.0,51–65,False,False,False,False,False,False,False
+4191897f-b537-46fe-a409-e47fcbafbd5b,31.0,Female,South Alicia,High,2024-04-26,577.77,577.77,1,577.77,577.77,0.0,26–35,False,False,False,False,False,False,False
+b8e6ad59-8b84-405d-af66-b0c1bebf7578,66.0,Female,North Sethburgh,,2021-02-01,577.98,577.98,1,577.98,577.98,0.0,66+,False,False,False,False,False,False,False
+0a3c84ac-0979-470f-83b6-adb135f223c4,22.0,Male,Chenberg,Low,2021-11-02,496.625,496.625,1,496.625,496.625,0.0,19–25,False,False,False,False,False,False,False
+c5dfebb9-5891-4a1d-a50c-a6851dad85cf,30.0,Male,Lopezstad,Low,2023-01-17,496.625,496.625,1,496.625,496.625,0.0,26–35,False,False,False,False,False,False,False
+35dc485e-ab21-430b-87b0-b09dab982f99,38.0,Male,Woodbury,Medium,2021-02-07,1333.7,666.85,2,959.71,373.99,0.0,36–50,False,False,False,False,False,False,False
+99aa2615-17e0-47c8-915d-3ec0250aba6c,44.0,Female,Port Patricia,Low,2022-09-28,940.27,940.27,1,940.27,940.27,0.0,36–50,False,False,False,False,False,False,False
+63876e8d-32f5-429a-aee2-dc871d3a2a70,36.0,Male,Banksport,Medium,2020-01-14,1128.12,564.0600000000001,2,822.82,305.3,0.0,36–50,False,False,False,False,False,False,False
+083a0272-f1ab-46c6-a612-966ff1837635,35.0,Female,Villarrealstad,High,2019-11-29,1572.26,786.13,2,940.63,631.63,0.0,26–35,False,False,False,False,False,False,False
+c234d519-1d1c-4822-b812-2d4fb2d7d0d7,43.0,Female,Port Timothyhaven,High,2021-07-17,988.34,988.34,1,988.34,988.34,0.0,36–50,False,False,False,False,False,False,False
+d8128163-77f8-4389-b4d4-2afff0e05e7a,69.0,Female,Johnville,Medium,2021-09-03,467.51,155.83666666666667,3,275.23,38.37,0.0,66+,False,False,False,False,False,False,False
+663fe6ae-b359-49bc-841e-c3deb4a18083,35.0,Male,Williamsland,High,2021-08-10,606.52,303.26,2,367.58,238.94,0.0,26–35,False,False,False,False,False,False,False
+eeb74206-f6c8-4ebf-afa7-69d5bafd37fe,24.0,Male,Gomezstad,High,2020-01-20,109.37,109.37,1,109.37,109.37,0.0,19–25,False,False,False,False,False,False,False
+cf0aabaf-a877-44a6-b3f7-92f1f6353e6e,32.0,Male,West Justin,High,2023-07-16,1187.22,593.61,2,725.4,461.82,0.0,26–35,False,False,False,False,False,False,False
+913dfe6e-4ed1-4a0a-a655-6e2be550593b,37.0,Female,Harveybury,,2023-04-11,791.85,791.85,1,791.85,791.85,0.0,36–50,False,False,False,False,False,False,False
+2172c7bf-0780-46ea-b512-112eff96c8c9,25.0,Female,Moniquefort,High,2021-07-25,1598.49,799.245,2,839.27,759.22,0.0,19–25,False,False,False,False,False,False,False
+97ee26b8-320c-4c59-9abb-62380716854f,28.0,Female,Markburgh,Low,2021-10-01,1442.1,721.05,2,941.79,500.31,0.0,26–35,False,False,False,False,False,False,False
+0c68dabb-b818-43bf-96de-e0b384ace943,54.0,Male,North Samuelborough,High,2024-01-08,1480.025,740.0125,2,983.4,496.625,0.0,51–65,False,False,False,False,False,False,False
+8a1b714a-0592-42f9-bdc0-e7d67163f3f1,26.0,Female,South Joelland,High,2023-03-06,1584.625,528.2083333333334,3,978.11,109.89,0.0,26–35,False,False,False,False,False,False,False
+a2c21cab-0da7-4273-b2a4-f4b62d2aa701,31.0,Female,West Christopherberg,Low,2023-07-12,214.82,214.82,1,214.82,214.82,0.0,26–35,False,False,False,False,False,False,False
+b64655c3-a06c-4f03-91fe-8dde87a2c547,26.0,Female,South Christopher,Low,2024-01-02,111.74,111.74,1,111.74,111.74,0.0,26–35,False,False,False,False,False,False,False
+073c6562-9889-4347-9102-98422192068a,30.0,Female,West Rebeccamouth,High,2023-02-16,1628.78,814.39,2,963.8,664.98,0.0,26–35,False,False,False,False,False,False,False
+60043349-aca0-4f92-987b-8888e8985f78,45.0,Female,West Bethville,High,2022-01-01,563.7,563.7,1,563.7,563.7,0.0,36–50,False,False,False,False,False,False,False
+6d6a803c-8aa3-4555-8074-0f7aa01937bf,39.0,Male,Paulview,Low,2019-08-31,258.69,258.69,1,258.69,258.69,0.0,36–50,False,False,False,False,False,False,False
+07546534-fcd9-4a32-8a9d-49027e807494,40.0,Male,Jeffersonbury,Low,2020-05-14,180.62,180.62,1,180.62,180.62,0.0,36–50,False,False,False,False,False,False,False
+1c188e21-9a0a-420e-a39f-e17691fe17a6,53.0,Female,Earlshire,High,2021-03-22,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+d8a36267-ed6b-4880-a1d6-2c33c5e77271,57.0,Male,Melissamouth,Medium,2021-06-07,531.56,531.56,1,531.56,531.56,0.0,51–65,False,False,False,False,False,False,False
+7c1ced6e-c1ff-4cc8-ad63-480b951db4e7,,Female,Lake Joseph,Low,2023-08-18,1526.14,508.7133333333333,3,929.51,220.21,0.0,,False,False,False,False,False,False,False
+04b0cd53-29ca-48ef-b4b7-9520a2939288,22.0,Male,Andrewborough,Low,2020-12-27,1406.525,703.2625,2,909.9,496.625,0.0,19–25,False,False,False,False,False,False,False
+892666ed-6ac7-475e-a439-be787d456af3,38.0,Female,Foxville,Low,2023-01-28,1475.77,737.885,2,778.31,697.46,0.0,36–50,False,False,False,False,False,False,False
+7689da74-95f4-4977-a528-968d6e64235c,45.0,Male,Bruceberg,Medium,,543.74,543.74,1,543.74,543.74,0.0,36–50,False,False,False,False,False,False,False
+ab87ecef-f7ea-49b0-8c50-c31442ad5c46,18.0,Male,North Daniel,Medium,2019-08-08,-100.0,-100.0,1,-100.0,-100.0,0.0,≤18,False,False,False,False,False,False,False
+c7795b86-84bb-4da2-a8dd-8433adda3783,64.0,Female,Smithland,High,2022-05-23,472.97,157.65666666666667,3,225.05,106.76,0.0,51–65,False,False,False,False,False,False,False
+1e66b466-e10c-48a8-a1a8-b1f7c963d0dd,45.0,Female,New Alexis,Medium,2024-02-28,844.1500000000001,422.0750000000001,2,747.59,96.56,0.0,36–50,False,False,False,False,False,False,False
+d06373dd-8d92-4e7d-8329-c4ce400b0d42,27.0,Male,South Shannon,,2023-10-27,298.16,298.16,1,298.16,298.16,0.0,26–35,False,False,False,False,False,False,False
+8aa6b122-fcd1-42a8-b4ad-d526bf397551,60.0,Male,West Susantown,High,2021-10-02,89.08,89.08,1,89.08,89.08,0.0,51–65,False,False,False,False,False,False,False
+99d38969-3c5f-4387-bb49-1ba429f7acae,31.0,Male,New Walterborough,High,2020-06-15,1093.77,546.885,2,720.4,373.37,0.0,26–35,False,False,False,False,False,False,False
+0cf376d6-ab2a-468b-a290-4b28ffafe6f2,53.0,Female,Josephside,Medium,2022-10-18,589.3199999999999,294.65999999999997,2,429.82,159.5,0.0,51–65,False,False,False,False,False,False,False
+6ee69819-b275-4409-93d0-b62be6a7146a,45.0,Male,Melodybury,Low,2019-07-12,852.0699999999999,426.035,2,506.69,345.38,0.0,36–50,False,False,False,False,False,False,False
+e1fe4676-3d06-44d7-8aab-18f8330f8359,45.0,Female,Lindsaychester,Low,2024-06-14,462.19,462.19,1,462.19,462.19,0.0,36–50,False,False,False,False,False,False,False
+1019ccad-cf57-45a4-935a-55a717cb0b19,61.0,Male,Lake Walterfort,Low,2019-11-06,1980.21,990.105,2,994.34,985.87,0.0,51–65,False,False,False,False,False,False,False
+f1dfc90f-e884-474c-85a8-2058e3db24d0,45.0,Female,Wrightfort,High,,943.29,943.29,1,943.29,943.29,0.0,36–50,False,False,False,False,False,False,False
+411c2202-f939-4b1f-bdd3-7eb0257bd14a,69.0,Female,Lake Katherine,High,2021-11-07,323.35,323.35,1,323.35,323.35,0.0,66+,False,False,False,False,False,False,False
+752d0d0f-c234-44cb-b36d-8808b640faae,20.0,Male,New James,Low,,1086.56,543.28,2,630.16,456.4,0.0,19–25,False,False,False,False,False,False,False
+8a4e842f-affe-430d-81a5-15102e10eece,58.0,Male,North Williamton,,2020-10-12,10.21,10.21,1,10.21,10.21,0.0,51–65,False,False,False,False,False,False,False
+83dc47eb-0ad1-4c15-91ae-d18f9fd2e6cb,27.0,Female,North Cody,High,2024-06-18,985.02,985.02,1,985.02,985.02,0.0,26–35,False,False,False,False,False,False,False
+578f93c3-22af-4aa7-9eeb-35d1e0255e66,27.0,Male,Johnmouth,Low,2019-09-04,280.48,280.48,1,280.48,280.48,0.0,26–35,False,False,False,False,False,False,False
+59ea89e2-a155-4538-8981-9705c6f451ab,37.0,Male,Victorport,High,2020-07-21,836.9699999999999,418.485,2,608.81,228.16,0.0,36–50,False,False,False,False,False,False,False
+a8094112-0900-4bad-801d-3ad673b8a229,20.0,Female,East Vincent,Medium,2022-03-23,1508.24,754.12,2,783.6,724.64,0.0,19–25,False,False,False,False,False,False,False
+d9896b49-19bb-450e-962c-05e2b4e8443f,52.0,Female,Joshuaview,High,2020-04-28,23.98,23.98,1,23.98,23.98,0.0,51–65,False,False,False,False,False,False,False
+fdb81781-8071-4364-b074-dacc53de5284,26.0,Female,Olsonton,Low,2020-06-25,827.03,275.6766666666667,3,552.37,91.0,0.0,26–35,False,False,False,False,False,False,False
+a2bc414d-db64-43a9-8456-e0979baddc33,62.0,Male,Cunninghamfurt,Medium,2023-06-26,56.72,56.72,1,56.72,56.72,0.0,51–65,False,False,False,False,False,False,False
+e8236c55-bd04-44e1-a12c-e3b4bb747ec3,45.0,Male,Lake Ryanstad,High,2022-03-12,443.92,443.92,1,443.92,443.92,0.0,36–50,False,False,False,False,False,False,False
+9b8179f4-f187-4cfd-b12a-0c182539f178,68.0,Female,Katrinahaven,Medium,2022-10-26,1944.085,648.0283333333333,3,796.19,496.625,0.0,66+,False,False,False,False,False,False,False
+3d0312c8-80bf-4eeb-91fe-cb842be19ca4,42.0,Female,Huffmanmouth,,2022-09-27,1045.5,348.5,3,889.27,78.04,0.0,36–50,False,False,False,False,False,False,False
+1c77cb4b-2e79-4201-90a2-f9794dd4328e,35.0,Male,South Brianville,Medium,2021-08-26,59.06,59.06,1,59.06,59.06,0.0,26–35,False,False,False,False,False,False,False
+faa7e23f-e0c8-4181-b8a5-f1eeb8fa2000,18.0,Male,Ballstad,High,2022-10-15,955.82,955.82,1,955.82,955.82,0.0,≤18,False,False,False,False,False,False,False
+4702d3fc-a279-41fc-a3e1-9a643f76d8c6,46.0,Female,East Lori,High,2024-01-17,289.95,289.95,1,289.95,289.95,0.0,36–50,False,False,False,False,False,False,False
+d2039527-a85b-4404-9238-91ebb6e0ec94,45.0,Female,Jaclynmouth,Medium,2020-01-06,705.7,705.7,1,705.7,705.7,0.0,36–50,False,False,False,False,False,False,False
+8b603757-5985-4f60-b23b-bd869fdc36b5,39.0,Female,Port Jessicabury,High,2020-09-04,827.63,413.815,2,451.26,376.37,0.0,36–50,False,False,False,False,False,False,False
+5e060e3f-1255-47e2-8a4c-22dc4a414c8c,70.0,Male,West Kenneth,Medium,2024-06-01,398.71,398.71,1,398.71,398.71,0.0,66+,False,False,False,False,False,False,False
+19b49713-09a6-48a7-a032-8c2a0cc3812e,34.0,Male,New Alexstad,High,2020-04-23,199.48,199.48,1,199.48,199.48,0.0,26–35,False,False,False,False,False,False,False
+81be7ae8-5f41-4ee9-895e-b001c5c63186,27.0,Male,Lake Phillipside,High,,1266.47,633.235,2,813.01,453.46,0.0,26–35,False,False,False,False,False,False,False
+246eb688-f74c-4d53-a327-8d444a2fcd62,28.0,Male,North Billbury,Medium,2023-12-26,354.7,354.7,1,354.7,354.7,0.0,26–35,False,False,False,False,False,False,False
+c8436ffe-dcc2-4103-9c12-c5f3c6f17505,56.0,Male,Joannaport,High,2021-02-26,693.425,346.7125,2,496.625,196.8,0.0,51–65,False,False,False,False,False,False,False
+39ce1776-9aac-4b0b-81ca-5a10e9b4c98b,52.0,Male,Powellport,Medium,2019-11-18,219.05,219.05,1,219.05,219.05,0.0,51–65,False,False,False,False,False,False,False
+42f52b1e-bedb-4294-8039-7b08c1be1662,23.0,Female,South Jenniferfurt,High,2022-03-19,496.625,496.625,1,496.625,496.625,0.0,19–25,False,False,False,False,False,False,False
+3b32ed47-3244-4a99-812d-71a70d88434b,51.0,Male,Jonesview,Medium,2023-02-23,332.96,332.96,1,332.96,332.96,0.0,51–65,False,False,False,False,False,False,False
+f3606f64-3f9f-4758-bd59-c9424f0d8028,54.0,Female,Kruegerstad,,2022-07-06,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+983068c4-0f6c-4969-96a3-c4de81e494e7,40.0,Male,Port Donnaview,Low,2024-02-23,804.5899999999999,402.295,2,780.31,24.28,0.0,36–50,False,False,False,False,False,False,False
+09db9681-6875-42ce-bdf3-b9cc13a8eb54,64.0,Male,Lake Greg,,2020-10-01,1585.1,792.55,2,871.08,714.02,0.0,51–65,False,False,False,False,False,False,False
+253fa70f-a41b-40c0-8958-37f3b5e204e0,23.0,Female,Stephenstad,Low,2020-10-29,1190.69,595.345,2,981.56,209.13,0.0,19–25,False,False,False,False,False,False,False
+7c04fa8c-3838-4820-830b-fec86eeb507e,61.0,Male,Hopkinsburgh,Low,2022-03-16,973.15,973.15,1,973.15,973.15,0.0,51–65,False,False,False,False,False,False,False
+86c8bcf9-6c61-4615-98c1-2c572d35722d,39.0,Female,South Douglasfort,Low,2020-09-30,760.88,760.88,1,760.88,760.88,0.0,36–50,False,False,False,False,False,False,False
+806f26a0-986d-495a-95f0-76805e6d8ce8,36.0,Female,Danatown,Medium,2021-09-26,616.51,616.51,1,616.51,616.51,0.0,36–50,False,False,False,False,False,False,False
+68479040-6691-495d-8ca9-122ec5010fb6,19.0,Female,Port Dawn,High,2020-11-09,138.67,138.67,1,138.67,138.67,0.0,19–25,False,False,False,False,False,False,False
+9dff89a9-fc39-423e-85d2-144f4e16c981,70.0,Male,Port Megan,High,2021-07-08,923.4,923.4,1,923.4,923.4,0.0,66+,False,False,False,False,False,False,False
+8d47ee55-d382-4fa5-8a9c-b369cc2309b8,26.0,Female,Briannachester,Medium,2022-06-14,830.17,830.17,1,830.17,830.17,0.0,26–35,False,False,False,False,False,False,False
+39ff9fd0-cd8d-4f6d-9ee1-982ffabe382b,33.0,Female,Englishbury,Low,2020-11-16,409.94,409.94,1,409.94,409.94,0.0,26–35,False,False,False,False,False,False,False
+a6b32804-271f-49c4-b6e0-6bab25fd7313,66.0,Female,North Jose,Low,2022-03-31,761.34,761.34,1,761.34,761.34,0.0,66+,False,False,False,False,False,False,False
+5be24c07-9b89-479a-ba96-5edb10b65b3d,63.0,Female,East Samuelland,Medium,2021-03-14,1141.9,380.6333333333334,3,610.23,108.91,0.0,51–65,False,False,False,False,False,False,False
+328e739a-ddac-4661-97aa-76b8ee47e373,31.0,Female,Port Calvinbury,High,2022-12-22,843.37,843.37,1,843.37,843.37,0.0,26–35,False,False,False,False,False,False,False
+d0874909-2b8a-4921-bec7-610d9452b113,38.0,Female,Brianshire,High,2021-01-01,988.33,988.33,1,988.33,988.33,0.0,36–50,False,False,False,False,False,False,False
+6c0120b7-486d-460e-b11e-6c8b6dc4770a,35.0,Male,Pierceport,High,,1309.03,654.515,2,843.71,465.32,0.0,26–35,False,False,False,False,False,False,False
+70a64f68-8300-40b7-9d3e-932bf73ba7e1,45.0,Female,Rodriguezmouth,,2021-02-22,971.175,485.5875,2,496.625,474.55,0.0,36–50,False,False,False,False,False,False,False
+ce3f403f-b955-4364-ae22-bf351381e01f,40.0,Female,Camposmouth,Medium,2021-09-03,1112.7600000000002,370.9200000000001,3,962.08,-100.0,0.0,36–50,False,False,False,False,False,False,False
+69b50dbe-3286-401f-abdf-65d98281db68,45.0,Female,Lake Zacharychester,Medium,2023-06-14,718.99,239.66333333333333,3,406.0,95.07,0.0,36–50,False,False,False,False,False,False,False
+87f8ea44-b883-42e0-8220-4ef3b755c9b5,57.0,Female,South Timothy,High,2022-01-21,232.35,232.35,1,232.35,232.35,0.0,51–65,False,False,False,False,False,False,False
+4622bc80-2db4-4f97-95cd-8f8e4c970f9d,59.0,Male,Hurstville,Medium,2021-08-05,826.54,826.54,1,826.54,826.54,0.0,51–65,False,False,False,False,False,False,False
+72d087e6-a4ec-4a4b-b04e-1aa6d5c1ff72,52.0,Male,Port Christopherhaven,High,2023-06-05,464.52,464.52,1,464.52,464.52,0.0,51–65,False,False,False,False,False,False,False
+f65c5f30-f126-4e6c-88d4-1883d0da87c1,57.0,Male,Lake Jose,Medium,2020-06-28,773.39,773.39,1,773.39,773.39,0.0,51–65,False,False,False,False,False,False,False
+3225bbb4-c47c-44b8-aea8-6cca20b50892,50.0,Female,Lake Gabriel,Low,2020-06-20,1085.71,542.855,2,981.86,103.85,0.0,36–50,False,False,False,False,False,False,False
+9bdf4403-1e6a-4b6c-8556-a58e26591bd2,25.0,Female,Wagnerfort,High,2020-05-04,46.46,46.46,1,46.46,46.46,0.0,19–25,False,False,False,False,False,False,False
+ea9c6ace-9cbb-43fa-a98f-7825fcc7508e,18.0,Female,New Alexisshire,High,2023-12-06,1226.035,408.67833333333334,3,496.625,258.05,0.0,≤18,False,False,False,False,False,False,False
+581657eb-d7c0-478a-8b99-8cb33c01a4d2,50.0,Male,Lake Lisafurt,Low,2022-08-16,36.82,36.82,1,36.82,36.82,0.0,36–50,False,False,False,False,False,False,False
+eee8a7f8-1a5b-4c9f-947c-8511fa6a771d,45.0,Female,North Justinville,Low,2021-10-24,343.83,343.83,1,343.83,343.83,0.0,36–50,False,False,False,False,False,False,False
+12dc6fed-c847-4040-93a1-dd00eb7ccbc0,34.0,Female,South James,High,2021-03-12,1020.53,510.265,2,861.36,159.17,0.0,26–35,False,False,False,False,False,False,False
+0e663785-6555-49a9-ac34-ea04406b1ba5,65.0,Male,Lake Kristen,Low,2021-02-23,1142.09,571.045,2,756.25,385.84,0.0,51–65,False,False,False,False,False,False,False
+ed5dc22d-7406-40bf-a647-e880e75bdbdd,52.0,Male,North Tyler,,2020-06-23,481.73,240.865,2,374.24,107.49,0.0,51–65,False,False,False,False,False,False,False
+113007f8-af2b-4c35-8396-b01ba2f41762,48.0,Male,Barbaraside,Low,2024-02-06,979.19,979.19,1,979.19,979.19,0.0,36–50,False,False,False,False,False,False,False
+640e1c54-6ef2-45fe-9567-f0edab3c052e,30.0,Male,Melodytown,Low,2023-04-26,109.65,109.65,1,109.65,109.65,0.0,26–35,False,False,False,False,False,False,False
+8bca00a4-2829-49f2-9375-7515df7b6810,29.0,Female,East Kenneth,Low,2022-11-21,496.625,496.625,1,496.625,496.625,0.0,26–35,False,False,False,False,False,False,False
+ad17268e-71e0-4fd2-91c4-0521eb3ffa0b,18.0,Male,Port Kaylaburgh,Medium,2024-01-02,701.25,701.25,1,701.25,701.25,0.0,≤18,False,False,False,False,False,False,False
+30c722ab-be73-43a8-80bb-545ce0e564b3,67.0,Male,New Luischester,Medium,2023-07-29,56.33,56.33,1,56.33,56.33,0.0,66+,False,False,False,False,False,False,False
+9eb78179-6de7-4c67-b04b-709c40f5ce01,34.0,Male,Lake Charlesshire,High,2023-08-05,496.625,496.625,1,496.625,496.625,0.0,26–35,False,False,False,False,False,False,False
+99220a1a-25ed-41a2-8156-541ea6ae971f,59.0,Female,New Stephenshire,,2020-01-18,127.15,127.15,1,127.15,127.15,0.0,51–65,False,False,False,False,False,False,False
+4d24bcf2-5cbd-4f60-8ba5-4da86c72edf6,55.0,Male,Jenniferstad,Medium,2021-05-31,45.2,45.2,1,45.2,45.2,0.0,51–65,False,False,False,False,False,False,False
+ce5437b0-66af-47b2-aa68-423d3b15685d,46.0,Female,Stuartstad,Low,2021-07-05,31.21,31.21,1,31.21,31.21,0.0,36–50,False,False,False,False,False,False,False
+b29ddf39-3a1e-4a11-97fd-a2ec8ccf01c5,34.0,Female,South Samantha,High,2019-08-15,496.625,496.625,1,496.625,496.625,0.0,26–35,False,False,False,False,False,False,False
+f843cc6e-c50f-439c-a21d-041b211c07a9,18.0,Female,Hallfort,,2023-07-17,753.515,376.7575,2,496.625,256.89,0.0,≤18,False,False,False,False,False,False,False
+6e59ab74-2fb0-4ed5-9db4-fad5264d0631,54.0,Female,Sullivanburgh,Low,2021-04-15,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+e173b550-09e9-4e41-a7a6-ed62238a5435,45.0,Male,Seanburgh,High,2024-03-11,993.25,496.625,2,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+9d4d9b36-c718-4f5e-8c9f-a0fbf1e6da15,45.0,Male,Bendermouth,Medium,,686.9599999999999,343.47999999999996,2,587.54,99.42,0.0,36–50,False,False,False,False,False,False,False
+ecb9513f-fa9d-432c-996e-87fb80dc8827,54.0,Male,West Elizabethland,Medium,2024-06-03,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+841fd92c-2c00-4beb-b870-76df175c4398,32.0,Male,Lake Samanthaberg,High,2019-12-26,1409.48,704.74,2,821.57,587.91,0.0,26–35,False,False,False,False,False,False,False
+ac5436b6-4dbf-4083-88f5-87e9c9b2064d,62.0,Female,Carolynland,Medium,2021-08-19,224.8,224.8,1,224.8,224.8,0.0,51–65,False,False,False,False,False,False,False
+c812445a-852f-44cc-afdc-20b7bdfbcf11,56.0,Female,Howardborough,High,2021-03-22,568.77,568.77,1,568.77,568.77,0.0,51–65,False,False,False,False,False,False,False
+47ceaec3-7419-4dbe-9206-8452b16bb61e,62.0,Female,South Aaronshire,High,2021-10-09,155.44,155.44,1,155.44,155.44,0.0,51–65,False,False,False,False,False,False,False
+3e9cc599-ba23-4de3-9c18-19a2ce4764e0,45.0,Male,New Jesse,Low,2019-11-03,767.03,383.515,2,573.77,193.26,0.0,36–50,False,False,False,False,False,False,False
+fa4c97fc-4a9f-4857-969e-ea9528b2792e,57.0,Male,East Michaelchester,,2022-02-27,1464.235,732.1175000000001,2,967.61,496.625,0.0,51–65,False,False,False,False,False,False,False
+9c0749f2-1449-4541-8113-7b1696f50c6b,39.0,Female,Isabellaside,,2021-01-12,221.52,221.52,1,221.52,221.52,0.0,36–50,False,False,False,False,False,False,False
+2dc4607e-012f-42ce-bcbe-2508d828cf4c,32.0,Male,Josephside,High,2022-04-19,496.625,496.625,1,496.625,496.625,0.0,26–35,False,False,False,False,False,False,False
+432b84c8-05c8-4609-b8f7-a0c298fb8f23,26.0,Female,Gregoryton,High,2021-07-14,778.29,778.29,1,778.29,778.29,0.0,26–35,False,False,False,False,False,False,False
+63ee220c-19ae-4113-b45c-276b22b068e1,46.0,Male,Lake Traviston,High,2023-10-24,496.625,496.625,1,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+e2114d58-4f01-483d-84fe-cd9601cc8be9,21.0,Male,Lake Kimberlyport,Medium,2022-05-31,495.48,247.74,2,477.68,17.8,0.0,19–25,False,False,False,False,False,False,False
+9e85fb2e-f7af-4338-9b2e-0b900102405c,68.0,Female,Johntown,High,2022-06-19,496.625,496.625,1,496.625,496.625,0.0,66+,False,False,False,False,False,False,False
+b0180e7a-16e4-45bf-a417-0f2f5ca442bd,61.0,Male,Port Peter,High,2022-05-06,496.625,248.3125,2,496.625,0.0,0.0,51–65,False,False,False,False,False,False,False
+3341229f-34c8-44d8-9800-6f383b9843ee,51.0,Female,Port Jamie,,2021-09-02,197.69,197.69,1,197.69,197.69,0.0,51–65,False,False,False,False,False,False,False
+bcc0e767-8943-4823-8f47-6f5d958039fb,25.0,Male,Port Anthonymouth,Medium,2021-11-08,921.06,921.06,1,921.06,921.06,0.0,19–25,False,False,False,False,False,False,False
+decfbb11-2324-4a91-b4a4-da3011046f88,23.0,Male,Port Amyfurt,Low,2021-06-19,130.53,130.53,1,130.53,130.53,0.0,19–25,False,False,False,False,False,False,False
+04ebb683-0818-4b58-a724-8cd1c7114830,45.0,Male,North Sarahside,Medium,2022-01-11,496.625,496.625,1,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+48beaec3-aa4c-408b-a03d-b8d321b5b153,46.0,Female,Lake Kristenmouth,High,2021-11-05,817.47,817.47,1,817.47,817.47,0.0,36–50,False,False,False,False,False,False,False
+c4197591-1c5e-4416-9a01-7d1882f2bc2c,66.0,Female,South Matthewchester,Low,2023-08-02,248.59,248.59,1,248.59,248.59,0.0,66+,False,False,False,False,False,False,False
+c9c2a3f3-cd4f-4b17-ad7c-69fbccc2416e,21.0,Female,New Angelaburgh,Low,2022-12-15,637.29,637.29,1,637.29,637.29,0.0,19–25,False,False,False,False,False,False,False
+1662e025-dc0e-4ab0-8728-cb90e85bfdeb,18.0,Female,Rosarioside,Low,2024-04-11,36.21,36.21,1,36.21,36.21,0.0,≤18,False,False,False,False,False,False,False
+d1604f83-72bc-4c5a-b280-e213dfec9cb5,49.0,Female,Millerville,High,2022-06-03,568.1800000000001,284.09000000000003,2,354.5,213.68,0.0,36–50,False,False,False,False,False,False,False
+3e6a326a-f09b-47a2-8d24-3f69ac0a119c,45.0,Female,West Thomasbury,Medium,2022-09-14,136.48,136.48,1,136.48,136.48,0.0,36–50,False,False,False,False,False,False,False
+420a3a2a-1ac8-46ed-9009-30c3a0e75a3b,23.0,Male,West Chelsea,Medium,2020-08-23,88.16,44.08,2,77.69,10.47,0.0,19–25,False,False,False,False,False,False,False
+eb8bb3ce-e182-4a9c-8084-c55c738815e1,51.0,Male,West Pamela,Medium,2022-12-13,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+51668fb4-bf4c-4030-8df0-ddc2263ec6ad,45.0,Male,Tanyaton,Medium,2021-08-23,1939.895,646.6316666666667,3,850.55,496.625,0.0,36–50,False,False,False,False,False,False,False
+648e2751-83d9-4720-a2cc-2f7ab8db97da,19.0,Female,East Jacqueline,High,2024-03-22,676.37,676.37,1,676.37,676.37,0.0,19–25,False,False,False,False,False,False,False
+4c15fab5-9db0-45c1-84e1-ec0829328556,34.0,Male,Scottville,High,2023-09-22,1221.095,407.0316666666667,3,496.625,356.71,0.0,26–35,False,False,False,False,False,False,False
+54a1bbb2-9523-41a7-b8b5-9acd08f46da4,59.0,Female,South Jasontown,Low,2023-07-18,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+b0099c65-5803-4c0e-9747-44f2ea1157cc,67.0,Male,Tranview,High,2022-03-17,915.41,457.705,2,870.36,45.05,0.0,66+,False,False,False,False,False,False,False
+1f5c50db-9c55-4bbc-8a93-c7994a7bb3d3,61.0,Male,Matthewville,Medium,2021-08-08,396.625,198.3125,2,496.625,-100.0,0.0,51–65,False,False,False,False,False,False,False
+76f1f27d-869d-4a4c-9c90-0cfd08917e83,21.0,Female,South Sherryport,Low,2023-03-20,106.07,106.07,1,106.07,106.07,0.0,19–25,False,False,False,False,False,False,False
+79a5eedf-99cd-4151-9007-8d0904daf592,22.0,Male,Lake Ryanland,Low,2021-01-28,698.25,349.125,2,482.63,215.62,0.0,19–25,False,False,False,False,False,False,False
+00c15eff-8bcf-4d12-a5d4-992e45e3309f,31.0,Male,Lovefurt,Low,2022-03-16,865.0799999999999,432.54,2,764.79,100.29,0.0,26–35,False,False,False,False,False,False,False
+c7712686-3e9b-49d5-a673-e7d480d04ea8,29.0,Female,Teresaborough,High,2023-02-13,711.68,711.68,1,711.68,711.68,0.0,26–35,False,False,False,False,False,False,False
+1d9db6f8-33f1-4b28-87a6-20504dd4ac20,39.0,Male,New Michaelton,Medium,2021-01-22,241.94,241.94,1,241.94,241.94,0.0,36–50,False,False,False,False,False,False,False
+f2993ee7-a515-46ec-84c4-115ce0e6ac44,28.0,Male,West Rogerfurt,,2022-05-02,437.55,437.55,1,437.55,437.55,0.0,26–35,False,False,False,False,False,False,False
+b209dd08-f3b3-471e-8616-467021121966,19.0,Female,Port Maureen,Low,2023-09-09,60.54,60.54,1,60.54,60.54,0.0,19–25,False,False,False,False,False,False,False
+0b568a94-a069-4bde-b8a9-201fdf3ab299,43.0,Male,Marcushaven,Low,2020-09-30,1364.25,454.75,3,917.34,197.85,0.0,36–50,False,False,False,False,False,False,False
+d60227d4-2d7b-48dd-9d91-44365360dd82,20.0,Female,North Dawn,High,,0.0,0.0,1,0.0,0.0,0.0,19–25,False,False,False,False,False,False,False
+839d63cb-15d2-4fe1-890c-9943028eb8aa,56.0,Female,Lisaton,High,2023-07-21,1689.91,844.9549999999999,2,887.39,802.52,0.0,51–65,False,False,False,False,False,False,False
+96b637b6-adb9-4bd1-83fa-643d65056c8a,45.0,Female,New Roberto,Medium,2023-12-06,492.5,492.5,1,492.5,492.5,0.0,36–50,False,False,False,False,False,False,False
+0b78455d-7ecd-41c3-953b-4c883ce336f1,26.0,Male,Lake Crystal,Medium,2022-09-11,658.38,658.38,1,658.38,658.38,0.0,26–35,False,False,False,False,False,False,False
+1044f1f4-cce8-4bcb-9615-150b05a3cf5e,57.0,Male,Hallburgh,Medium,2020-02-10,1117.205,558.6025,2,620.58,496.625,0.0,51–65,False,False,False,False,False,False,False
+cbfff6f3-c193-4b56-a6ff-92bc84ad3789,46.0,Male,South Mike,High,2019-10-08,1215.685,607.8425,2,719.06,496.625,0.0,36–50,False,False,False,False,False,False,False
+83355281-fda3-4776-9f9d-a812243c3b56,31.0,Female,Ashleychester,Medium,,745.3,745.3,1,745.3,745.3,0.0,26–35,False,False,False,False,False,False,False
+01264132-b542-471e-ba65-038975091843,56.0,Male,South Rebecca,Medium,2023-10-30,389.67,389.67,1,389.67,389.67,0.0,51–65,False,False,False,False,False,False,False
+25feddf4-42a5-47b9-8b95-ba74f0c0ea9b,18.0,Male,Lake Tina,Low,2024-03-28,682.42,682.42,1,682.42,682.42,0.0,≤18,False,False,False,False,False,False,False
+c542f337-bd14-4d58-8ef4-e609830bf5c1,26.0,Female,North Eric,Medium,2024-02-27,653.35,326.675,2,500.33,153.02,0.0,26–35,False,False,False,False,False,False,False
+b92224a4-fa0d-4e99-ab1a-9f76360a4e33,45.0,Female,Jacksonton,Medium,2019-07-01,1039.485,519.7425000000001,2,542.86,496.625,0.0,36–50,False,False,False,False,False,False,False
+539d2dcf-07c7-45c1-82b9-76b5bd380e8e,20.0,Male,Blackwelltown,Low,2020-08-24,646.73,323.365,2,508.1,138.63,0.0,19–25,False,False,False,False,False,False,False
+59f8afe5-173b-4e52-b641-f98183f1a891,45.0,Female,New Alexis,High,2019-08-21,1552.7,776.35,2,892.44,660.26,0.0,36–50,False,False,False,False,False,False,False
+ccf4d58b-5087-45c8-a8f8-bb99be9a13d1,62.0,Male,Andrewstad,Low,2024-03-10,1228.615,409.53833333333336,3,510.65,221.34,0.0,51–65,False,False,False,False,False,False,False
+6506a08f-8725-46af-8aaa-1b3c5c913d84,30.0,Female,Cunninghamstad,Medium,2022-12-27,89.87,89.87,1,89.87,89.87,0.0,26–35,False,False,False,False,False,False,False
+1afc1e60-be41-4f45-9ff1-73f28d0dbdc9,50.0,Male,Wesleyville,Low,2023-06-19,280.38,280.38,1,280.38,280.38,0.0,36–50,False,False,False,False,False,False,False
+c655d6d2-58ed-4584-a015-4f280e2c192f,33.0,Female,Murphystad,High,2022-07-29,1228.64,409.5466666666666,3,874.17,63.94,0.0,26–35,False,False,False,False,False,False,False
+8af27e3e-6225-43a1-b3b5-9a838531c97c,27.0,Female,Haydenberg,High,2023-07-29,526.05,526.05,1,526.05,526.05,0.0,26–35,False,False,False,False,False,False,False
+56a1a6d5-3e94-4e3f-aa56-2d6c0dcad380,57.0,Male,North Ashley,High,2021-01-15,896.96,448.48,2,471.75,425.21,0.0,51–65,False,False,False,False,False,False,False
+40135fcf-ed9d-475b-a435-5b20b108e1f5,38.0,Male,Lake Charlotteville,Medium,2020-10-04,825.73,825.73,1,825.73,825.73,0.0,36–50,False,False,False,False,False,False,False
+5ab01e3f-1356-4a51-a50e-028992187cba,46.0,Female,Victoriahaven,Medium,2021-10-22,781.84,781.84,1,781.84,781.84,0.0,36–50,False,False,False,False,False,False,False
+42557c76-96c9-4961-9b7b-3e1e8e7857da,18.0,Male,North Christopher,Medium,2022-05-12,488.52,244.26,2,278.0,210.52,0.0,≤18,False,False,False,False,False,False,False
+7364802f-db98-43cd-8efa-8695104b4b0d,49.0,Male,Lake Williamborough,Medium,2023-10-15,633.42,633.42,1,633.42,633.42,0.0,36–50,False,False,False,False,False,False,False
+2d88fec4-0e4e-40f5-963a-f5ba1af40c31,29.0,Female,Johnsonfurt,,,754.06,754.06,1,754.06,754.06,0.0,26–35,False,False,False,False,False,False,False
+ff6d25c2-baeb-46ab-8ce4-4c39bde83c5a,,Male,Port Elizabeth,Medium,2024-05-15,914.98,914.98,1,914.98,914.98,0.0,,False,False,False,False,False,False,False
+636f22fc-4799-4fb0-8331-88b34e007c71,68.0,Female,Christineland,High,2019-09-07,569.73,569.73,1,569.73,569.73,0.0,66+,False,False,False,False,False,False,False
+bd90f5cb-05a7-40f4-acb1-eedf48b58ffa,31.0,Female,North Cassandra,Medium,2021-03-19,344.5,344.5,1,344.5,344.5,0.0,26–35,False,False,False,False,False,False,False
+429afb4b-99cc-4a38-8f43-9187a3e02ecc,61.0,Male,East Charles,Low,2022-06-10,1837.99,918.995,2,993.14,844.85,0.0,51–65,False,False,False,False,False,False,False
+5ada20b3-7201-47cb-b845-5bb258f7d233,20.0,Female,Brittanyton,,2020-11-09,559.81,559.81,1,559.81,559.81,0.0,19–25,False,False,False,False,False,False,False
+54f75d68-a8d8-4790-b65b-8937fd8f561b,49.0,Female,New Christina,Low,2024-04-26,770.49,385.245,2,548.2,222.29,0.0,36–50,False,False,False,False,False,False,False
+f8573ea3-e775-4d36-8b8a-a4ba6a539eab,64.0,Male,Port Nicoleville,Medium,2021-08-01,696.565,348.2825,2,496.625,199.94,0.0,51–65,False,False,False,False,False,False,False
+99abe3ae-4c10-457b-b071-7edd0f122ecf,45.0,Male,Davidville,High,2021-08-05,431.47,215.735,2,252.69,178.78,0.0,36–50,False,False,False,False,False,False,False
+6a178ba8-e3a4-4458-8f8e-8e47314d1af2,45.0,Female,East Christopher,Low,2023-04-30,316.12,316.12,1,316.12,316.12,0.0,36–50,False,False,False,False,False,False,False
+0ad25f2c-6c04-4af7-8672-475375387a4d,62.0,Male,Lake Victoriaside,Medium,2023-06-21,1444.36,481.4533333333333,3,896.97,31.36,0.0,51–65,False,False,False,False,False,False,False
+4a8ebbc3-f442-46ee-ae83-476b6767802c,59.0,Male,Paulside,High,2022-08-03,74.25,74.25,1,74.25,74.25,0.0,51–65,False,False,False,False,False,False,False
+bcdfeb3f-35d1-42e3-b630-602a9fee5214,20.0,Female,New Lorettatown,Low,2019-10-27,510.42,510.42,1,510.42,510.42,0.0,19–25,False,False,False,False,False,False,False
+9190bec9-2cbb-4b52-b9e0-263afc6bc0b8,50.0,Male,Geraldside,High,2020-05-10,929.03,929.03,1,929.03,929.03,0.0,36–50,False,False,False,False,False,False,False
+e227d514-7382-422e-adf1-fbf694f7c0d5,32.0,Female,Jennyborough,Medium,2022-03-08,373.21,373.21,1,373.21,373.21,0.0,26–35,False,False,False,False,False,False,False
+e12639d6-eeae-4436-a618-8e4b37aa16ac,66.0,Male,Kevinside,Low,2021-12-31,708.14,708.14,1,708.14,708.14,0.0,66+,False,False,False,False,False,False,False
+8f6a81be-9729-49b5-bc93-4ab9d3c5f6b3,22.0,Male,East Brittany,Medium,2020-11-29,1416.11,472.0366666666667,3,713.45,191.64,0.0,19–25,False,False,False,False,False,False,False
+ce2ece8f-91c3-420a-9d80-8b1f5051dc77,40.0,Female,Mccoyville,High,2023-01-24,404.15,404.15,1,404.15,404.15,0.0,36–50,False,False,False,False,False,False,False
+dad5383c-36f9-4dd6-8a63-a3466a8ca819,69.0,Female,Shorttown,Medium,,876.82,876.82,1,876.82,876.82,0.0,66+,False,False,False,False,False,False,False
+9b756f15-797c-4adf-b0cc-25d501a7e4fb,18.0,Female,Edwardsshire,,2019-11-19,496.625,496.625,1,496.625,496.625,0.0,≤18,False,False,False,False,False,False,False
+78959de9-ab6b-4b1f-9eba-2bc0514fe606,26.0,Female,Lewismouth,Low,2020-07-20,524.62,524.62,1,524.62,524.62,0.0,26–35,False,False,False,False,False,False,False
+2f4b0e43-8c15-4ac9-ab73-085dbde5dc4f,45.0,Female,West Heather,High,,1418.22,709.11,2,956.08,462.14,0.0,36–50,False,False,False,False,False,False,False
+e76d99b7-f95c-416f-8d4e-5fe436a6414c,64.0,Female,South Angelaburgh,Medium,2020-05-01,1288.27,429.42333333333335,3,805.51,36.16,0.0,51–65,False,False,False,False,False,False,False
+64ddd43e-3235-4c30-a6f2-ee0ec01295f8,63.0,Male,Port Marktown,Medium,2021-09-16,831.735,415.8675,2,496.625,335.11,0.0,51–65,False,False,False,False,False,False,False
+7e3256b2-49d1-419e-a30c-8504f446e64e,54.0,Female,Port Jesusborough,High,2021-02-16,1276.275,638.1375,2,779.65,496.625,0.0,51–65,False,False,False,False,False,False,False
+f0b50780-920a-4030-b0ef-b9789bb689d3,,Female,Javierside,,2020-11-03,529.7,529.7,1,529.7,529.7,0.0,,False,False,False,False,False,False,False
+af603c89-aa51-419e-81ec-7dda033219f3,37.0,Female,Troychester,Low,2020-11-10,1525.95,762.975,2,993.71,532.24,0.0,36–50,False,False,False,False,False,False,False
+e8de7d84-5ca6-40a2-8b3f-27cda500b8d9,36.0,Female,Dianahaven,High,2020-04-17,10.9,10.9,1,10.9,10.9,0.0,36–50,False,False,False,False,False,False,False
+aabb967f-0fac-406a-b5c5-ffb0480b80c5,43.0,Female,Newmanborough,High,2021-06-14,1421.65,710.825,2,733.81,687.84,0.0,36–50,False,False,False,False,False,False,False
+850477f1-54e9-42b2-aa69-329bdb1198a0,27.0,Male,Daleside,High,2020-11-28,55.61,55.61,1,55.61,55.61,0.0,26–35,False,False,False,False,False,False,False
+3d8f2b47-49b7-4ece-bcd9-614437744907,68.0,Female,Reedshire,High,2021-10-02,632.16,632.16,1,632.16,632.16,0.0,66+,False,False,False,False,False,False,False
+d18cda69-56ba-45a8-b3fe-ff52f040377a,63.0,Male,North Katherine,Low,2021-10-22,473.12,473.12,1,473.12,473.12,0.0,51–65,False,False,False,False,False,False,False
+f545e364-ba9c-49db-8eda-253569dbf0b7,49.0,Female,Lake Renee,Low,2021-12-19,654.91,654.91,1,654.91,654.91,0.0,36–50,False,False,False,False,False,False,False
+46e97136-3a44-4567-a58c-a434c0b3821f,58.0,Female,Marcusland,Low,2019-09-08,891.12,891.12,1,891.12,891.12,0.0,51–65,False,False,False,False,False,False,False
+d2cb1c6b-e8e4-43da-851e-0629ff5bd2f1,19.0,Male,Jenningston,Low,2022-03-11,847.26,847.26,1,847.26,847.26,0.0,19–25,False,False,False,False,False,False,False
+af7e73a2-6c53-4483-aaba-8b6c9074e1ea,45.0,Male,Steventon,Low,2020-01-12,421.48,421.48,1,421.48,421.48,0.0,36–50,False,False,False,False,False,False,False
+1a132210-8646-4516-b340-f5339ab0064b,34.0,Male,Harperhaven,High,2022-09-04,500.83,500.83,1,500.83,500.83,0.0,26–35,False,False,False,False,False,False,False
+b8749ac7-628a-4fc6-81f4-8fd885fcca3c,26.0,Female,Trevorview,Low,2024-01-09,496.625,496.625,1,496.625,496.625,0.0,26–35,False,False,False,False,False,False,False
+b10dbfea-ac81-4cdf-be3c-62248bbd5838,68.0,Male,Lake Joel,High,2021-12-14,1203.095,401.0316666666667,3,532.29,174.18,0.0,66+,False,False,False,False,False,False,False
+d2f2a30a-dc1d-40ba-aca3-8fe7615f7b01,45.0,Male,Brandifurt,High,2024-01-22,1862.97,931.485,2,961.63,901.34,0.0,36–50,False,False,False,False,False,False,False
+ba78abe5-c514-46ca-8feb-95426be7f8a3,36.0,Male,East Joshuachester,Low,2020-05-18,1085.24,542.62,2,834.86,250.38,0.0,36–50,False,False,False,False,False,False,False
+e7fbdcd7-aac5-4a3c-abeb-672f410dfc99,60.0,Male,East Christophermouth,High,2019-10-28,421.68,421.68,1,421.68,421.68,0.0,51–65,False,False,False,False,False,False,False
+c849d8b0-2b3a-414b-842f-3f4c8bd24004,,Male,South Sarahberg,Medium,2024-05-02,224.28,224.28,1,224.28,224.28,0.0,,False,False,False,False,False,False,False
+4a5db138-8b0c-45dd-b686-0f90edd42c3d,48.0,Male,Wagnerborough,,2023-12-26,939.41,939.41,1,939.41,939.41,0.0,36–50,False,False,False,False,False,False,False
+ea7308c9-73f0-4539-8139-b12ecad3575d,54.0,Female,Alexanderborough,Low,2022-10-11,550.02,550.02,1,550.02,550.02,0.0,51–65,False,False,False,False,False,False,False
+61566b24-0de9-47bd-aadd-0650b9646191,35.0,Male,Hernandezshire,Low,2019-09-04,1749.18,874.59,2,899.08,850.1,0.0,26–35,False,False,False,False,False,False,False
+41a70349-bf97-44b7-8d7e-f71d8ba581ef,57.0,Male,Keithton,Low,2024-03-14,394.08,394.08,1,394.08,394.08,0.0,51–65,False,False,False,False,False,False,False
+cf50d018-07b4-4e98-89ac-090099a0fedd,57.0,Male,East Lynn,Low,2020-08-10,634.46,634.46,1,634.46,634.46,0.0,51–65,False,False,False,False,False,False,False
+dff72d74-6b17-4e1e-a904-6b8823b94a06,41.0,Male,East Ryan,High,2021-04-14,904.39,301.4633333333333,3,456.78,152.91,0.0,36–50,False,False,False,False,False,False,False
+8240be7d-ef8a-4f51-a5d1-1389e6aa43f2,35.0,Male,Lake Kathymouth,High,2019-11-23,737.55,737.55,1,737.55,737.55,0.0,26–35,False,False,False,False,False,False,False
+5358a222-28b7-4c26-8d76-b9954e44079c,39.0,Female,Markland,Medium,2019-08-08,134.43,67.215,2,74.82,59.61,0.0,36–50,False,False,False,False,False,False,False
+9047570a-6d08-4ff0-8e07-9009d87ac90b,30.0,Female,West Michellebury,Medium,2020-06-21,1475.96,491.9866666666667,3,542.11,409.27,0.0,26–35,False,False,False,False,False,False,False
+18b3ff1d-ad70-4064-8d66-743289d65204,37.0,Male,South Alyssa,,2022-01-23,517.45,517.45,1,517.45,517.45,0.0,36–50,False,False,False,False,False,False,False
+e6f4ae74-d58d-4770-8ebc-89c1f8778a6d,37.0,Male,Lake Joanville,Medium,2023-02-02,275.75,137.875,2,375.75,-100.0,0.0,36–50,False,False,False,False,False,False,False
+0cd3b70a-d36f-4a0d-bdef-8d689345b33b,40.0,Female,Lake Brendamouth,Low,2023-01-01,354.19,354.19,1,354.19,354.19,0.0,36–50,False,False,False,False,False,False,False
+752b75e6-82bf-4f8d-9e9f-a46ebf4e7e03,61.0,Male,South Georgemouth,High,2021-07-24,703.065,351.5325,2,496.625,206.44,0.0,51–65,False,False,False,False,False,False,False
+b3dd869a-9eb6-4625-bb69-f43588ca38ab,32.0,Male,Vasquezhaven,Medium,2020-04-24,932.37,932.37,1,932.37,932.37,0.0,26–35,False,False,False,False,False,False,False
+bb798529-5f0e-4731-8377-244690335f1a,56.0,Male,New James,Medium,2022-11-08,161.44,161.44,1,161.44,161.44,0.0,51–65,False,False,False,False,False,False,False
+c288b8e0-209a-408b-8135-28f8e81b053b,20.0,Female,Fletcherburgh,Medium,2023-12-02,1024.955,512.4775,2,528.33,496.625,0.0,19–25,False,False,False,False,False,False,False
+80a0ca0b-e478-46fe-b45d-fd286623787f,45.0,Female,Lake Victoria,Low,2022-04-17,941.87,941.87,1,941.87,941.87,0.0,36–50,False,False,False,False,False,False,False
+f8146100-569d-4cda-9d64-88c6ad98de5f,21.0,Female,South Davidtown,Medium,2021-08-29,339.65,339.65,1,339.65,339.65,0.0,19–25,False,False,False,False,False,False,False
+1e30c651-0b58-4e94-af1b-91f790c46422,58.0,Female,East Edwardborough,High,2024-03-29,60.05,60.05,1,60.05,60.05,0.0,51–65,False,False,False,False,False,False,False
+c8a01b2a-9609-45a7-8f50-fa49f6ba25c5,21.0,Male,Angelaside,Low,2023-05-25,240.42,240.42,1,240.42,240.42,0.0,19–25,False,False,False,False,False,False,False
+832fe90b-db19-4a42-aee0-c3feb0f2cc64,53.0,Male,Traviston,Low,2019-11-19,720.39,720.39,1,720.39,720.39,0.0,51–65,False,False,False,False,False,False,False
+0779c97d-f4e4-4774-b1a5-deff552434a3,42.0,Female,Smithberg,Medium,2020-12-24,127.37,127.37,1,127.37,127.37,0.0,36–50,False,False,False,False,False,False,False
+740d0a3a-23f3-4417-9357-f4f26a4c9a62,18.0,Female,Lake Andreaton,Medium,2023-03-11,703.75,703.75,1,703.75,703.75,0.0,≤18,False,False,False,False,False,False,False
+c4dc94e9-3c8b-4dc4-b38b-7eb3c9aa9f00,31.0,Female,South Craigstad,High,2019-07-25,186.72,186.72,1,186.72,186.72,0.0,26–35,False,False,False,False,False,False,False
+0ef84cc6-0b4c-4c56-bdaa-d6b725ccc08e,40.0,Male,Lisaside,Medium,2022-07-23,108.3,108.3,1,108.3,108.3,0.0,36–50,False,False,False,False,False,False,False
+d9ebf03c-6e01-4a50-9db9-58681d604dc0,61.0,Female,Maddoxfort,Medium,2024-01-23,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+a5537b15-92da-427b-bfa6-287f24e8c371,45.0,Male,Lake Ricky,High,2022-06-02,772.72,386.36,2,421.73,350.99,0.0,36–50,False,False,False,False,False,False,False
+e1dabc47-5b6e-4e64-ae9d-b3e092a066ed,52.0,Female,Sandratown,High,2022-11-28,1285.755,642.8775,2,789.13,496.625,0.0,51–65,False,False,False,False,False,False,False
+2bab13d7-b642-4ac3-88ba-1c026fce0836,57.0,Female,East Julieberg,High,2020-12-09,561.7,561.7,1,561.7,561.7,0.0,51–65,False,False,False,False,False,False,False
+4657dc86-a2ed-469b-b3f8-44bb3d08ab9c,38.0,Male,Lake Kaitlin,High,2020-09-28,992.33,992.33,1,992.33,992.33,0.0,36–50,False,False,False,False,False,False,False
+892d4069-6d8d-492f-b5f9-cfc329ee9e78,31.0,Female,Arroyohaven,Medium,2023-01-10,218.0,218.0,1,218.0,218.0,0.0,26–35,False,False,False,False,False,False,False
+fe652a6b-df5d-4a14-99e1-3d1bc3d4aba9,45.0,Male,North Angela,High,2023-09-01,1427.52,713.76,2,919.56,507.96,0.0,36–50,False,False,False,False,False,False,False
+0ece51e3-e19f-4a06-8f1a-43d7a4e4cbe9,41.0,Female,Allenfort,Medium,2023-09-04,1020.225,340.075,3,496.625,186.4,0.0,36–50,False,False,False,False,False,False,False
+b449a41c-c911-4d86-8125-5d2aca600289,62.0,Female,Rayview,High,2023-11-12,580.18,580.18,1,580.18,580.18,0.0,51–65,False,False,False,False,False,False,False
+3daeb50a-a388-44a7-8aa8-0cde8a0c1947,39.0,Male,West Trevor,Low,2022-11-24,217.84,217.84,1,217.84,217.84,0.0,36–50,False,False,False,False,False,False,False
+4db786fb-341d-4ed2-b5d3-0e0b5f6dff9f,34.0,Female,Lake Laura,Low,2023-10-22,398.08,398.08,1,398.08,398.08,0.0,26–35,False,False,False,False,False,False,False
+56a5cf77-1afc-4911-8259-9293710ca596,19.0,Male,North Maria,Medium,2019-09-04,405.34,405.34,1,405.34,405.34,0.0,19–25,False,False,False,False,False,False,False
+6e3e8eb8-bc0f-4ffe-9f74-5d5efec9502f,41.0,Female,Nicoleview,Medium,2021-11-15,1783.04,594.3466666666667,3,684.12,508.4,0.0,36–50,False,False,False,False,False,False,False
+bc888183-8dfd-45d0-9bc2-d8584e9b8064,37.0,Male,Sarahmouth,Low,2023-10-19,679.85,679.85,1,679.85,679.85,0.0,36–50,False,False,False,False,False,False,False
+99299ec1-ba07-442f-b7c9-7b3ec509584d,28.0,Female,New Debrashire,,2022-04-05,26.26,26.26,1,26.26,26.26,0.0,26–35,False,False,False,False,False,False,False
+de1c2a79-7a56-4c28-aa2c-bb92b255b031,62.0,Female,South Robertport,Medium,2022-12-20,650.4449999999999,325.22249999999997,2,496.625,153.82,0.0,51–65,False,False,False,False,False,False,False
+f0d87968-72cf-4817-b871-c8812a52c570,47.0,Female,Natalietown,,2022-10-20,1729.405,576.4683333333334,3,997.3,235.48,0.0,36–50,False,False,False,False,False,False,False
+0d27c7ac-346c-454f-b37d-75fddef246ad,43.0,Male,Webbfurt,Medium,2024-01-12,849.55,849.55,1,849.55,849.55,0.0,36–50,False,False,False,False,False,False,False
+d03df71d-b02e-4c1e-a2cc-79ebb353b530,60.0,Male,Jameston,High,2023-07-20,525.96,525.96,1,525.96,525.96,0.0,51–65,False,False,False,False,False,False,False
+7a7ebefe-7936-4e6f-9cf2-6e80c7d2d849,28.0,Male,West Nicole,Low,2022-09-13,1347.27,449.09,3,747.08,283.52,0.0,26–35,False,False,False,False,False,False,False
+0835b6e3-f10e-4a8d-8d11-e64445faed2f,34.0,Male,Jessicachester,Low,2019-07-24,1432.94,716.47,2,780.12,652.82,0.0,26–35,False,False,False,False,False,False,False
+dad30372-5fe9-40fb-a895-b85af25c2f3c,53.0,Female,North Davidfort,Low,2021-09-06,929.32,929.32,1,929.32,929.32,0.0,51–65,False,False,False,False,False,False,False
+e2fa338d-8332-4ab3-a739-da2eba2f70a0,18.0,Male,East Latashaside,High,2024-03-22,422.13,422.13,1,422.13,422.13,0.0,≤18,False,False,False,False,False,False,False
+080ff643-1def-4438-ad98-62cff0ce5b53,69.0,Male,West Rebeccastad,Medium,2020-09-20,950.97,950.97,1,950.97,950.97,0.0,66+,False,False,False,False,False,False,False
+a30b5c34-8a68-4d85-bc60-bf4d3885b983,45.0,Female,Crossberg,High,2020-04-15,466.92,466.92,1,466.92,466.92,0.0,36–50,False,False,False,False,False,False,False
+64b89b9e-1cf4-4b42-add8-94b7ec861f1a,66.0,Female,Mistyborough,High,2019-07-05,680.3299999999999,340.16499999999996,2,460.82,219.51,0.0,66+,False,False,False,False,False,False,False
+3a37d39f-9c74-4ca1-987c-5ac5269b13a3,42.0,Female,East Vanessa,Medium,2020-04-12,661.27,661.27,1,661.27,661.27,0.0,36–50,False,False,False,False,False,False,False
+b05ce7b6-2285-4728-8601-6d75030a902f,43.0,Female,West Alejandroburgh,,2023-04-06,419.49,419.49,1,419.49,419.49,0.0,36–50,False,False,False,False,False,False,False
+f9cb178a-b717-4782-91ce-20564e98ee81,23.0,Female,Glendaberg,Medium,2023-03-19,958.46,958.46,1,958.46,958.46,0.0,19–25,False,False,False,False,False,False,False
+0f1eca8b-186d-45c6-8d42-460958fe4fd0,48.0,Male,Gomezchester,High,2021-04-25,680.03,680.03,1,680.03,680.03,0.0,36–50,False,False,False,False,False,False,False
+694564e4-e52a-41bc-b076-53100fb5b3cd,45.0,Male,West Erica,High,2024-06-09,1628.4899999999998,814.2449999999999,2,870.31,758.18,0.0,36–50,False,False,False,False,False,False,False
+b836eea2-4914-429c-af83-8f51b24a8a5b,28.0,Male,Port Darrell,Low,2020-11-08,1444.455,481.485,3,738.04,209.79,0.0,26–35,False,False,False,False,False,False,False
+015006df-480b-4c0d-9a6a-550691817c48,31.0,Female,Vanessaville,High,2021-08-07,1483.38,494.46,3,986.3,92.35,0.0,26–35,False,False,False,False,False,False,False
+962f1fa4-cd1c-49c4-a5ad-a9a1d9d5ddf4,38.0,Female,East George,,2024-02-22,749.31,749.31,1,749.31,749.31,0.0,36–50,False,False,False,False,False,False,False
+077936e6-6556-434f-9494-e5d671b6e71c,65.0,Female,Bryantside,High,2019-11-09,298.75,149.375,2,182.28,116.47,0.0,51–65,False,False,False,False,False,False,False
+1e7ce035-2593-485c-8039-02a933537b70,59.0,Male,Russellmouth,Medium,2024-02-01,1014.15,507.075,2,955.72,58.43,0.0,51–65,False,False,False,False,False,False,False
+99a198c8-1b8a-48cf-8741-11e3e84e94bd,27.0,Female,Jamesbury,High,2020-03-11,567.69,567.69,1,567.69,567.69,0.0,26–35,False,False,False,False,False,False,False
+9eee2b1c-ef39-41e8-b34f-6be7cb9d05a6,41.0,Female,East Brad,Low,2024-01-09,1036.72,518.36,2,882.86,153.86,0.0,36–50,False,False,False,False,False,False,False
+f8c0198a-5f47-4bbf-b9e4-e8a4dbf4380c,62.0,Male,Jessicamouth,Low,2020-08-07,62.83,62.83,1,62.83,62.83,0.0,51–65,False,False,False,False,False,False,False
+3ff07f9f-8d50-442d-b5b7-0d84510af6be,,Female,Lake Lindseychester,Medium,2023-10-12,618.79,618.79,1,618.79,618.79,0.0,,False,False,False,False,False,False,False
+6ba4ab30-95f8-4f3d-a867-1150f8f86ab8,69.0,Male,West Janicemouth,Medium,2019-12-04,88.79,88.79,1,88.79,88.79,0.0,66+,False,False,False,False,False,False,False
+3cff3ced-315b-413b-9c0b-99bae1c5f85d,20.0,Female,Markport,High,2023-09-03,1103.7,551.85,2,554.21,549.49,0.0,19–25,False,False,False,False,False,False,False
+9fc22cf8-1f95-4bc9-9220-044f9757a473,19.0,Male,Amandachester,High,2021-06-11,297.49,297.49,1,297.49,297.49,0.0,19–25,False,False,False,False,False,False,False
+e6f38640-260c-4c82-bb98-1a5ad730365e,45.0,Female,Leeland,Medium,,787.75,393.875,2,428.35,359.4,0.0,36–50,False,False,False,False,False,False,False
+fd67f70a-c429-4aa9-9289-04ced4c80b54,18.0,Male,Gilberttown,Low,2020-08-20,433.94,433.94,1,433.94,433.94,0.0,≤18,False,False,False,False,False,False,False
+9f30999e-2fb8-47f8-90df-b669aaaa8fbc,43.0,Female,West Jamesbury,Medium,2022-01-14,733.11,733.11,1,733.11,733.11,0.0,36–50,False,False,False,False,False,False,False
+06b260b8-1286-4b47-8bfe-54d8501f1a62,45.0,Female,Stevensonchester,High,2024-06-19,517.37,517.37,1,517.37,517.37,0.0,36–50,False,False,False,False,False,False,False
+089bd09a-4241-4fa4-905d-425bfc36b78a,50.0,Male,Lake Jake,Medium,2023-03-16,565.47,565.47,1,565.47,565.47,0.0,36–50,False,False,False,False,False,False,False
+8512b48f-4b69-4852-abdc-b0ca27953ee6,46.0,Male,Port Amanda,Low,2020-04-01,779.36,779.36,1,779.36,779.36,0.0,36–50,False,False,False,False,False,False,False
+f5b15ef5-1301-4e8f-b2c8-9f7bcef998d8,49.0,Female,Walkerland,Low,2024-03-16,1197.82,399.2733333333333,3,610.56,34.05,0.0,36–50,False,False,False,False,False,False,False
+6dec1421-f6db-421e-851c-a98d5688392e,28.0,Female,Velazqueztown,Medium,2020-11-01,681.36,681.36,1,681.36,681.36,0.0,26–35,False,False,False,False,False,False,False
+2bf45bb4-ff28-4e6c-9f90-d749c6b45221,48.0,Male,Fernandeztown,Medium,2021-01-25,560.45,560.45,1,560.45,560.45,0.0,36–50,False,False,False,False,False,False,False
+f71e72b6-e451-42da-a1d5-6ef629c553f8,31.0,Female,Leeton,Low,2021-06-09,116.61,116.61,1,116.61,116.61,0.0,26–35,False,False,False,False,False,False,False
+28b0afc0-0a86-49fa-a9a8-be081b13a34e,32.0,Female,North Danielborough,High,2023-12-17,153.74,153.74,1,153.74,153.74,0.0,26–35,False,False,False,False,False,False,False
+bdb8e28a-44e5-4b20-b4a5-fd345abf6fbe,29.0,Female,New Patrick,Low,2024-03-26,722.23,722.23,1,722.23,722.23,0.0,26–35,False,False,False,False,False,False,False
+80065540-0427-4aa7-83d5-b7e24f8d7962,37.0,Male,Port Nathanland,High,2024-03-25,433.85,433.85,1,433.85,433.85,0.0,36–50,False,False,False,False,False,False,False
+e5b86db2-c53a-4804-a021-57846859196f,43.0,Female,South Gloriamouth,Medium,2024-02-25,68.55,68.55,1,68.55,68.55,0.0,36–50,False,False,False,False,False,False,False
+af53d8ae-7f3b-4384-aea5-0e70b3320ad8,45.0,Female,South Elizabethport,Medium,2023-08-06,980.76,980.76,1,980.76,980.76,0.0,36–50,False,False,False,False,False,False,False
+588c9d82-2e86-4652-92ce-35d99355e561,62.0,Female,Susanfort,Medium,2019-11-15,37.55,37.55,1,37.55,37.55,0.0,51–65,False,False,False,False,False,False,False
+5edfab8a-fdac-4de4-92f0-2ca314b7fd59,53.0,Female,Peggyhaven,High,2021-11-04,656.23,328.115,2,509.66,146.57,0.0,51–65,False,False,False,False,False,False,False
+cb92abec-3e14-4c2d-b8a7-265082126081,54.0,Female,West Mary,High,2023-03-15,1081.33,360.4433333333333,3,458.74,295.22,0.0,51–65,False,False,False,False,False,False,False
+e850f663-3f65-4e57-b1ed-11669623b192,19.0,Female,North Steven,Medium,2020-05-02,543.15,543.15,1,543.15,543.15,0.0,19–25,False,False,False,False,False,False,False
+1c139f1f-280b-4c07-8fe0-db50181fe77a,49.0,Male,Port Jeffrey,High,2020-01-07,290.46,290.46,1,290.46,290.46,0.0,36–50,False,False,False,False,False,False,False
+3ea377e6-1156-457e-8b4e-71fa6663e6bf,43.0,Female,Bradyport,Low,2021-10-04,666.97,333.485,2,766.97,-100.0,0.0,36–50,False,False,False,False,False,False,False
+b5c0628b-1e18-48db-b35e-fd3e959dd948,18.0,Female,Arnoldtown,High,2019-08-23,95.32,95.32,1,95.32,95.32,0.0,≤18,False,False,False,False,False,False,False
+92d3a47c-ab00-4c27-8fd4-460a47314db9,38.0,Female,South Marytown,Low,2022-07-31,435.3,435.3,1,435.3,435.3,0.0,36–50,False,False,False,False,False,False,False
+b0f6482c-2895-48e5-b17d-76f51f537dec,38.0,Female,South Stephaniefurt,High,2021-12-01,217.88,217.88,1,217.88,217.88,0.0,36–50,False,False,False,False,False,False,False
+f288eca4-19dc-4cb3-87bc-082a146ab029,19.0,Male,New Rachelville,Low,2022-11-04,1180.52,393.50666666666666,3,627.78,24.16,0.0,19–25,False,False,False,False,False,False,False
+42c67723-2085-4d2e-b237-fbfdfbdf9f3f,31.0,Male,Emilyville,,2020-07-24,1164.73,388.24333333333334,3,889.07,126.29,0.0,26–35,False,False,False,False,False,False,False
+fe12cf9d-7da0-4ef0-a48a-bc3cff545790,36.0,Male,Thomashaven,Medium,2019-10-13,770.8599999999999,385.4299999999999,2,636.91,133.95,0.0,36–50,False,False,False,False,False,False,False
+3a204a5c-66e7-44fe-b1b7-6ca40fb677b5,58.0,Female,Meganville,Low,2021-08-15,816.68,816.68,1,816.68,816.68,0.0,51–65,False,False,False,False,False,False,False
+c510c51e-77c1-4e2e-901c-b24996c6e3f0,22.0,Female,Lake Cassie,High,2020-07-28,310.0,310.0,1,310.0,310.0,0.0,19–25,False,False,False,False,False,False,False
+48b0fbc5-7de9-4720-9f39-6e820834dced,24.0,Male,South Natalie,Low,2023-03-29,1145.47,572.735,2,646.95,498.52,0.0,19–25,False,False,False,False,False,False,False
+24884bac-7030-408b-b834-203c963e5f30,62.0,Female,South Angelachester,Medium,2021-05-18,368.81,184.405,2,351.46,17.35,0.0,51–65,False,False,False,False,False,False,False
+83e67ac8-6dd6-4dc9-b16c-eb05aa77e6e7,38.0,Male,North Stephanie,High,2021-09-25,1087.105,543.5525,2,590.48,496.625,0.0,36–50,False,False,False,False,False,False,False
+243a5ccd-31c3-440d-a3ad-73d3972dd39d,45.0,Female,New Larry,,2019-10-12,986.67,986.67,1,986.67,986.67,0.0,36–50,False,False,False,False,False,False,False
+b79db1bf-be94-444a-9c04-0e3a7280f3b5,61.0,Male,South Adamhaven,Low,2022-08-15,1342.435,671.2175,2,845.81,496.625,0.0,51–65,False,False,False,False,False,False,False
+d351a939-0f64-41bb-91d3-5a90b091c928,55.0,Male,North Ericfurt,Low,2022-04-05,269.14,269.14,1,269.14,269.14,0.0,51–65,False,False,False,False,False,False,False
+1223fb41-781f-4bbe-95ee-cfc4163ff736,70.0,Female,New Michaelchester,Medium,2019-07-25,963.93,963.93,1,963.93,963.93,0.0,66+,False,False,False,False,False,False,False
+eb263c61-e957-4ee6-92e0-b1fbb45b6412,38.0,Male,Lozanoview,High,2022-01-26,700.75,700.75,1,700.75,700.75,0.0,36–50,False,False,False,False,False,False,False
+7be6d71b-02f8-4b79-af40-2cfd25692d9f,38.0,Female,New Keithfort,,2023-05-10,496.625,496.625,1,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+270506ea-c72f-4926-a9f4-e29ea53adb9f,48.0,Female,Dawnfort,Low,2020-03-08,546.7,546.7,1,546.7,546.7,0.0,36–50,False,False,False,False,False,False,False
+40d70488-aa98-4c83-8e41-b30adb59c2a4,34.0,Female,New Robert,Medium,2023-08-07,1330.02,665.01,2,824.68,505.34,0.0,26–35,False,False,False,False,False,False,False
+d2ed05d6-7d58-4b3a-b9d8-4916af54bc85,31.0,Female,East Michael,,2021-02-13,716.6,716.6,1,716.6,716.6,0.0,26–35,False,False,False,False,False,False,False
+41a1f2b8-4685-4f0e-a1ac-09fd44234559,53.0,Male,Port Elizabeth,High,2021-12-24,406.33,203.165,2,203.28,203.05,0.0,51–65,False,False,False,False,False,False,False
+28dad012-b308-4cd7-b60f-edb22f8a6022,33.0,Female,New Kylefurt,Medium,2022-12-23,63.04,63.04,1,63.04,63.04,0.0,26–35,False,False,False,False,False,False,False
+58efacc2-449b-43b7-b0b1-eac8fc45e75e,65.0,Female,Grayberg,Medium,2024-05-31,267.06,267.06,1,267.06,267.06,0.0,51–65,False,False,False,False,False,False,False
+1e061351-11f3-470c-905f-60f244516c43,20.0,Female,Sarahbury,Low,2023-02-28,776.32,776.32,1,776.32,776.32,0.0,19–25,False,False,False,False,False,False,False
+8ecb60d8-2993-4586-b0cd-41309f3e559b,59.0,Male,Jamesberg,Low,2022-07-23,742.26,742.26,1,742.26,742.26,0.0,51–65,False,False,False,False,False,False,False
+a420497a-653c-4a0f-bdfa-32543a7a94f6,64.0,Male,Lake Jerryport,,2020-01-26,0.0,0.0,1,0.0,0.0,0.0,51–65,False,False,False,False,False,False,False
+32c30314-8914-4cdc-8dbf-3101b123784c,33.0,Male,Williamton,High,2019-10-03,1229.08,409.6933333333333,3,918.92,17.77,0.0,26–35,False,False,False,False,False,False,False
+be291608-29a5-4143-a9dc-701f91ea3952,36.0,Female,Port Jenniferborough,High,2021-04-10,1857.35,928.675,2,951.13,906.22,0.0,36–50,False,False,False,False,False,False,False
+4fa0e136-dc82-4b63-b106-51c60fc5d47e,67.0,Female,Chenhaven,High,2021-05-02,910.13,910.13,1,910.13,910.13,0.0,66+,False,False,False,False,False,False,False
+0d54a00f-7e0e-45e3-804d-5a43044cfa0b,35.0,Male,North Mary,Medium,2023-10-18,847.98,847.98,1,847.98,847.98,0.0,26–35,False,False,False,False,False,False,False
+f770e561-feaf-49f5-8a33-7dae0e80cb43,35.0,Male,Scottton,Low,2020-12-19,577.6949999999999,288.84749999999997,2,496.625,81.07,0.0,26–35,False,False,False,False,False,False,False
+c948b688-1a1c-4d0d-828d-e130777f1fbd,52.0,Female,North Stephen,Medium,2022-03-29,883.26,441.63,2,496.7,386.56,0.0,51–65,False,False,False,False,False,False,False
+7a2a204c-45c6-472b-81e1-3fcfdcaef417,45.0,Male,Brandonchester,High,2022-09-03,660.43,660.43,1,660.43,660.43,0.0,36–50,False,False,False,False,False,False,False
+279f267c-0ce8-4bc5-9cdd-d62c39547afa,39.0,Female,Rebeccatown,High,2021-05-29,203.7,203.7,1,203.7,203.7,0.0,36–50,False,False,False,False,False,False,False
+407c3e47-8309-4423-a2bb-e025b3239745,61.0,Male,Kaylafort,Low,2023-03-18,388.31,388.31,1,388.31,388.31,0.0,51–65,False,False,False,False,False,False,False
+78bee088-4d98-4eaf-ab74-cac78e41e898,63.0,Male,South Kevinmouth,High,2020-04-08,1648.92,549.64,3,628.3,464.46,0.0,51–65,False,False,False,False,False,False,False
+987867d2-c4a0-4679-9686-b0557c8c22ee,47.0,Female,South Nancyview,High,2020-07-29,241.29,241.29,1,241.29,241.29,0.0,36–50,False,False,False,False,False,False,False
+73406732-e0cc-4ae6-a03b-aed8ed40dbee,48.0,Female,North Natasha,High,2023-09-01,867.6,867.6,1,867.6,867.6,0.0,36–50,False,False,False,False,False,False,False
+bdfb63af-d1a7-412c-8d2d-f80f6a26420f,23.0,Male,Meganbury,Low,2021-07-31,993.7,993.7,1,993.7,993.7,0.0,19–25,False,False,False,False,False,False,False
+24fce394-c68e-4c04-b884-393a6662dad7,50.0,Male,Kimberlyview,High,2020-04-01,913.51,913.51,1,913.51,913.51,0.0,36–50,False,False,False,False,False,False,False
+37c2adef-c273-4da9-a16b-a542116416cf,40.0,Female,New Christopherside,Medium,2024-01-13,945.375,472.6875,2,496.625,448.75,0.0,36–50,False,False,False,False,False,False,False
+ae0b84ca-a55b-424d-a556-40e89db2e099,56.0,Male,North Tracyport,Low,2020-02-18,584.18,584.18,1,584.18,584.18,0.0,51–65,False,False,False,False,False,False,False
+86f62a9f-e0c9-4904-a196-65218dc5cea5,57.0,Female,Flemingbury,Low,2021-09-08,488.23,488.23,1,488.23,488.23,0.0,51–65,False,False,False,False,False,False,False
+56fe3f0a-c1fe-4cfc-a986-658ebb6416e8,59.0,Female,North Joannechester,Low,2023-11-07,1113.94,371.31333333333333,3,613.51,24.13,0.0,51–65,False,False,False,False,False,False,False
+126a19e5-9bad-49df-a564-60ddf3c6afa6,45.0,Female,Powersmouth,High,2021-04-13,1123.41,561.7049999999999,2,771.77,351.64,0.0,36–50,False,False,False,False,False,False,False
+a9a3ce5a-1459-428a-b461-2ec4611ffdcd,27.0,Male,South Carlaport,,2020-06-21,1838.965,612.9883333333333,3,902.13,440.21,0.0,26–35,False,False,False,False,False,False,False
+1d26a8ed-88ca-4806-9ec1-7db7ee6a748f,32.0,Female,East Cindy,,2020-01-25,283.90999999999997,141.95499999999998,2,155.6,128.31,0.0,26–35,False,False,False,False,False,False,False
+958b5999-943e-4d80-abeb-5fb285047fc0,34.0,Male,Zacharyfort,Medium,2020-12-16,380.39,190.195,2,313.45,66.94,0.0,26–35,False,False,False,False,False,False,False
+f0fa23f8-ad7a-407d-a63f-d4fba28cf6ac,34.0,Female,Thompsonview,High,2021-09-13,599.07,599.07,1,599.07,599.07,0.0,26–35,False,False,False,False,False,False,False
+7f12330b-8b50-4618-bbeb-b5ca1532ab43,21.0,Female,East Tommyshire,Low,2023-08-27,1477.77,738.885,2,905.37,572.4,0.0,19–25,False,False,False,False,False,False,False
+1256edb8-f10f-451d-91c5-1e525b23ff5d,32.0,Female,West Adam,High,,705.77,705.77,1,705.77,705.77,0.0,26–35,False,False,False,False,False,False,False
+3d8408ab-60f2-465f-a112-d6b7747c4a4a,37.0,Male,Warrenstad,Low,2020-07-03,1700.73,850.365,2,954.97,745.76,0.0,36–50,False,False,False,False,False,False,False
+56955d9a-88fc-4100-9d6b-1ba2eeca54e5,46.0,Male,New Granttown,High,2022-09-22,236.22,236.22,1,236.22,236.22,0.0,36–50,False,False,False,False,False,False,False
+243b28fa-f273-42e7-90c7-7885be2a8b62,50.0,Female,East Kaitlynton,,2023-02-25,678.36,678.36,1,678.36,678.36,0.0,36–50,False,False,False,False,False,False,False
+15e129b7-48ba-4b37-8ba4-703745e17019,61.0,Male,Christopherchester,Medium,2019-09-05,815.4000000000001,407.7000000000001,2,572.45,242.95,0.0,51–65,False,False,False,False,False,False,False
+9d62293d-b5fd-4efa-b359-2039d2427c59,38.0,Male,Randolphside,High,2019-12-06,699.7,349.85,2,679.95,19.75,0.0,36–50,False,False,False,False,False,False,False
+885582df-3468-44c9-b92d-ea9d8396b962,54.0,Male,Angelafurt,High,2021-02-25,1083.145,541.5725,2,586.52,496.625,0.0,51–65,False,False,False,False,False,False,False
+afafc055-f6de-427f-8b2d-2f2cc262c0a8,28.0,Male,Ashleyberg,,2020-03-19,310.91,310.91,1,310.91,310.91,0.0,26–35,False,False,False,False,False,False,False
+c51a0615-0139-4cfb-84f7-0c5f12c7d9b8,22.0,Female,South Ryanbury,Medium,2023-09-22,1728.11,576.0366666666667,3,940.6,203.64,0.0,19–25,False,False,False,False,False,False,False
+50b1a4f9-30de-4811-870a-0dbfb8285730,62.0,Male,Lake Luis,Medium,2020-09-29,804.83,804.83,1,804.83,804.83,0.0,51–65,False,False,False,False,False,False,False
+a9af986b-d677-421a-81df-3d289ce9e38f,31.0,Male,New Theresa,High,2022-08-13,25.769999999999996,12.884999999999998,2,125.77,-100.0,0.0,26–35,False,False,False,False,False,False,False
+82f41b29-3a03-4309-8ff4-96465e800a62,20.0,Female,New Ericside,Medium,2023-08-31,582.36,582.36,1,582.36,582.36,0.0,19–25,False,False,False,False,False,False,False
+cb0a2640-ca08-4221-a20a-6fa05b58af18,19.0,Male,Michaelshire,Medium,2019-12-20,716.8199999999999,358.40999999999997,2,585.26,131.56,0.0,19–25,False,False,False,False,False,False,False
+25283b2b-4273-48ea-b92c-fa8866f06d97,32.0,Female,Marcusburgh,Low,2023-06-25,318.74,318.74,1,318.74,318.74,0.0,26–35,False,False,False,False,False,False,False
+686db601-0d7e-47bb-b291-bafccdd88579,,Male,Port Donnachester,Medium,2022-12-29,496.625,496.625,1,496.625,496.625,0.0,,False,False,False,False,False,False,False
+7f05422d-2ccf-423b-958f-081f2044dc02,53.0,Male,East Christopherside,Low,2019-12-18,419.3,419.3,1,419.3,419.3,0.0,51–65,False,False,False,False,False,False,False
+cddc460b-dd79-40bb-a1c8-b79bf727cc0c,40.0,Female,South Matthew,Medium,2022-03-06,381.37,381.37,1,381.37,381.37,0.0,36–50,False,False,False,False,False,False,False
+0fb0bd8b-df5e-4029-be1f-b861d1ded562,30.0,Female,Hopkinstown,Low,2020-06-24,912.96,456.48,2,857.27,55.69,0.0,26–35,False,False,False,False,False,False,False
+6d4afc8d-d844-46b8-b074-32c8c365a575,45.0,Female,Snyderstad,,2020-07-07,759.4200000000001,253.14,3,370.2,20.31,0.0,36–50,False,False,False,False,False,False,False
+a39d48bf-a98b-4846-924e-cf1c0c65bd63,44.0,Male,Lindashire,Medium,2023-09-16,213.25,213.25,1,213.25,213.25,0.0,36–50,False,False,False,False,False,False,False
+37b09c72-123a-4c67-9e52-1c2ec42d101d,47.0,Male,Lake Sarahmouth,,2020-01-06,953.23,953.23,1,953.23,953.23,0.0,36–50,False,False,False,False,False,False,False
+63761a52-e454-4701-a01d-6255d2d15895,54.0,Male,West David,High,2020-05-06,317.62,317.62,1,317.62,317.62,0.0,51–65,False,False,False,False,False,False,False
+34e3f558-622e-4d6b-8d5d-07ab632e1b95,51.0,Male,Port Tiffany,High,2021-05-22,698.005,349.0025,2,496.625,201.38,0.0,51–65,False,False,False,False,False,False,False
+ceaa7320-d177-4067-9582-3811c3929178,52.0,Male,Lake Philipland,Low,2023-11-22,449.57,449.57,1,449.57,449.57,0.0,51–65,False,False,False,False,False,False,False
+3c4cd76a-57cf-4db4-820e-545a075fa640,,Male,North William,Medium,2021-01-28,724.35,724.35,1,724.35,724.35,0.0,,False,False,False,False,False,False,False
+61270da3-0a87-4541-84df-2627bb65c010,46.0,Female,Chaseview,Low,,1178.255,392.7516666666667,3,550.37,131.26,0.0,36–50,False,False,False,False,False,False,False
+a33b4c6b-8873-48ff-8d29-33f3a3b64251,22.0,Male,Parkershire,Low,,330.91,330.91,1,330.91,330.91,0.0,19–25,False,False,False,False,False,False,False
+471c3204-b4bb-4f9b-8b2c-29a2caa9e7da,45.0,Male,Michaelton,Low,2024-06-25,187.85,187.85,1,187.85,187.85,0.0,36–50,False,False,False,False,False,False,False
+f77576df-bc7a-4f79-b5c3-e2da4eff130e,50.0,Female,North Jasonview,High,2023-03-08,975.28,487.64,2,793.83,181.45,0.0,36–50,False,False,False,False,False,False,False
+58ced86b-155c-45b1-96c4-92e39af3751e,53.0,Female,Sarahburgh,Medium,2024-01-05,642.99,642.99,1,642.99,642.99,0.0,51–65,False,False,False,False,False,False,False
+603730a2-0f6d-4d3b-a760-39db03ab01f4,68.0,Male,Port Christinamouth,Low,2022-05-08,432.46,432.46,1,432.46,432.46,0.0,66+,False,False,False,False,False,False,False
+fc9f91cc-00f1-4ffa-8016-878c069f3a1b,25.0,Female,Kathleenshire,Medium,2019-10-08,1471.9299999999998,735.9649999999999,2,945.06,526.87,0.0,19–25,False,False,False,False,False,False,False
+f6f7400a-0aa5-47dc-bc5a-af3e38d00f30,23.0,Male,Lake Richard,High,2019-10-30,689.8000000000001,344.90000000000003,2,595.22,94.58,0.0,19–25,False,False,False,False,False,False,False
+7cd96f82-4bad-4efd-a6aa-d6098dff001e,25.0,Male,Salazarstad,High,2021-02-14,1649.6699999999998,549.89,3,798.91,128.7,0.0,19–25,False,False,False,False,False,False,False
+f27dad21-87d3-41b7-b93f-1efba28d5819,57.0,Male,Thomasside,Medium,,667.85,667.85,1,667.85,667.85,0.0,51–65,False,False,False,False,False,False,False
+4e50020d-aa1c-46b3-9821-63d7b69f58ba,58.0,Male,South Whitneymouth,,2021-11-04,526.54,526.54,1,526.54,526.54,0.0,51–65,False,False,False,False,False,False,False
+d74439c1-90e1-4a46-951e-89fe6e092b9f,70.0,Female,North Anthony,High,2024-01-29,779.32,779.32,1,779.32,779.32,0.0,66+,False,False,False,False,False,False,False
+8b017c98-ff3d-43d0-a0c7-6d1a7a2922e7,62.0,Female,South Kathy,Medium,2022-04-06,796.81,796.81,1,796.81,796.81,0.0,51–65,False,False,False,False,False,False,False
+f3521369-d217-432d-9364-289de51caa73,49.0,Female,West George,Medium,2022-07-06,851.36,851.36,1,851.36,851.36,0.0,36–50,False,False,False,False,False,False,False
+41846ddf-f6d1-40ef-952b-652f8904d6ee,70.0,Female,Diazmouth,Medium,2021-04-27,1687.92,843.96,2,934.7,753.22,0.0,66+,False,False,False,False,False,False,False
+68afa4cc-e2d5-4150-b358-2e14e7508721,18.0,Female,South Zacharystad,Medium,2020-08-03,496.625,496.625,1,496.625,496.625,0.0,≤18,False,False,False,False,False,False,False
+5dc8fbec-4149-4615-9ba8-d30bfacd7637,58.0,Male,West Lisa,Medium,2021-01-06,407.13,407.13,1,407.13,407.13,0.0,51–65,False,False,False,False,False,False,False
+76ae365e-7b45-4763-94ec-3f98ef127fd5,22.0,Female,Benjaminmouth,,2021-05-16,116.2,116.2,1,116.2,116.2,0.0,19–25,False,False,False,False,False,False,False
+0a610e96-95c5-439b-9804-e19af5aad6ff,37.0,Female,New Amy,Low,2020-12-26,786.87,393.435,2,705.74,81.13,0.0,36–50,False,False,False,False,False,False,False
+df8efbc2-afb8-4036-b764-ec5d26891ca3,67.0,Male,North Karen,Medium,2024-02-23,970.59,970.59,1,970.59,970.59,0.0,66+,False,False,False,False,False,False,False
+57bfa722-7e8f-402d-aaff-ba2b7034150a,27.0,Male,Hatfieldmouth,Low,2021-07-07,746.61,373.305,2,615.83,130.78,0.0,26–35,False,False,False,False,False,False,False
+5b926605-fa21-4bd0-aba5-1918d14c6bf8,22.0,Female,Lake Charles,Low,2023-10-31,930.71,930.71,1,930.71,930.71,0.0,19–25,False,False,False,False,False,False,False
+b2dd40c0-e0bd-43ef-b0f7-a178faa348cf,63.0,Female,New Olivia,Low,2023-05-20,928.37,464.185,2,847.41,80.96,0.0,51–65,False,False,False,False,False,False,False
+76d96f89-e423-4468-bd4c-5f20037bb251,68.0,Female,West David,,2022-04-29,1814.88,907.44,2,915.36,899.52,0.0,66+,False,False,False,False,False,False,False
+c6f3aa4e-9147-4547-b2c9-b1aa7847d304,28.0,Male,South Leeville,Medium,2021-11-15,605.525,302.7625,2,496.625,108.9,0.0,26–35,False,False,False,False,False,False,False
+43872b6a-ac3f-4119-9531-a148e6893eb3,33.0,Female,Wisechester,Low,2021-03-02,936.38,936.38,1,936.38,936.38,0.0,26–35,False,False,False,False,False,False,False
+cc69a111-0b82-4061-98f7-317b2ce823bd,30.0,Female,East Kimberlyport,High,2020-12-16,496.625,496.625,1,496.625,496.625,0.0,26–35,False,False,False,False,False,False,False
+aa21621d-ab9a-48fb-bf2d-0f83dcf73cfa,36.0,Male,West William,,2020-09-07,987.65,987.65,1,987.65,987.65,0.0,36–50,False,False,False,False,False,False,False
+979260bf-0557-470a-af19-5dea2a52bc20,39.0,Male,Kathybury,High,2020-11-14,1405.595,702.7975,2,908.97,496.625,0.0,36–50,False,False,False,False,False,False,False
+a8636cc2-6df1-45e7-9142-daf1a21618be,31.0,Female,North Jennifer,High,2023-01-04,1218.38,609.19,2,987.1,231.28,0.0,26–35,False,False,False,False,False,False,False
+105cb802-0866-4111-bd51-75f58598eb73,46.0,Male,Suzanneberg,Medium,2019-10-19,512.83,512.83,1,512.83,512.83,0.0,36–50,False,False,False,False,False,False,False
+7a63603b-38fb-4733-bb8c-c4faa632ab0d,41.0,Female,Johnmouth,Medium,2023-03-09,856.11,428.055,2,457.05,399.06,0.0,36–50,False,False,False,False,False,False,False
+cb5e4e77-f873-413d-9e16-c8922842d051,37.0,Male,Reidhaven,Low,2022-12-30,630.05,630.05,1,630.05,630.05,0.0,36–50,False,False,False,False,False,False,False
+1c0a6902-727d-4b3a-9019-ff8a4e6779cf,26.0,Male,North Rebeccafort,Medium,2024-05-12,158.95999999999998,79.47999999999999,2,129.92,29.04,0.0,26–35,False,False,False,False,False,False,False
+9af1e27c-d8ef-446d-a941-3991c0cff209,58.0,Female,South Randy,Low,2019-12-29,1630.44,815.22,2,986.14,644.3,0.0,51–65,False,False,False,False,False,False,False
+e793093a-6f6d-41c2-afd5-d0b6bb69aa99,44.0,Male,South Sally,Low,2021-11-03,1226.49,613.245,2,830.33,396.16,0.0,36–50,False,False,False,False,False,False,False
+24b043e8-6fca-4d86-95a8-837e0ca09072,46.0,Female,New Ann,High,2022-03-01,816.5899999999999,272.19666666666666,3,469.75,-100.0,0.0,36–50,False,False,False,False,False,False,False
+7df3505b-72cb-488c-8844-2f7f532d4db0,62.0,Female,New Jeffery,Low,2020-05-29,612.9100000000001,306.45500000000004,2,459.41,153.5,0.0,51–65,False,False,False,False,False,False,False
+0305625f-6264-4666-ad6c-ae34df05d0d8,32.0,Female,Port Annshire,Medium,2024-06-08,1756.63,585.5433333333334,3,822.97,111.14,0.0,26–35,False,False,False,False,False,False,False
+c579a416-2c8c-46df-ba08-e43e243bd136,58.0,Male,Alecside,High,2020-04-13,529.1,529.1,1,529.1,529.1,0.0,51–65,False,False,False,False,False,False,False
+c3f22991-8910-4823-86e4-8637520d3952,45.0,Male,Christopherburgh,,2019-10-15,1623.995,541.3316666666666,3,933.59,193.78,0.0,36–50,False,False,False,False,False,False,False
+4b489d2f-44a2-4d1c-9792-2e4d392d7d74,56.0,Female,West Jeffreystad,High,2020-05-09,986.35,986.35,1,986.35,986.35,0.0,51–65,False,False,False,False,False,False,False
+b69f9ff9-837b-4582-8187-1f2f28c6e2d2,20.0,Female,West Stevenfurt,,,324.11,324.11,1,324.11,324.11,0.0,19–25,False,False,False,False,False,False,False
+f3c5ed90-b092-407b-b79d-de8893ed319d,28.0,Female,East Antonio,High,2020-08-12,497.49,497.49,1,497.49,497.49,0.0,26–35,False,False,False,False,False,False,False
+c39db678-b47a-49d2-b569-2e45050d1e0a,33.0,Female,Taylorshire,Medium,2020-10-21,1299.78,649.89,2,972.35,327.43,0.0,26–35,False,False,False,False,False,False,False
+8c2a3b88-0071-441b-98ec-b521f10ccdca,52.0,Male,West Crystalbury,Medium,2020-10-06,783.87,391.935,2,756.36,27.51,0.0,51–65,False,False,False,False,False,False,False
+3ab99bb9-92d4-45c1-adfc-ec3eec038b87,28.0,Female,Port Robertland,High,2024-04-06,1630.77,815.385,2,882.53,748.24,0.0,26–35,False,False,False,False,False,False,False
+442035e0-e8f3-4958-b765-00181de92874,45.0,Male,Lindachester,,,88.36,88.36,1,88.36,88.36,0.0,36–50,False,False,False,False,False,False,False
+9243eebc-938f-480c-8564-16d503d250de,40.0,Female,Gomezview,High,2021-08-05,254.44,254.44,1,254.44,254.44,0.0,36–50,False,False,False,False,False,False,False
+9fdbee4b-8628-4a1d-ac7f-f210e1076709,45.0,Female,East Ariana,Medium,2020-11-03,1763.815,587.9383333333334,3,639.45,496.625,0.0,36–50,False,False,False,False,False,False,False
+fa34c74f-0db0-4879-9d53-d079f93b924d,29.0,Male,Timothyshire,Medium,,1470.3,735.15,2,973.75,496.55,0.0,26–35,False,False,False,False,False,False,False
+be43e8db-0b64-425e-b11d-c15f19659bc2,59.0,Male,Mariastad,Medium,2020-03-06,250.12,250.12,1,250.12,250.12,0.0,51–65,False,False,False,False,False,False,False
+32ea36b7-323e-451a-8b46-7c3540e03d4d,63.0,Male,East Traci,Low,2024-06-11,761.96,761.96,1,761.96,761.96,0.0,51–65,False,False,False,False,False,False,False
+b707539e-7eaf-4c76-8a2f-944b44eee698,65.0,Female,Wendymouth,Medium,2021-12-29,540.97,180.32333333333335,3,228.74,139.18,0.0,51–65,False,False,False,False,False,False,False
+1d623917-5083-4420-99bf-79b1816e881a,25.0,Female,Port Jonathan,Medium,2023-01-23,432.83,432.83,1,432.83,432.83,0.0,19–25,False,False,False,False,False,False,False
+a9658c6f-134f-421b-8b2e-fd4978c7a940,56.0,Male,Shawville,High,2020-07-01,480.89,480.89,1,480.89,480.89,0.0,51–65,False,False,False,False,False,False,False
+52eb500a-0511-4085-8e1b-b823b3fd5522,53.0,Female,Blankenshipport,High,2021-11-22,551.7,551.7,1,551.7,551.7,0.0,51–65,False,False,False,False,False,False,False
+18e0f708-ed9b-4902-ad9d-968209ce021b,70.0,Female,Davidstad,Low,2022-07-28,859.52,429.76,2,717.72,141.8,0.0,66+,False,False,False,False,False,False,False
+3fbd3807-6610-4588-aa7f-fba7baaf308e,45.0,Female,East James,High,2020-07-27,824.5,824.5,1,824.5,824.5,0.0,36–50,False,False,False,False,False,False,False
+ed89b7fb-0b0a-4e28-b086-538479d7cd24,18.0,Female,Acevedofort,Medium,2021-11-02,1880.66,626.8866666666667,3,880.88,331.85,0.0,≤18,False,False,False,False,False,False,False
+f3f8dda4-749f-4890-b326-8d71bc938f73,30.0,Male,Andersonside,Medium,2022-02-24,151.49,151.49,1,151.49,151.49,0.0,26–35,False,False,False,False,False,False,False
+13c73f2c-056e-40c6-a61f-97d5790c504a,26.0,Male,West Joshuaville,Medium,2024-05-22,796.7149999999999,398.3575,2,496.625,300.09,0.0,26–35,False,False,False,False,False,False,False
+c74dc709-15bb-4652-9930-1c5f5897bfe3,20.0,Female,Dawnmouth,High,2021-08-26,1188.715,396.2383333333334,3,553.61,138.48,0.0,19–25,False,False,False,False,False,False,False
+ea1d9b0e-9f4a-4105-aa9c-14308856de89,49.0,Female,West Virginiahaven,Low,2020-09-18,1191.8,595.9,2,952.98,238.82,0.0,36–50,False,False,False,False,False,False,False
+262adfc3-44ae-442d-a213-2d3eb9e668a3,18.0,Female,New Sean,High,2020-03-15,1557.635,519.2116666666667,3,872.45,188.56,0.0,≤18,False,False,False,False,False,False,False
+131e14c8-65bb-4559-9016-d0a0c4fc64e9,21.0,Male,West Tracyburgh,Low,2020-09-22,961.71,961.71,1,961.71,961.71,0.0,19–25,False,False,False,False,False,False,False
+9ed2792c-bffb-472f-9c11-61bb7203b01f,57.0,Female,Port Hannahfurt,,2019-08-28,84.72,84.72,1,84.72,84.72,0.0,51–65,False,False,False,False,False,False,False
+634e5e49-50a3-492e-9482-b2ff4820cd3e,52.0,Male,Carrieton,Medium,2024-02-29,238.12,238.12,1,238.12,238.12,0.0,51–65,False,False,False,False,False,False,False
+6d1c4d81-a5b5-49d0-b19b-821b2da6ad21,70.0,Female,Guerraside,Low,2023-03-02,524.13,524.13,1,524.13,524.13,0.0,66+,False,False,False,False,False,False,False
+0319aa2f-f571-4a05-8947-bd9c7e4ac2ee,54.0,Male,Michaelberg,High,2024-01-17,534.06,534.06,1,534.06,534.06,0.0,51–65,False,False,False,False,False,False,False
+c3ee84bb-f586-4e4f-9d43-48af820faf03,64.0,Male,Jaimeland,Medium,2022-04-03,778.56,389.28,2,512.77,265.79,0.0,51–65,False,False,False,False,False,False,False
+28c29c18-0cbe-40ea-b218-a96430cc4409,31.0,Female,South Kristen,High,2022-12-10,637.505,318.7525,2,496.625,140.88,0.0,26–35,False,False,False,False,False,False,False
+c19eaecc-f4b1-4c6b-adcf-d12795814955,28.0,Female,South Leonstad,Low,2023-07-12,22.87,22.87,1,22.87,22.87,0.0,26–35,False,False,False,False,False,False,False
+9f6760d0-6b6f-4ed5-88da-74787fcfa14b,45.0,Male,Jonesmouth,High,2021-09-28,714.93,714.93,1,714.93,714.93,0.0,36–50,False,False,False,False,False,False,False
+7120aefc-7d84-4981-b4ec-64e036fba72a,45.0,Female,Brownbury,,2023-10-01,530.33,265.165,2,491.62,38.71,0.0,36–50,False,False,False,False,False,False,False
+0ab0e741-f4ad-4d82-92c4-b5055b5c5549,26.0,Male,South Robertberg,,2019-07-14,801.36,400.68,2,562.98,238.38,0.0,26–35,False,False,False,False,False,False,False
+60978a24-9522-4d96-8eed-a1ddb6cede08,58.0,Male,New Christopher,,2024-04-25,1212.14,606.0699999999999,2,998.8,213.34,0.0,51–65,False,False,False,False,False,False,False
+e9cae5d3-0e6e-4f3d-95db-26bb00753913,45.0,Female,Marissatown,Medium,2021-10-16,228.48,228.48,1,228.48,228.48,0.0,36–50,False,False,False,False,False,False,False
+a319acae-e640-4d21-8215-b5b0eac9c64b,45.0,Male,East Samanthaburgh,High,2024-04-14,791.0,395.5,2,746.63,44.37,0.0,36–50,False,False,False,False,False,False,False
+939cf2d9-6764-404e-8ea8-ea5d283c3b8b,47.0,Female,East Jessicachester,High,2019-08-30,741.26,741.26,1,741.26,741.26,0.0,36–50,False,False,False,False,False,False,False
+167f3b4b-5ad6-4fe0-a51d-8f1c52cbee27,40.0,Female,South Tinaberg,Low,2021-02-11,71.07,71.07,1,71.07,71.07,0.0,36–50,False,False,False,False,False,False,False
+a64f3f8a-fcf3-4c3f-a8df-0abfbb05ac11,45.0,Female,Port David,Low,2023-06-27,555.51,277.755,2,452.29,103.22,0.0,36–50,False,False,False,False,False,False,False
+571620a3-d3b9-461c-8b8d-54ccfdfa1a49,37.0,Female,Hobbsburgh,High,2020-02-04,953.88,953.88,1,953.88,953.88,0.0,36–50,False,False,False,False,False,False,False
+99462720-beca-4890-852e-79d16990f055,41.0,Male,Jamesbury,Low,2022-03-27,1467.695,489.2316666666666,3,601.52,369.55,0.0,36–50,False,False,False,False,False,False,False
+8ee0d652-42be-43fa-940a-0489b7e73791,45.0,Female,East Jessica,Medium,2019-07-23,785.22,785.22,1,785.22,785.22,0.0,36–50,False,False,False,False,False,False,False
+499713c5-04d9-4f79-bd77-0d0e94208cd8,55.0,Male,Martinezview,High,2020-09-27,750.9499999999999,375.475,2,695.92,55.03,0.0,51–65,False,False,False,False,False,False,False
+ce17823d-388c-4b95-a747-f24fdef0ebe8,21.0,Female,Nataliemouth,,2020-09-18,789.3,789.3,1,789.3,789.3,0.0,19–25,False,False,False,False,False,False,False
+8743ef03-ec99-48dd-83d2-af2e56fd5ea7,36.0,Male,East Amy,Low,2022-06-19,117.17,117.17,1,117.17,117.17,0.0,36–50,False,False,False,False,False,False,False
+babddffd-9064-4f6d-99fa-0ca97adefb69,68.0,Male,North Donnafurt,High,2020-06-22,446.48,223.24,2,414.51,31.97,0.0,66+,False,False,False,False,False,False,False
+f50cdd04-dc3c-4259-aa56-ffbb357e0731,66.0,Male,Justinview,Medium,2020-11-04,528.73,528.73,1,528.73,528.73,0.0,66+,False,False,False,False,False,False,False
+bf516307-fb1c-4d71-9348-23cbc39d8eae,65.0,Female,Aliciachester,Low,2023-03-02,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+62a5ff3a-beb7-4c13-9c36-b5655a9f05b0,21.0,Male,North Heathershire,,2020-09-23,409.5,204.75,2,218.07,191.43,0.0,19–25,False,False,False,False,False,False,False
+321adc94-8a35-4998-bc17-0cacc00988f4,28.0,Female,West Amyland,Low,2021-03-29,993.25,496.625,2,496.625,496.625,0.0,26–35,False,False,False,False,False,False,False
+4e5864a3-6386-4d03-a1db-1e24f50e0128,50.0,Male,South Williammouth,High,2020-06-11,202.5,202.5,1,202.5,202.5,0.0,36–50,False,False,False,False,False,False,False
+bc75ec72-1e92-4d14-abe8-e47e8330def7,37.0,Female,Lake Julie,Medium,2021-02-15,659.34,659.34,1,659.34,659.34,0.0,36–50,False,False,False,False,False,False,False
+e4785a5c-a70a-4db0-98d5-1d76175c4a94,66.0,Female,Christopherport,Low,2021-07-01,1372.4299999999998,686.2149999999999,2,726.52,645.91,0.0,66+,False,False,False,False,False,False,False
+609434d3-ad06-4c8a-ac6b-ac61f71516e3,19.0,Male,Sanchezchester,Medium,2020-10-07,1581.01,790.505,2,998.28,582.73,0.0,19–25,False,False,False,False,False,False,False
+48dda5f7-bde2-4df3-9493-d13b38f67d6a,47.0,Female,Ericstad,Medium,2020-10-01,863.7,863.7,1,863.7,863.7,0.0,36–50,False,False,False,False,False,False,False
+0ade20e2-a4ff-40d2-b1b2-b8a04ee94c35,45.0,Female,South Michael,Medium,2023-11-22,1639.1999999999998,819.5999999999999,2,844.28,794.92,0.0,36–50,False,False,False,False,False,False,False
+cfd54725-4901-4a70-862f-2da2113346cd,34.0,Female,Danielfurt,High,2022-06-09,156.93,156.93,1,156.93,156.93,0.0,26–35,False,False,False,False,False,False,False
+800ad6ce-e283-4fd1-9974-e07577f1aa82,20.0,Male,Robinsonview,,2020-07-14,838.43,838.43,1,838.43,838.43,0.0,19–25,False,False,False,False,False,False,False
+89480374-82ec-44e5-ae61-bbed82bfd5b1,36.0,Female,North Debrastad,Low,2020-11-30,0.0,0.0,1,0.0,0.0,0.0,36–50,False,False,False,False,False,False,False
+f35c6e3f-2fac-4b7a-b713-863a0a37160c,21.0,Female,Port Natashaview,Low,2022-08-20,-100.0,-100.0,1,-100.0,-100.0,0.0,19–25,False,False,False,False,False,False,False
+fd24b1c5-a6ec-480a-b127-7354bce6e545,47.0,Male,Jacquelineview,Medium,2021-06-07,378.63,378.63,1,378.63,378.63,0.0,36–50,False,False,False,False,False,False,False
+d386662a-c1e2-4d7b-b6fc-ac6a9fbe4850,23.0,Male,North Jennifer,Low,2024-04-21,668.15,668.15,1,668.15,668.15,0.0,19–25,False,False,False,False,False,False,False
+e492b3f7-f74b-4ac1-9d04-2cfc9d9afc43,25.0,Male,West Jessica,Medium,2019-12-16,407.7000000000001,203.85,2,386.22,21.48,0.0,19–25,False,False,False,False,False,False,False
+ea2b290a-2a6a-4b85-8122-6af4345c0503,23.0,Female,Smithfurt,Medium,2020-02-14,152.32,152.32,1,152.32,152.32,0.0,19–25,False,False,False,False,False,False,False
+084a89ee-5eee-48c0-b30b-53da89258015,45.0,Male,East Nicholaston,Low,2023-01-13,232.63,232.63,1,232.63,232.63,0.0,36–50,False,False,False,False,False,False,False
+92d8fe98-faee-46c1-9fb3-b860fe226236,52.0,Female,New Jessicaborough,High,2022-09-15,281.45,140.725,2,262.3,19.15,0.0,51–65,False,False,False,False,False,False,False
+c98edfc3-4819-4b2b-9af8-281ada990517,34.0,Male,Francesstad,Low,2020-07-26,1672.79,836.395,2,950.76,722.03,0.0,26–35,False,False,False,False,False,False,False
+6b63bf58-e948-4fc5-aa41-727f7c044c97,45.0,Female,West Ashley,Low,2023-12-14,208.08,208.08,1,208.08,208.08,0.0,36–50,False,False,False,False,False,False,False
+3cdced98-055c-4037-a0a5-5f01cbc707b9,58.0,Female,New Anthony,Medium,2023-12-10,188.02,188.02,1,188.02,188.02,0.0,51–65,False,False,False,False,False,False,False
+1f0f2c2d-eb0a-4ffb-a21a-684f892bd7fd,59.0,Female,Vegafort,High,2022-04-28,673.93,673.93,1,673.93,673.93,0.0,51–65,False,False,False,False,False,False,False
+9eead230-c70b-473b-a234-7002688b42b6,64.0,Male,North Brian,High,2019-12-28,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+db9c2206-4487-47e9-8fb0-0ddc81b7310c,45.0,Male,Stacyshire,Medium,2019-12-25,134.67,134.67,1,134.67,134.67,0.0,36–50,False,False,False,False,False,False,False
+83355281-fda3-4776-9f9d-a812243c3b56,31.0,Female,Ashleychester,Medium,2024-04-15,745.3,745.3,1,745.3,745.3,0.0,26–35,False,False,False,False,False,False,False
+bb07fa4a-8680-4b77-b1ad-5d2f67570252,52.0,Male,Port Davidtown,High,2020-11-06,351.38,351.38,1,351.38,351.38,0.0,51–65,False,False,False,False,False,False,False
+29436bcf-d6f8-44d1-a856-0794abb562ab,68.0,Female,New Fred,Low,,1734.92,867.46,2,895.22,839.7,0.0,66+,False,False,False,False,False,False,False
+1e9e7dcb-e612-46d3-bae6-0c2f47fa0220,44.0,Female,Brianmouth,Medium,,496.625,496.625,1,496.625,496.625,0.0,36–50,False,False,False,False,False,False,False
+835384f5-c976-481d-8961-cc827dc62c6b,60.0,Male,Stricklandport,High,2023-09-30,257.69,257.69,1,257.69,257.69,0.0,51–65,False,False,False,False,False,False,False
+6b2f8f03-ab9e-48a6-a07e-10e794b04fe0,,Male,Lake Karen,Low,2023-04-04,1318.55,659.275,2,764.04,554.51,0.0,,False,False,False,False,False,False,False
+890f10ce-36f6-4993-9a2e-a00dfdf01609,33.0,Female,Denisehaven,Low,,741.03,741.03,1,741.03,741.03,0.0,26–35,False,False,False,False,False,False,False
+76c1d696-0f1c-44b5-b749-8859545658eb,34.0,Female,South Frankside,High,2020-05-14,886.8,886.8,1,886.8,886.8,0.0,26–35,False,False,False,False,False,False,False
+48313b18-ccdb-4946-b958-1ebfc92dcc2a,59.0,Male,South Andrea,High,2020-02-26,496.625,496.625,1,496.625,496.625,0.0,51–65,False,False,False,False,False,False,False
+7eb7f7df-9b0a-416a-829e-bcf4d8bd57dc,55.0,Male,New Anthonyland,High,2022-07-23,173.14,57.71333333333333,3,237.09,-100.0,0.0,51–65,False,False,False,False,False,False,False
+ce5cf079-859b-43fa-9609-c6bb7e12c6b7,41.0,Female,Adrianhaven,Low,2024-01-10,1425.56,475.18666666666667,3,772.67,100.19,0.0,36–50,False,False,False,False,False,False,False
