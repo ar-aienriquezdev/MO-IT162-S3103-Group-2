@@ -146,9 +146,3 @@ What it produces:
   - ADF test for trend stationarity + monthly plot
 - **Portable & reproducible** notebooks (no personal paths; OS-agnostic resolution)
 
----
-
-## Next Steps (beyond Milestone 2)
-
-- Add narrative markdown around the most relevant insights.
-- Tie selected features/insights to candidate modeling approaches for Milestone 3.
