@@ -1,8 +1,0 @@
-column,outliers,lower,upper
-num_transactions,41,-0.5,3.5
-total_spent,36,-536.4725000000001,1985.5875
-age,13,-3.0,93.0
-avg_spent,0,-215.07500000000005,1203.345
-max_transaction,0,-269.1049999999999,1476.0149999999999
-min_transaction,0,-484.58124999999995,1267.88875
-engagement_score,0,0.0,0.0
